@@ -27,8 +27,24 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 News
 ----
 
-  - PC Member of the 2013 International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2013](http://trust.csu.edu.cn/conference/TrustData2013/Call_for_Papers.htm)), Zhangjiajie, China, November 13-15, 2013. Deadline for submissions: June 15, 2013
-  - Our WWW2012 work [SWiPE: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in several languages
-  - [Math/CS Department](http://dipartimenti.unica.it/matematicaeinformatica), [University of Cagliari](http://unica.it) ([Sardinia](http://en.wikipedia.org/wiki/Sardinia), Italy)
+- PC Member of the 2013 International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2013](http://trust.csu.edu.cn/conference/TrustData2013/Call_for_Papers.htm)), Zhangjiajie, China, November 13-15, 2013. Deadline for submissions: June 15, 2013
+- Our WWW2012 work [SWiPE: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in several languages
+- [Math/CS Department](http://dipartimenti.unica.it/matematicaeinformatica), [University of Cagliari](http://unica.it) ([Sardinia](http://en.wikipedia.org/wiki/Sardinia), Italy)
+
+Teaching
+--------
+[Computer Science @ Unica](http://informatica.unica.it/)
+Students can join the PR2 course at the [course page in Moodle](http://moodle.unica.it/course/view.php?id=51)
+- [Programmazione II - Object-Oriented Programming](http://informatica.unica.it/index.php?section=course&amp;id=79) (since A.A. 2010/11)
+
+Publications
+------------
+An updated list of my publications can be found at [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/n-tree/a/Atzori:Maurizio.html), as reported in the Computer Science Bibliography maintained by Michael Ley.
+
+Another source is the [Research Catalog of the University of Cagliari](http://anagrafericerca.unica.it/anagrafe/it/risultati_prodotti.wp?tipo=RIC_PROD&id=RIC86316&new=1)
+
+
+
+
 
 
