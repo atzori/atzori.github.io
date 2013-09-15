@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: home
 title: Maurizio Atzori Home Page
 ---
-
-Welcome to Maurizio Atzori's Home
-=================================
 
 Short CV
 --------
