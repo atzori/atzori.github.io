@@ -77,33 +77,37 @@ Data analysis of Click Streams
 Attended PhD Courses
 --------------------
 
-[Security and Cooperation in Wireless Networks][bertinoro06]
+- [Security and Cooperation in Wireless Networks][bertinoro06]
 Prof. J.P. Hubaux, EPFL, Switzerland.
-
-[Privacy in Wireless Networks][bertinoro06]
+- [Privacy in Wireless Networks][bertinoro06]
 Prof. G. Tsudik, University California Irvine, CA, U.S.A.
-
-[Search Engines and Question Answering](http://medialab.di.unipi.it/web/Search+QA/)
+- [Search Engines and Question Answering](http://medialab.di.unipi.it/web/Search+QA/)
 Prof. G. Attardi, University of Pisa, Italy.
-
-[Economic and Game-Theoretic Aspects of Information Systems][lipari]
+- [Economic and Game-Theoretic Aspects of Information Systems][lipari]
 Prof. C. Papadimitriou, University of California, Berkeley, U.S.A.
-
-[Authoritative Sources in a Hyperlinked Environment][lipari]
+- [Authoritative Sources in a Hyperlinked Environment][lipari]
 Prof. P. Raghavan, Verity and Stanford University.
-
-[Search and Data Mining in the Internet][lipari]
+- [Search and Data Mining in the Internet][lipari]
 Prof. A. Broder, IBM Research.
-
-[From Data Mining to Relational Data Mining]()
+- [From Data Mining to Relational Data Mining]()
 Prof. S. Dzeroski, Department of Intelligent Systems, Jozef Stefan Institute, Slovenia.
-
-[Some Computational Aspects of Geoinformatics](http://www.di.unipi.it/~confor/worboys/)
+- [Some Computational Aspects of Geoinformatics](http://www.di.unipi.it/~confor/worboys/)
 Prof. M. Worboys, Department of Spatial Information Engineering, University of Maine, U.S.A.
-
-[Data Compression of Massive ](http://roquefort.di.unipi.it/~ferrax/Teach/Compr-Index-Massive.html)
+- [Data Compression of Massive ](http://roquefort.di.unipi.it/~ferrax/Teach/Compr-Index-Massive.html)
 Prof. P. Ferragina, University of Pisa, Italy.
 
 [lipari]: http://lipari.cs.unict.it/lipari/previousedition/edition2003.htm
 [bertinoro06]: http://www.dsi.uniroma1.it/~swing06/
+
+
+Advisor
+-------
+This list is not up-to-date.
+
+[Simone Loru](http://riemann.unica.it/~atzori/)'s Bachelor Degree _AndroidLogin: an Android-based login system_ (Apr 2011)
+[Michela Piotti]()'s Master Degree _Abductive Techniques for Classification_(University of Pisa, July 2005)
+[Davide Carfi](http://it.linkedin.com/in/carfi)'s Bachelor Degree _Tools for Privacy Preserving Data Mining_ (CNR, July 2005)
+[Romeo Zitarosa](http://it.linkedin.com/in/romeozitarosa)'s Bachelor Degree _Development of an Online Data Mining Algorithm for Association Rules Extraction_ (University of Pisa, Feb 2005)
+[Daniele Sgandurra](http://www.di.unipi.it/~daniele/)'s Bachelor Degree _Development of Tools for Privacy Preserving Distributed Data Mining_ (CNR, July 2004)
+
 
