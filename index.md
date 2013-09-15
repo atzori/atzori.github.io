@@ -191,14 +191,6 @@ In Cooperation with IEEE ICDM 2012 (PC member since SSTDM-08)
 <a href="http://www.db.unibas.it/SEBD2011">SEBD2011</a>
 <!-- (list not updated). -->
 
-
-
-
-
-
-
-
-
 Links
 -----
 
@@ -223,5 +215,3 @@ Resources
 - [Unix Utils for Windows](http://unxutils.sourceforge.net/) - *nix commands porting to Windows
 - [Shared Wi-Fi with iMac](http://discussions.apple.com/message.jspa?messageID=10855198) - How to share an internet connection from iMac to PC using Wi-Fi
 - [Wiki in 20 minutes](http://showmedo.com/videotutorials/video?name=1100000&fromSeriesID=110) - How to create a wiki site with Django (by [Siddharta Govindaraj](http://siddhi.blogspot.com/))
-
-
