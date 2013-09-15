@@ -23,7 +23,7 @@ at the <a href="http://www.di.unipi.it/galilei/">School for
 Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 News
-====
+----
 
 - PC Member of the 2013 International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2013](http://trust.csu.edu.cn/conference/TrustData2013/Call_for_Papers.htm)), Zhangjiajie, China, November 13-15, 2013. Deadline for submissions: June 15, 2013
 - Our WWW2012 work [SWiPE: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in several languages
