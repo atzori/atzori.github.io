@@ -196,4 +196,5 @@ Links
 - [PhD Comics](http://www.phdcomics.com/comics/comics.php)
 - [Internet Laws](http://www.iusmentis.com/) - to explain the law to techies, and tech to laywers
 - [PPDM reviews](http://www.cs.umbc.edu/~kunliu1/research/privacy_review.html) - Privacy Preserving Data Mining Bibliography (also [wiki](http://www.umbc.edu/ddm/wiki/index.php/Privacy_Preserving_Data_Mining_Bibliography))
-
+- [Compute Collaboration Distance](http://www.ams.org/mathscinet/collaborationDistance.html) - My Erdös Number (collaboration distance with Paul Erdös) is 4 (via Prof. C. Zaniolo)
+- [Il colloquio di lavoro](http://www.valigiablu.it/doc/760/non-sono-coraggiosa-sono-sarda-e-dico-no-a-questi-signori-tristi.htm) - by Valeria Gentile
