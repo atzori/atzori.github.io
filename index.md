@@ -140,7 +140,10 @@ Data Mining and Knowledge Discovery Journal (<a>DAMI</a>),
 International Journal of Geographical Information Science (<a>IJGIS</a>),
 Transactions on Data Privacy (<a>TDP</a>),
 Journal of Computer Science and Technology (<a>JCST</a>),
-Information Sciences (<a href="http://www.journals.elsevier.com/information-sciences/">IS</a>).
+Information Sciences (<a href="http://www.journals.elsevier.com/information-sciences/">IS</a>),
+Information Processing &amp; Management (<a>IPM</a>).
+
+
 
 - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics
 
