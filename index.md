@@ -166,13 +166,13 @@ In Cooperation with IEEE ICDM 2012 (PC member since SSTDM-08)
 - Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
 
 - Served as Reviewer for a number of international conferences and workshops, including:
-<a href="http://www-aiia2003.di.unipi.it/aiia2003/index-eng.html">AI*IA03</a>,
+<a href="http://www-aiia2003.di.unipi.it/aiia2003/index-eng.html">AI&#42;IA03</a>,
 <a href="http://www.unica.it/SEBD/index.htm">SEBD04</a>, 
 <a href="http://ecmlpkdd.isti.cnr.it/">ECML04 and PKDD04</a>, 
 <a href="http://www.di.uniba.it/iea-aie/">IEA-AIE05</a>, 
 <a href="http://www.siam.org/meetings/sdm04/body.htm">SIAM DM05</a>,
 <a href="http://www.jaist.ac.jp/PAKDD-05/">PAKDD05</a>,
-<a href="http://aiia2005.disco.unimib.it/">AI*IA05</a>,
+<a href="http://aiia2005.disco.unimib.it/">AI&#42;IA05</a>,
 <a href="http://ecmlpkdd05.liacc.up.pt/">ECML05 and PKDD05</a>,
 <a href="http://www.cacs.louisiana.edu/~icdm05/">ICDM05</a>,
 <a href="http://itee.uq.edu.au/~adma05/">ADMA05</a>, 
