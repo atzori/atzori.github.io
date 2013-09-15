@@ -45,6 +45,65 @@ Another source is the [Research Catalog of the University of Cagliari](http://an
 
 
 
+Projects
+--------
+
+- [U-DID]()
+PI of project Unstructured Data Integration for Dataspaces (Math/CS
+Dept., University of Cagliari)
+
+- [DIVA](http://kdd.isti.cnr.it/project/diva)
+A predictive system aimed at fighting against tax evasion in VAT domain
+
+- [KDubiq](http://www.kdubiq.org/kdubiq/control/research_areas#wg5)
+Ubiquitous Knowledge Discovery (WG5: Privacy and Security)
+
+- [GeoPKDD](http://www.geopkdd.eu/)
+Geographic Privacy-aware Knowledge Discovery and Delivery
+
+- [GeoPKDD.it](http://geopkdd.di.unipi.it/)
+Italian Project on Geographic Privacy-aware Knowledge Discovery and Delivery (MIUR COFIN2004)
+
+- [P3D - Privacy Preserving Pattern Discovery](http://www-kdd.isti.cnr.it/p3d/)
+A "Curiosity Driven and Independent Research" ISTI Internal Project
+
+- [KDDML-MQL](http://kdd.di.unipi.it/kddml/)
+Knowledge Discovery in Databases Markup Language
+
+- [ClickWorld]()
+Data analysis of Click Streams
 
 
+Attended PhD Courses
+--------------------
+
+[Security and Cooperation in Wireless Networks][bertinoro06]
+Prof. J.P. Hubaux, EPFL, Switzerland.
+
+[Privacy in Wireless Networks][bertinoro06]
+Prof. G. Tsudik, University California Irvine, CA, U.S.A.
+
+[Search Engines and Question Answering](http://medialab.di.unipi.it/web/Search+QA/)
+Prof. G. Attardi, University of Pisa, Italy.
+
+[Economic and Game-Theoretic Aspects of Information Systems][lipari]
+Prof. C. Papadimitriou, University of California, Berkeley, U.S.A.
+
+[Authoritative Sources in a Hyperlinked Environment][lipari]
+Prof. P. Raghavan, Verity and Stanford University.
+
+[Search and Data Mining in the Internet][lipari]
+Prof. A. Broder, IBM Research.
+
+[From Data Mining to Relational Data Mining]()
+Prof. S. Dzeroski, Department of Intelligent Systems, Jozef Stefan Institute, Slovenia.
+
+[Some Computational Aspects of Geoinformatics](http://www.di.unipi.it/~confor/worboys/)
+Prof. M. Worboys, Department of Spatial Information Engineering, University of Maine, U.S.A.
+
+[Data Compression of Massive ](http://roquefort.di.unipi.it/~ferrax/Teach/Compr-Index-Massive.html)
+Prof. P. Ferragina, University of Pisa, Italy.
+
+[lipari]: http://lipari.cs.unict.it/lipari/previousedition/edition2003.htm
+[bertinoro06]: http://www.dsi.uniroma1.it/~swing06/
 
