@@ -189,3 +189,11 @@ In Cooperation with IEEE ICDM 2012 (PC member since SSTDM-08)
 <a href="http://www.db.unibas.it/SEBD2011">SEBD2011</a>
 <!-- (list not updated). -->
 
+Links
+-----
+
+- [CS Department of Purdue University](http://maps.google.com/maps?q=west+lafayette,+indiana&ll=40.427169,-86.916136&spn=0.003740,0.007522&t=k&hl=en) - Thanks to Google Maps!
+- [PhD Comics](http://www.phdcomics.com/comics/comics.php)
+- [Internet Laws](http://www.iusmentis.com/) - to explain the law to techies, and tech to laywers
+- [PPDM reviews](http://www.cs.umbc.edu/~kunliu1/research/privacy_review.html) - Privacy Preserving Data Mining Bibliography (also [wiki](http://www.umbc.edu/ddm/wiki/index.php/Privacy_Preserving_Data_Mining_Bibliography))
+
