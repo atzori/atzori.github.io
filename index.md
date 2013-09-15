@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Maurizio Atzori Home Page
 ---
 
