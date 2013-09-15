@@ -23,18 +23,20 @@ at the <a href="http://www.di.unipi.it/galilei/">School for
 Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 News
-----
+====
 
 - PC Member of the 2013 International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2013](http://trust.csu.edu.cn/conference/TrustData2013/Call_for_Papers.htm)), Zhangjiajie, China, November 13-15, 2013. Deadline for submissions: June 15, 2013
 - Our WWW2012 work [SWiPE: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in several languages
 - [Math/CS Department](http://dipartimenti.unica.it/matematicaeinformatica), [University of Cagliari](http://unica.it) ([Sardinia](http://en.wikipedia.org/wiki/Sardinia), Italy)
 
+<a id="teaching"/>
 Teaching
 --------
 [Computer Science @ Unica](http://informatica.unica.it/)
 Students can join the PR2 course at the [course page in Moodle](http://moodle.unica.it/course/view.php?id=51)
 - [Programmazione II - Object-Oriented Programming](http://informatica.unica.it/index.php?section=course&amp;id=79) (since A.A. 2010/11)
 
+<a id="publications"/>
 Publications
 ------------
 An updated list of my publications can be found at [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/n-tree/a/Atzori:Maurizio.html), as reported in the Computer Science Bibliography maintained by Michael Ley.
@@ -108,7 +110,7 @@ This list is not up-to-date.
 [Romeo Zitarosa](http://it.linkedin.com/in/romeozitarosa)'s Bachelor Degree _Development of an Online Data Mining Algorithm for Association Rules Extraction_ (University of Pisa, Feb 2005)
 [Daniele Sgandurra](http://www.di.unipi.it/~daniele/)'s Bachelor Degree _Development of Tools for Privacy Preserving Distributed Data Mining_ (CNR, July 2004)
 
-
+<a id="software"/>
 Software
 --------
 - [Java Privacy-Preserving Pattern Discovery Package (jp3d)](http://www.cnr.it/istituti/Istituto_Progetti.html?cds=074&id=1029&anno=2006)
@@ -122,6 +124,7 @@ An open source ANSI C/C++ library of functions and protocols useful to exchange 
 
 I am also developing a number of other applications in the fields of abduction, data privacy, and data mining. I planned to publish them here as soon as the documentation is ready. If you need details on experiments on my papers or software published here, please feel free to [email me](mailto:atzori@unica.it).
 
+<a id="activities"/>
 Scientific Activities
 ---------------------
 
@@ -189,6 +192,7 @@ In Cooperation with IEEE ICDM 2012 (PC member since SSTDM-08)
 <a href="http://www.db.unibas.it/SEBD2011">SEBD2011</a>
 <!-- (list not updated). -->
 
+<a id="links"/>
 Links
 -----
 
