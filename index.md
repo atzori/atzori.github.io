@@ -33,15 +33,18 @@ News
 Teaching
 --------
 [Computer Science @ Unica](http://informatica.unica.it/)
+
 Students can join the PR2 course at the [course page in Moodle](http://moodle.unica.it/course/view.php?id=51)
+
 - [Programmazione II - Object-Oriented Programming](http://informatica.unica.it/index.php?section=course&amp;id=79) (since A.A. 2010/11)
 
 <a id="publications"/>
 Publications
 ------------
+
 An updated list of my publications can be found at [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/n-tree/a/Atzori:Maurizio.html), as reported in the Computer Science Bibliography maintained by Michael Ley.
 
-Another source is the [Research Catalog of the University of Cagliari](http://anagrafericerca.unica.it/anagrafe/it/risultati_prodotti.wp?tipo=RIC_PROD&id=RIC86316&new=1)
+Another source is the [Research Catalog of the University of Cagliari](http://anagrafericerca.unica.it/anagrafe/it/risultati_prodotti.wp?tipo=RIC_PROD&id=RIC86316&new=1).
 
 
 
