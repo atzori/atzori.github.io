@@ -111,3 +111,16 @@ This list is not up-to-date.
 [Daniele Sgandurra](http://www.di.unipi.it/~daniele/)'s Bachelor Degree _Development of Tools for Privacy Preserving Distributed Data Mining_ (CNR, July 2004)
 
 
+Software
+--------
+- [Java Privacy-Preserving Pattern Discovery Package (jp3d)](http://www.cnr.it/istituti/Istituto_Progetti.html?cds=074&id=1029&anno=2006)
+A pure java package for privacy-preserving pattern discovery. MathCollection, an extension for the Java Collection Framework by Dietmar Lippold, is required. See CNR description for further details.
+
+- [k-Privacy](http://www.cnr.it/istituti/Istituto_Progetti.html?cds=074&id=1015&anno=2006)
+A pure java application for table anonymization through k-anonymity generalization and suppression. It has both console and graphical user interface. Joint work with Davide Carfi. See CNR description for further details.
+
+- [Privacy-Preserving Distributed Data Mining Library (PPDDM-Lib)](http://www.di.unipi.it/~atzori/downloads/PPDDM-lib.zip)
+An open source ANSI C/C++ library of functions and protocols useful to exchange sensible information while computing Data Mining Models from several servers, as described in Clifton et al., 2003. The OpenSSL Toolkit is required. Joint work with Daniele Sgandurra, developed at ISTI-CNR, Pisa.
+
+I am also developing a number of other applications in the fields of abduction, data privacy, and data mining. I planned to publish them here as soon as the documentation is ready. If you need details on experiments on my papers or software published here, please feel free to [email me](mailto:atzori@unica.it).
+
