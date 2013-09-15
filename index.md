@@ -124,4 +124,21 @@ An open source ANSI C/C++ library of functions and protocols useful to exchange 
 
 I am also developing a number of other applications in the fields of abduction, data privacy, and data mining. I planned to publish them here as soon as the documentation is ready. If you need details on experiments on my papers or software published here, please feel free to [email me](mailto:atzori@unica.it).
 
+Scientific Activities
+---------------------
+
+- Serving as Reviewer for the following major database and data mining international journals:
+ACM Transactions on Database Systems (<a>TODS</a>), 
+IEEE Transactions on Knowledge and Data Engineering (<a>TKDE</a>), 
+The International Journal on Very Large Data Bases (<a>VLDB Journal</a>),
+ACM Transactions on the Web (<a>TWEB</a>),
+International Journal on Data and Knowledge Engineering (<a>DKE</a>),
+International Journal on Knowledge and Information Systems (<a>KAIS</a>), 
+Data Mining and Knowledge Discovery Journal (<a>DAMI</a>), 
+International Journal of Geographical Information Science (<a>IJGIS</a>),
+Transactions on Data Privacy (<a>TDP</a>),
+Journal of Computer Science and Technology (<a>JCST</a>),
+Information Sciences (<a href="http://www.journals.elsevier.com/information-sciences/">IS</a>),
+Information Processing &amp; Management (<a>IPM</a>).
+
 
