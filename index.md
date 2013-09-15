@@ -211,7 +211,7 @@ Resources
 - [Portable Apps](http://portableapps.com/) - Free software that you can use from an USB Pen
 - [Dataset](http://kevinchai.net/datasets) - a list of useful datasets for text mining, including [CAW2](http://caw2.barcelonamedia.org/node/7) data
 - [P3P Online Privacy Policy Generator](http://www.p3pprivacy.com/) - It's free and easy to use!
-- [Unix Utils for Windows](http://unxutils.sourceforge.net/) - *nix commands porting to Windows
+- [Unix Utils for Windows](http://unxutils.sourceforge.net/) - &#42;nix commands porting to Windows
 - [Shared Wi-Fi with iMac](http://discussions.apple.com/message.jspa?messageID=10855198) - How to share an internet connection from iMac to PC using Wi-Fi
 - [Wiki in 20 minutes](http://showmedo.com/videotutorials/video?name=1100000&amp;fromSeriesID=110) - How to create a wiki site with Django (by [Siddharta Govindaraj](http://siddhi.blogspot.com/))
 
