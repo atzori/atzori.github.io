@@ -17,12 +17,3 @@ He has been visiting resercher working with Prof. [Yucel Saygin](http://people.s
 Since December 2010 he is _Assistant Professor_ (Ricercatore Universitario, Professore Aggregato) at the [Department of Mathematics and Computer Science](http://dipartimenti.unica.it/matematicaeinformatica/) of the [University of Cagliari](http://www.unica.it) (Italy).
 His major research interests regard database and dataspaces, data integration, data mining and privacy-preserving algorithms for data management.
 
-
-Other
------
-<!--- He discussed a thesis on Decision Trees and Abduction,
-about the use of abductive inference with decision trees in the
-context of classification.--> <!--- Since 2003 he is a <a href=
-"http://www.di.unipi.it/phd/">PhD student in Computer Science</a>
-at the <a href="http://www.di.unipi.it/galilei/">School for
-Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
