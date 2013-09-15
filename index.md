@@ -148,3 +148,22 @@ Information Processing &amp; Management (<a>IPM</a>).
 - Program Committee member (PC Member) of the 21th Italian Symposium on Advanced Database Systems (SEBD2013)
 
 - PC Member of Security &amp; Network Technologies Track of the <a href="http://ciia2013.lewebpro.net/">4th International Conference on Computer Science and Its Applications</a> (CIIA 2013)
+
+- PC Member of the International Workshop on Privacy and Anonymity in the Information Society (PAIS 2013), in conjunction with EDBT/ICDT (in the PC since its first edition in 2008)
+
+- Program Committee member (PC Member) of the International Workshop on Spatial and Spatiotemporal Data Mining (SSTDM-12)
+In Cooperation with IEEE ICDM 2012 (PC member since SSTDM-08)
+
+- Program Committee member (PC Member) of the 19th Italian Symposium on Advanced Database Systems (SEBD2011)
+
+- Scientific Committee member of the First International Workshop on Mobility, Data Mining and Privacy Preserving anonymity in geographically referenced data, at the headquarter of the Italian Privacy Authority, Rome, 14 February 2008
+
+- Program Committee member (PC Member) of the Second ACM SIGKDD Workshop on Privacy, Security, and Trust in KDD (PinKDD'08), joint with ACM SIGKDD 2008
+- Organizing Committee and Publicity Chair of the 2008 IEEE International Conference on Data Mining (ICDM08)
+- PC Member of the 19th Brazilian Symposium on Artificial Intelligence (SBIA 2008)
+- PC Member of the IADIS European Conference on Data Mining 2008 (MCCSIS-DM08)
+<!-- PC Member of the First International Workshop on Privacy and Anonymity in the Information Society (PAIS 2008), in conjunction with EDBT08 -->
+- PC member of the First ACM SIGKDD Workshop on Privacy, Security, and Trust in KDD (PinKDD'07), joint with ACM SIGKDD 2007
+
+- Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
+
