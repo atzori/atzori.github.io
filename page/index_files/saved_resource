@@ -1,0 +1,37 @@
+.post-tags {
+	margin-top:-33px;
+	margin-left:70px;
+}
+
+div.sharedaddy {
+	margin-bottom:20px;
+}
+
+div.sharedaddy .sd-content {
+	float:left;
+}
+
+div.sharedaddy div.sd-block {
+	border-top:none!important;
+}
+
+.post-content .twitter-tweet-rendered {
+	max-width:100%!important;
+}
+
+@media only screen and (min-width : 900px) {
+	.site-description {
+		width:140px;
+	}
+}
+
+#main .twt-tweet .avatar img,#main .twt-border {
+	border-radius:0!important;
+	-moz-border-radius:0!important;
+	-webkit-border-radius:0!important;
+	-o-border-radius:0!important;
+}
+
+.home #recent-posts-3 {
+	display:none;
+}
