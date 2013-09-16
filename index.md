@@ -36,7 +36,7 @@ Teaching
 
 Students can join the PR2 course at the [course page in Moodle](http://moodle.unica.it/course/view.php?id=51)
 
-- [Programmazione II - Object-Oriented Programming](http://informatica.unica.it/index.php?section=course&amp;id=79) (since A.A. 2010/11)
+- [Programmazione II - Object-Oriented Programming](http://informatica.unica.it/index.php?section=course&id=79) (since A.A. 2010/11)
 
 <a id="publications"/>
 Publications
@@ -219,5 +219,5 @@ Resources
 - [P3P Online Privacy Policy Generator](http://www.p3pprivacy.com/) - It's free and easy to use!
 - [Unix Utils for Windows](http://unxutils.sourceforge.net/) - &#42;nix commands porting to Windows
 - [Shared Wi-Fi with iMac](http://discussions.apple.com/message.jspa?messageID=10855198) - How to share an internet connection from iMac to PC using Wi-Fi
-- [Wiki in 20 minutes](http://showmedo.com/videotutorials/video?name=1100000&amp;fromSeriesID=110) - How to create a wiki site with Django (by [Siddharta Govindaraj](http://siddhi.blogspot.com/))
+- [Wiki in 20 minutes](http://showmedo.com/videotutorials/video?name=1100000&fromSeriesID=110) - How to create a wiki site with Django (by [Siddharta Govindaraj](http://siddhi.blogspot.com/))
 
