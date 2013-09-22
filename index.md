@@ -125,11 +125,11 @@ Advisor
 -------
 This list is not up-to-date.
 
-[Simone Loru](http://riemann.unica.it/~atzori/)'s Bachelor Degree _AndroidLogin: an Android-based login system_ (Apr 2011)
-[Michela Piotti]()'s Master Degree _Abductive Techniques for Classification_(University of Pisa, July 2005)
-[Davide Carfi](http://it.linkedin.com/in/carfi)'s Bachelor Degree _Tools for Privacy Preserving Data Mining_ (CNR, July 2005)
-[Romeo Zitarosa](http://it.linkedin.com/in/romeozitarosa)'s Bachelor Degree _Development of an Online Data Mining Algorithm for Association Rules Extraction_ (University of Pisa, Feb 2005)
-[Daniele Sgandurra](http://www.di.unipi.it/~daniele/)'s Bachelor Degree _Development of Tools for Privacy Preserving Distributed Data Mining_ (CNR, July 2004)
+- [Simone Loru](http://riemann.unica.it/~atzori/)'s Bachelor Degree _AndroidLogin: an Android-based login system_ (Apr 2011)
+- [Michela Piotti]()'s Master Degree _Abductive Techniques for Classification_(University of Pisa, July 2005)
+- [Davide Carfi](http://it.linkedin.com/in/carfi)'s Bachelor Degree _Tools for Privacy Preserving Data Mining_ (CNR, July 2005)
+- [Romeo Zitarosa](http://it.linkedin.com/in/romeozitarosa)'s Bachelor Degree _Development of an Online Data Mining Algorithm for Association Rules Extraction_ (University of Pisa, Feb 2005)
+- [Daniele Sgandurra](http://www.di.unipi.it/~daniele/)'s Bachelor Degree _Development of Tools for Privacy Preserving Distributed Data Mining_ (CNR, July 2004)
 
 <a id="software"/>
 Software
