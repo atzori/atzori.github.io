@@ -1,3 +1,11 @@
+---
+layout: home
+title: Maurizio Atzori's Publications
+---
+
+Publications
+--------
+
  1. [SWiPE: Searching wikipedia by example](http://dx.doi.org/doi:10.1145/2187980.2188036) _Atzori M., Zaniolo C._ . WWW'12 - Proceedings of the 21st Annual Conference on World Wide Web Companion (2012)
  1. [Dataspaces enhancing decision support systems in clouds](http://dx.doi.org/doi:10.4018/jwp.2012040103) _Argiolas M., Atzori M., Dessi N., Pes B._ . International Journal of Web Portals (2012)
  1. [Dataspaces: Where structure and schema meet](http://dx.doi.org/doi:10.1007/978-3-642-22913-8_5) _Atzori M., Dessi N._ . Studies in Computational Intelligence (2011)
