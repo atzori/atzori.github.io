@@ -46,7 +46,8 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](http://anagrafericerca.unica.it/anagrafe/it/risultati_prodotti.wp?tipo=RIC_PROD&id=RIC86316&new=1).
 
-
+ 1. [Supporting Semantic Web Search and Structured Queries on Mobile Devices](http://pamir.dia.uniroma3.it:8080/SSW2013/Accepted_Papers.html). Dessi A., Maxia A., Atzori M., Zaniolo C. _3rd Intl. Workshop Semantic Search over the Web (SSW 2013 / VLDB 2013)_ (2013)
+ 1. [User-Friendly Structured Queries on Wikipedia: the SWiPE System](). Atzori M., Zaniolo C. _SEBD 2013 - Proceedings of the 21th Italian Symposium on Advanced Database Systems_ (2013)
  1. [SWiPE: Searching wikipedia by example](http://dx.doi.org/doi:10.1145/2187980.2188036). Atzori M., Zaniolo C. _WWW'12 - Proceedings of the 21st Annual Conference on World Wide Web Companion_ (2012)
  1. [Dataspaces enhancing decision support systems in clouds](http://dx.doi.org/doi:10.4018/jwp.2012040103). Argiolas M., Atzori M., Dessi N., Pes B. _International Journal of Web Portals_ (2012)
  1. [Dataspaces: Where structure and schema meet](http://dx.doi.org/doi:10.1007/978-3-642-22913-8_5). Atzori M., Dessi N. _Studies in Computational Intelligence_ (2011)
@@ -64,6 +65,9 @@ Another source is the [Research Catalog of the University of Cagliari](http://an
  1. [Weak k-anonymity: A low-distortion model for protecting privacy](http://dx.doi.org/doi:0). Atzori M. _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ (2006)
  1. [Memory-Aware Frequent k-Itemset Mining](http://dx.doi.org/doi:10.1007/11733492_3). Atzori M., Mancarella P., Turini F. _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ (2006)
  1. [Blocking anonymity threats raised by frequent itemset mining](http://dx.doi.org/doi:10.1109/ICDM.2005.37). Atzori M., Bonchi F., Giannotti F., Pedreschi D. _Proceedings - IEEE International Conference on Data Mining, ICDM_ (2005)
+ 1. [k-Anonymous patterns](http://dx.doi.org/doi:10.1007/11564126_7). Atzori M., Bonchi F., Giannotti F., Pedreschi D. _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ (2005)
+ 1. [Anonymity and data mining](http://dx.doi.org/doi:0). Atzori M., Bonchi F., Giannotti F., Pedreschi D. _Computer Systems Science and Engineering_ (2005)
+ 1. [Abduction in classification tasks](http://dx.doi.org/doi:0). Atzori M., Mancarella P., Turini F. _Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)_ (2003)
 
 
 Projects
