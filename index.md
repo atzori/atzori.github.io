@@ -152,6 +152,7 @@ I am also developing a number of other applications in the fields of abduction, 
 <a id="activities"/>
 Scientific Activities
 ---------------------
+
 - Serving as Reviewer for the following major database and data mining international journals:
 ACM Transactions on Database Systems (<a>TODS</a>), 
 IEEE Transactions on Knowledge and Data Engineering (<a>TKDE</a>), 
