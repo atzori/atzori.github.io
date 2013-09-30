@@ -163,7 +163,7 @@ Data Mining and Knowledge Discovery Journal (<a>DAMI</a>),
 International Journal of Geographical Information Science (<a>IJGIS</a>),
 Transactions on Data Privacy (<a>TDP</a>),
 Journal of Computer Science and Technology (<a>JCST</a>),
-Information Sciences (<a href="http://www.journals.elsevier.com/information-sciences/">IS</a>),
+Information Sciences (<a href="http://www.journals.elsevier.com/information-sciences/">INS</a>),
 Information Processing &amp; Management (<a>IPM</a>).
 
 - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics
@@ -187,7 +187,6 @@ In Cooperation with IEEE ICDM 2012 (PC member since SSTDM-08)
 - Organizing Committee and Publicity Chair of the 2008 IEEE International Conference on Data Mining (ICDM08)
 - PC Member of the 19th Brazilian Symposium on Artificial Intelligence (SBIA 2008)
 - PC Member of the IADIS European Conference on Data Mining 2008 (MCCSIS-DM08)
-<!-- PC Member of the First International Workshop on Privacy and Anonymity in the Information Society (PAIS 2008), in conjunction with EDBT08 -->
 - PC member of the First ACM SIGKDD Workshop on Privacy, Security, and Trust in KDD (PinKDD'07), joint with ACM SIGKDD 2007
 
 - Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
