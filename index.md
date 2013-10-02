@@ -127,8 +127,17 @@ Prof. P. Ferragina, University of Pisa, Italy.
 
 Advisor
 -------
-This list is not up-to-date.
+This list is not complete nor frequently updated.
 
+- [Flore Massimo]() _[Realizzazione di una applicazione Android per la gestione dei contatti e personalizzazione delle chiamate]()_ (UniCA 2012)
+- [Rota Gabriele]() _[Motore di ricerca veloce per il supporto del query by example in Wikipedia]()_ (UniCA 2012)
+- [Cuccu Michela]() _[Un portale per l'Ufficio Scolastico Provinciale di Cagliari]()_ (UniCA 2012)
+- [Manias Omar]() _[Stato dell'Arte nelle Interfacce per Motori di Ricerca]()_ (UniCA 2012)
+- [Sanna Andrea]() _[Implementazione di una libreria in Java per la comunicazione tra un computer e un dispositivo Android]()_ (UniCA 2012)
+- [Massa Fabio]() _[Studio e implementazione di un Back End per DBpedia]()_ (UniCA 2011)
+- [Frau Gianluigi]() _[Realizzazione di un cluster Hadoop e programmazione Pig Latin]()_ (UniCA 2011)
+- [Mascia Peppino]() _[Relizzazione di un cluster Hadoop e programmazione in Pig Latin]()_ (UniCA 2011)
+- [Muggiri Emanuele]() _[aTouchLib: smartphone come dispositivo di input per PC]()_ (UniCA 2011)
 - [Simone Loru](http://riemann.unica.it/~atzori/)'s Bachelor Degree _AndroidLogin: an Android-based login system_ (Apr 2011)
 - [Michela Piotti]()'s Master Degree _Abductive Techniques for Classification_(University of Pisa, July 2005)
 - [Davide Carfi](http://it.linkedin.com/in/carfi)'s Bachelor Degree _Tools for Privacy Preserving Data Mining_ (CNR, July 2005)
