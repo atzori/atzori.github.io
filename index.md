@@ -22,10 +22,9 @@ context of classification.--> <!-- Since 2003 he is a <a href=
 at the <a href="http://www.di.unipi.it/galilei/">School for
 Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
-News
-----
+Highlights
+----------
 
-- PC Member of the 17th International Conference on Business Information System ([BISS 2014](http://bis.kie.ue.poznan.pl/17th_bis/)), Larnaca, Cyprus, 21-23 May, 2014. Calls are open.
 - Our WWW2012 work [SWiPE: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in several languages
 - [Math/CS Department](http://dipartimenti.unica.it/matematicaeinformatica), [University of Cagliari](http://unica.it) ([Sardinia](http://en.wikipedia.org/wiki/Sardinia), Italy)
 
