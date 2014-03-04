@@ -1,5 +1,7 @@
-DBPedia property ranking
-========================
+---
+layout: home
+title: DBPedia property ranking
+---
 
 
 Experimental MLR comparison
