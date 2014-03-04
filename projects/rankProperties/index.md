@@ -3,6 +3,8 @@ layout: page
 title: DBPedia property ranking
 ---
 
+DBPedia property ranking
+========================
 
 Experimental MLR comparison
 ---------------------------
