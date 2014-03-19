@@ -33,7 +33,8 @@ Teaching
 --------
 [Computer Science @ Unica](http://informatica.unica.it/)
 
-Students can join the PR2 course at the [course page in Moodle](http://moodle.unica.it/course/view.php?id=51)
+Students can join the PR2 course at the [course page in Moodle](http://moodle2.unica.it/course/view.php?id=103)
+<!-- (http://moodle.unica.it/course/view.php?id=51) -->
 
 - [Programmazione II - Object-Oriented Programming](http://informatica.unica.it/index.php?section=course&id=79) (since A.A. 2010/11)
 
