@@ -10,7 +10,7 @@ Experimental MLR Comparison
 ---------------------------
 
 We run a number of experiments on different machine learning-to-rank algorithms, comparing them against user data using [Spearman’s Rank Correlation cofficients](http://en.wikipedia.org/wiki/Spearman's_rank_correlation_coefficient).
-For details of our experimental setting, experimental repeatability parameters and the outcome of our research pleas have a look at our [Report on RankProp experiments](https://bitbucket.org/atzori/files/downloads/rankprop_experiments_report.pdf)
+For details of our experimental setting, experimental repeatability parameters and the outcome of our research pleas have a look at our [Report on DBpedia Property Ranking Experiments](https://bitbucket.org/atzori/files/downloads/rankprop_experiments_report.pdf).
 
 
 
