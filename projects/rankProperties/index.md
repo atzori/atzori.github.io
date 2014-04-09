@@ -9,8 +9,9 @@ DBpedia Property Ranking
 Experimental MLR Comparison
 ---------------------------
 
-We are in the process of publishing experiments on different machine learning-to-rank models.
-They will be available in this page soon.
+We run a number of experiments on different machine learning-to-rank algorithms, comparing them against user data using [Spearman’s Rank Correlation cofficients](http://en.wikipedia.org/wiki/Spearman's_rank_correlation_coefficient).
+For details of our experimental setting, experimental repeatability parameters and the outcome of our research pleas have a look at our [Report on RankProp experiments](https://bitbucket.org/atzori/files/downloads/rankprop_experiments_report.pdf)
+
 
 
 Computing Ranking Online (tool)
