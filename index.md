@@ -24,7 +24,7 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- PC of [SEBD 2014](http://www.sebd2014.unina.it/). Abstract submission deadline: March 24th, 2014. Take the opportunity of visiting the amazing Sorrento Coast!
+- PC of [SEBD 2014](http://www.sebd2014.unina.it/). Take the opportunity of visiting the amazing Sorrento Coast on June 16th-18th!
 - Our WWW2012 work [SWiPE: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in several languages
 - [Math/CS Department](http://dipartimenti.unica.it/matematicaeinformatica), [University of Cagliari](http://unica.it) ([Sardinia](http://en.wikipedia.org/wiki/Sardinia), Italy)
 
@@ -237,13 +237,15 @@ In Cooperation with IEEE ICDM 2012 (PC member since SSTDM-08)
 Links
 -----
 
-- [CS Department of Purdue University](http://maps.google.com/maps?q=west+lafayette,+indiana&ll=40.427169,-86.916136&spn=0.003740,0.007522&t=k&hl=en) - Thanks to Google Maps!
+- [2048 infUnica Edition](http://games.usvsth3m.com/2048/infunica-edition/) - the popular game [2048](gabrielecirulli.github.io/2048/) as seen by CS students at the University of Cagliari
 - [PhD Comics](http://www.phdcomics.com/comics/comics.php)
-- [Internet Laws](http://www.iusmentis.com/) - to explain the law to techies, and tech to laywers
-- [PPDM reviews](http://www.cs.umbc.edu/~kunliu1/research/privacy_review.html) - Privacy Preserving Data Mining Bibliography (also [wiki](http://www.umbc.edu/ddm/wiki/index.php/Privacy_Preserving_Data_Mining_Bibliography))
 - [Compute Collaboration Distance](http://www.ams.org/mathscinet/collaborationDistance.html) - My Erd&ouml;s Number (collaboration distance with Paul Erd&ouml;s) is 4 (via Prof. C. Zaniolo)
+- [Internet Laws](http://www.iusmentis.com/) - to explain the law to techies, and tech to laywers
+<!---
+- [CS Department of Purdue University](http://maps.google.com/maps?q=west+lafayette,+indiana&ll=40.427169,-86.916136&spn=0.003740,0.007522&t=k&hl=en) - Thanks to Google Maps!
+- [PPDM reviews](http://www.cs.umbc.edu/~kunliu1/research/privacy_review.html) - Privacy Preserving Data Mining Bibliography (also [wiki](http://www.umbc.edu/ddm/wiki/index.php/Privacy_Preserving_Data_Mining_Bibliography))
 - [Il colloquio di lavoro](http://www.valigiablu.it/doc/760/non-sono-coraggiosa-sono-sarda-e-dico-no-a-questi-signori-tristi.htm) - by Valeria Gentile
-
+-->
 
 Resources
 ---------
