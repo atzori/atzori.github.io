@@ -46,6 +46,10 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](http://anagrafericerca.unica.it/anagrafe/it/risultati_prodotti.wp?tipo=RIC_PROD&id=RIC86316&new=1).
 
+
+ 1. [Ranking DBpedia Properties](). Atzori M., Dessi A. _23rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises, Web2Touch Track_ (2014)
+ 1. [Computing on-the-fly DBpedia Property Ranking](). Dessi A., Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
+ 1. [Computing Recursive SPARQL Queries](). Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
  1. [Improving Spatial Decision Making in Cloud Computing](). Argiolas M., Atzori M., Dessi N., Pes B. In book _Contemporary Advancements in Information Technology Development in Dynamic Environments_, (2014)
  1. [Supporting Semantic Web Search and Structured Queries on Mobile Devices](http://pamir.dia.uniroma3.it:8080/SSW2013/Accepted_Papers.html). Dessi A., Maxia A., Atzori M., Zaniolo C. _3rd Intl. ACM Workshop Semantic Search over the Web (SSW 2013 / VLDB 2013)_ (2013)
  1. [User-Friendly Structured Queries on Wikipedia: the SWiPE System](). Atzori M., Zaniolo C. _SEBD 2013 - Proceedings of the 21th Italian Symposium on Advanced Database Systems_ (2013)
@@ -74,28 +78,24 @@ Another source is the [Research Catalog of the University of Cagliari](http://an
 Projects
 --------
 
+- [Security Horizons](http://tcs.unica.it/projects/security-horizons)
+A consortium of universities working on security and privacy issues (PRIN 2010-11 project)
+- [DENIS]() 
+DENIS: Dataspaces Enhancing the Next Internet in Sardinia (RAS)
 - [U-DID]()
-PI of project Unstructured Data Integration for Dataspaces (Math/CS
-Dept., University of Cagliari)
-
+PI of project Unstructured Data Integration for Dataspaces (RAS)
 - [DIVA](http://kdd.isti.cnr.it/project/diva)
 A predictive system aimed at fighting against tax evasion in VAT domain
-
 - [KDubiq](http://www.kdubiq.org/kdubiq/control/research_areas#wg5)
 Ubiquitous Knowledge Discovery (WG5: Privacy and Security)
-
 - [GeoPKDD](http://www.geopkdd.eu/)
 Geographic Privacy-aware Knowledge Discovery and Delivery
-
 - [GeoPKDD.it](http://geopkdd.di.unipi.it/)
 Italian Project on Geographic Privacy-aware Knowledge Discovery and Delivery (MIUR COFIN2004)
-
 - [P3D - Privacy Preserving Pattern Discovery](http://www-kdd.isti.cnr.it/p3d/)
 A "Curiosity Driven and Independent Research" ISTI Internal Project
-
 - [KDDML-MQL](http://kdd.di.unipi.it/kddml/)
 Knowledge Discovery in Databases Markup Language
-
 - [ClickWorld]()
 Data analysis of Click Streams
 
@@ -148,6 +148,9 @@ This list is not complete nor frequently updated.
 <a id="software"/>
 Software
 --------
+- [rankProp](http://atzori.webofcode.org/projects/rankProperties/)
+A tool to rank RDF properties of DBpedia entities, based on MLR algorithms.
+
 - [Java Privacy-Preserving Pattern Discovery Package (jp3d)](http://www.cnr.it/istituti/Istituto_Progetti.html?cds=074&id=1029&anno=2006)
 A pure java package for privacy-preserving pattern discovery. MathCollection, an extension for the Java Collection Framework by Dietmar Lippold, is required. See CNR description for further details.
 
