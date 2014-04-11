@@ -148,7 +148,7 @@ This list is not complete nor frequently updated.
 <a id="software"/>
 Software
 --------
-- [rankProp](http://atzori.webofcode.org/projects/rankProperties/)
+- [rankProp](/projects/rankProperties/)
 A tool to rank RDF properties of DBpedia entities, based on MLR algorithms.
 
 - [Java Privacy-Preserving Pattern Discovery Package (jp3d)](http://www.cnr.it/istituti/Istituto_Progetti.html?cds=074&id=1029&anno=2006)
