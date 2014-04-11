@@ -237,7 +237,7 @@ In Cooperation with IEEE ICDM 2012 (PC member since SSTDM-08)
 Links
 -----
 
-- [2048 infUnica Edition](http://games.usvsth3m.com/2048/infunica-edition/) - the popular game [2048](gabrielecirulli.github.io/2048/) as seen by CS students at the University of Cagliari
+- [2048 infUnica Edition](http://games.usvsth3m.com/2048/infunica-edition/) - the popular game [2048](gabrielecirulli.github.io/2048/) as seen by CS students at the University of Cagliari. [Tetris also available](http://games.usvsth3m.com/giftris/infunica-edition/).
 - [PhD Comics](http://www.phdcomics.com/comics/comics.php)
 - [Compute Collaboration Distance](http://www.ams.org/mathscinet/collaborationDistance.html) - My Erd&ouml;s Number (collaboration distance with Paul Erd&ouml;s) is 4 (via Prof. C. Zaniolo)
 - [Internet Laws](http://www.iusmentis.com/) - to explain the law to techies, and tech to laywers
