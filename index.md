@@ -47,9 +47,9 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 Another source is the [Research Catalog of the University of Cagliari](http://anagrafericerca.unica.it/anagrafe/it/risultati_prodotti.wp?tipo=RIC_PROD&id=RIC86316&new=1).
 
 
- 1. [Ranking DBpedia Properties](). Atzori M., Dessi A. _23rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises, Web2Touch Track_ (2014)
- 1. [Computing on-the-fly DBpedia Property Ranking](). Dessi A., Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
- 1. [Computing Recursive SPARQL Queries](). Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
+ 1. [Ranking DBpedia Properties](http://web2touch2014.tudor.lu/Accepted.html). Atzori M., Dessi A. _23rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises, Web2Touch Track_ (2014)
+ 1. [Computing on-the-fly DBpedia Property Ranking](http://ieee-icsc.org/icsc2014/). Dessi A., Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
+ 1. [Computing Recursive SPARQL Queries](http://ieee-icsc.org/icsc2014/). Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
  1. [Improving Spatial Decision Making in Cloud Computing](). Argiolas M., Atzori M., Dessi N., Pes B. In book _Contemporary Advancements in Information Technology Development in Dynamic Environments_, (2014)
  1. [Supporting Semantic Web Search and Structured Queries on Mobile Devices](http://pamir.dia.uniroma3.it:8080/SSW2013/Accepted_Papers.html). Dessi A., Maxia A., Atzori M., Zaniolo C. _3rd Intl. ACM Workshop Semantic Search over the Web (SSW 2013 / VLDB 2013)_ (2013)
  1. [User-Friendly Structured Queries on Wikipedia: the SWiPE System](). Atzori M., Zaniolo C. _SEBD 2013 - Proceedings of the 21th Italian Symposium on Advanced Database Systems_ (2013)
