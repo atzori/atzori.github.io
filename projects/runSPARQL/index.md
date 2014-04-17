@@ -14,3 +14,9 @@ Such SPARQL query can refer to itself, enabling recursion and the use of any Tur
 
 Details and the online tool will be soon available here.
 
+
+Name space 
+----------
+
+    wfn: <http://webofcode.org/wfn/>
+    
