@@ -146,8 +146,10 @@ This list is not complete nor frequently updated.
 - [Daniele Sgandurra](http://www.di.unipi.it/~daniele/)'s Bachelor Degree _Development of Tools for Privacy Preserving Distributed Data Mining_ (CNR, July 2004)
 
 <a id="software"/>
-Software
---------
+Software and Tools
+------------------
+- [runSPARQL](/projects/runSPARQL/) 
+- A tool to compute Recursive SPARQL Queries.
 - [rankProp](/projects/rankProperties/)
 A tool to rank RDF properties of DBpedia entities, based on MLR algorithms.
 
