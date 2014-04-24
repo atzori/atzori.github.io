@@ -149,7 +149,8 @@ This list is not complete nor frequently updated.
 Software and Tools
 ------------------
 - [runSPARQL](/projects/runSPARQL/) 
-- A tool to compute Recursive SPARQL Queries.
+A tool to compute Recursive SPARQL Queries.
+
 - [rankProp](/projects/rankProperties/)
 A tool to rank RDF properties of DBpedia entities, based on MLR algorithms.
 
