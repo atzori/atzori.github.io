@@ -160,6 +160,9 @@ A tool to compute Recursive SPARQL Queries.
 - [rankProp](http://atzori.webofcode.org/projects/rankProperties/)
 A tool to rank RDF properties of DBpedia entities, based on MLR algorithms.
 
+- [Qpedia](http://swipe.unica.it/qpedia/en/)
+A visual query interface focused on mobile devices. It compiles queries to SPARQL and run them against [DBpedia](http://dbpedia.org/) servers.
+
 - [Java Privacy-Preserving Pattern Discovery Package (jp3d)](http://www.cnr.it/istituti/Istituto_Progetti.html?cds=074&id=1029&anno=2006)
 A pure java package for privacy-preserving pattern discovery. MathCollection, an extension for the Java Collection Framework by Dietmar Lippold, is required. See CNR description for further details.
 
