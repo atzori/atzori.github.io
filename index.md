@@ -154,10 +154,10 @@ Software and Tools
 > &quot;By making Wikipedia search simple, though, SWiPE has the potential to bring this benefit to a far greater audience. I, for one, can't wait to try it out myself.&quot; ([Lee Feigenbaum](http://www.cambridgesemantics.com/blog/-/blogs/swipe-an-example-of-easier-semantic-web-software), W3C SPARQL WG co-Chair)
 
 
-- [runSPARQL](/projects/runSPARQL/) 
+- [runSPARQL](http://atzori.webofcode.org/projects/runSPARQL/) 
 A tool to compute Recursive SPARQL Queries.
 
-- [rankProp](/projects/rankProperties/)
+- [rankProp](http://atzori.webofcode.org/projects/rankProperties/)
 A tool to rank RDF properties of DBpedia entities, based on MLR algorithms.
 
 - [Java Privacy-Preserving Pattern Discovery Package (jp3d)](http://www.cnr.it/istituti/Istituto_Progetti.html?cds=074&id=1029&anno=2006)
