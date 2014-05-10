@@ -3,7 +3,7 @@ layout: page
 title: Web of Functions
 ---
 
-Web of Functions: Computing custom function remotely from SPARQL endpoints
+Web of Functions: Computing Custom Functions Remotely From SPARQL Endpoints
 =================================================================
 
 Introducing wfn:call
