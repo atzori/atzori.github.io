@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web of Functions: SPARQL call function
+title: Web of Functions - SPARQL call function
 ---
 
 Web of Functions: Computing Custom Functions Remotely From SPARQL Endpoints
