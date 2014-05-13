@@ -24,7 +24,7 @@ Officially, we plan to use the following namespace:
     
 In order to experiment it, we published an endpoint implmenting our `wfn:runSPARQL` function, available at:
 
-    http://swipe.unica.it/ 3030/ds/sparql
+    http://swipe.unica.it/ jena/sparql
     
     
 An Example: Computing the Factorial
@@ -32,21 +32,21 @@ An Example: Computing the Factorial
 
 The following is an example of recursive SPARQL query that computes the factorial of 3: 
 
-    PREFIX wfn: <java:org.webofcode.atzori.>
+    PREFIX wfn: <http://webofcode.org/wfn/>
     SELECT ?result 
     { 
             # bind variables to parameter values 
             VALUES (?query ?endpoint) { ( 
                     "BIND ( IF(?i0 <= 0, 1, ?i0 * wfn:runSPARQL(?query,?endpoint, ?i0 -1)) AS ?result)" 
-                    "http://swipe.unica.it/3030/ds/sparql"
+                    "http://swipe.unica.it/jena/sparql"
             )}
        
             # actual call of the recursive query 
             BIND( wfn:runSPARQL(?query,?endpoint,3) AS ?result)
-    } LIMIT 1
+    } 
 
 It can be queried against our endpoint above, or using the web interface at:
 
-    http://swipe.unica.it/ 3030/ds/sparql.html
+    http://swipe.unica.it/ jena/sparql.html
 
 
