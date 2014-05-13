@@ -29,7 +29,7 @@ Further details will be available here.
 An Example: Computing the concatenation of Strings from a Remote Endpoint
 ----------
 
-Example 1:
+### Example 1:
 
     PREFIX wfn: <http://webofcode.org/wfn/>
     PREFIX fn: <http://www.w3.org/2005/xpath-functions#>
@@ -38,7 +38,7 @@ Example 1:
        BIND( wfn:call(fn:concat,"alpha","BETA") as ?res )
     } 
 
-Example 2: forcing the computation to be run against a given endpoint (dbpedia)
+### Example 2: forcing the computation to be run against a given endpoint (dbpedia)
 
     PREFIX wfn: <http://webofcode.org/wfn/>
     PREFIX fn: <http://www.w3.org/2005/xpath-functions#>
