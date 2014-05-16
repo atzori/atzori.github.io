@@ -19,11 +19,10 @@ It allows interoperable remote invocation of functions (including high-order fun
     wfn: <http://webofcode.org/wfn/>
     
 ###Download
-----------
 Our open source implementation in Java of the `wfn:call` function is available at [bitbucket](https://bitbucket.org/atzori/callsparql/).
 You can use it to enhance your Apache Jena / Fuseki installation, allowing the use of any custom function defined on other remote endpoints.
 
-Further details will be available here.
+Further details will be available in a forthcoming paper.
 
 
 
@@ -35,6 +34,7 @@ Here you can find two simple example of how to use the `wfn:call` function. It h
 
 
 ### Example 1: high-order feature (binding functions to variables) 
+Calling a function that is within a variable can be done as it follows:
 
     PREFIX wfn: <http://webofcode.org/wfn/>
     PREFIX fn: <http://www.w3.org/2005/xpath-functions#>
@@ -45,6 +45,7 @@ Here you can find two simple example of how to use the `wfn:call` function. It h
     } 
 
 ### Example 2: forcing the computation to be run against a given endpoint (dbpedia)
+Calling a function that is registered on a remote server can be done easily. In the following we are forcing to use the `fn:concat` (string concatenation) function implemeted in the remote DBpedia server.
 
     PREFIX wfn: <http://webofcode.org/wfn/>
     PREFIX fn: <http://www.w3.org/2005/xpath-functions#>
