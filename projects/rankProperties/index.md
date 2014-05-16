@@ -31,7 +31,7 @@ In this second case, the ranking is not computed according to a specific entity.
 Other details are available in our paper (currently under submission).
 
 
-Papers
+Publications
 ---------------------------
 
  1. [Ranking DBpedia Properties](http://web2touch2014.tudor.lu/Accepted.html). Atzori M., Dessi A. _23rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises, Web2Touch Track_ (2014)
