@@ -30,3 +30,9 @@ The API also allows to compute the general ranking of properties, without specif
 In this second case, the ranking is not computed according to a specific entity.
 Other details are available in our paper (currently under submission).
 
+
+Papers
+---------------------------
+
+ 1. [Ranking DBpedia Properties](http://web2touch2014.tudor.lu/Accepted.html). Atzori M., Dessi A. _23rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises, Web2Touch Track_ (2014)
+ 1. [Computing on-the-fly DBpedia Property Ranking](http://ieee-icsc.org/icsc2014/). Dessi A., Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
