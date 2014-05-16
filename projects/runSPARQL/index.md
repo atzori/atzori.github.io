@@ -50,3 +50,11 @@ It can be queried against our endpoint above, or using the web interface at:
     http://swipe.unica.it/ jena/sparql.html
 
 
+
+
+
+Publications
+------------
+
+ 1. [Computing Recursive SPARQL Queries](http://ieee-icsc.org/icsc2014/). Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
+
