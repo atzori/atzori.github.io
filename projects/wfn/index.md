@@ -14,20 +14,25 @@ The wfn:call function executes the specified URI function against an appropriate
 It allows interoperable remote invocation of functions (including high-order functions) from within a SPARQL query.
 
 
-Name space 
-----------
+###Name space 
 
     wfn: <http://webofcode.org/wfn/>
     
-Download
+###Download
 ----------
 Our open source implementation in Java of the `wfn:call` function is available at [bitbucket](https://bitbucket.org/atzori/callsparql/).
 You can use it to enhance your Apache Jena / Fuseki installation, allowing the use of any custom function defined on other remote endpoints.
 
 Further details will be available here.
 
+
+
+
+
 An Example: Computing the concatenation of Strings from a Remote Endpoint
 ----------
+Here you can find two simple example of how to use the `wfn:call` function. It has been registered on our endpoint that you can find at: `http://service.webofcode.org/ jena/sparql`. The form to input the queries can be found at: `http://service.webofcode.org/ jena/sparql.html`
+
 
 ### Example 1: high-order feature (binding functions to variables) 
 
