@@ -197,7 +197,11 @@ Information Processing &amp; Management (<a>IPM</a>).
 
 - Program Committee member (PC Member) of the 22th Italian Symposium on Advanced Database Systems ([SEBD2014](http://www.sebd2014.unina.it/))
 
-- Program Committee member (PC Member) of the 17th 17th International Conference on Business Information System ([BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/)), Larnaca, Cyprus, 21-23 May, 2014
+- Program Committee member (PC Member) of the 2014 IEEE International Workshop on Trust, Security and Privacy for Big Data ([IEEE TrustData 2014](http://trust.csu.edu.cn/conference/TrustData2014/)), Dalian, China, August 24-27, 2014
+
+- Program Committee member (PC Member) of the 17th International Conference on Business Information System ([BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/)), Larnaca, Cyprus, 21-23 May, 2014
+
+
 
 - Program Committee member (PC Member) of the 2013 International Workshop on Trust, Security and Privacy for Big Data (<a href="http://trust.csu.edu.cn/conference/TrustData2013/">TrustData 2013</a>), Zhangjiajie, China, November 13-15, 2013
 
