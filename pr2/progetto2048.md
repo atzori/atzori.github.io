@@ -19,7 +19,7 @@ Il gioco potra' essere avviato nel seguente modo:
 
 Il gioco dovra' funzionare anche con i giocatori automatici realizzati dagli altri gruppi e dal docente, ad esempio:
 
-`java -cp Game2048_G9.jar:Game2048\_player\_`*G15*`.jar game2048.Game2048`
+`java -cp Game2048_G9.jar:Game2048\_player\_`**G15**`.jar game2048.Game2048`
 
 
 
