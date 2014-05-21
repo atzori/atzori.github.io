@@ -36,9 +36,11 @@ package giocatoreAutomatico;
 
 public interface GiocatoreAutomatico {
 
-    
+    /** restituisce un oggetto GiocatoreAutomatico su cui si potrà chiedere che mosse fare.  */
     public static GiocatoreAutomatico getGiocatoreAutomatico(Griglia g);
-    public int getGiocatoreAutomatico(Griglia g);
+    
+    /** restituisce 0=ALTO; 1=DX; 2=BASSO; 3=SX , ovvero la mossa che il giocatore automatico intende fare*/
+    public int prossimaMossa();
     
 
 }
@@ -46,6 +48,10 @@ public interface GiocatoreAutomatico {
 /* Griglia.java */
 package giocatoreAutomatico;
 
+/** le classi che implementano questa interfaccia devono contenere esattamente 16 chiavi.
+Alla Location (0,0), dovrà essere associato il numero (2, oppure 4, oppure 8, ...) associato a quella casella.
+Qualora nella posizione non ci siano numeri, sarà associato il valore -1
+*/
 public interface Griglia implements Map<game2048.Location,Integer>  {
 
 
