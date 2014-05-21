@@ -13,9 +13,14 @@ Dovranno essere quindi realizzati 2 file jar. Supponendo di essere il gruppo 9, 
  - Game2048_G9.jar (implementa il gioco modificando la versione data)
  - Game2048_player_G9.jar (implementa il giocatore automatico)
 
+
+
 Il gioco potra' essere avviato nel seguente modo:
 
 `java -cp Game2048_G9.jar:Game2048_player_G9.jar game2048.Game2048`
+
+
+
 
 Il gioco dovra' funzionare anche con i giocatori automatici realizzati dagli altri gruppi e dal docente, ad esempio:
 
@@ -23,6 +28,28 @@ Il gioco dovra' funzionare anche con i giocatori automatici realizzati dagli alt
 
 
 
- - Fare un fork del progetto [fx2048](https://github.com/atzori/fx2048)
- - modificare il codice in modo da supportare il gioco automatico
- - realizzare un gioca
+Per poter permettere che il gioco sia "disaccoppiato" dal giocatore automatico, e che quindi funzioni anche con giocatori automatici di altri gruppi, i giocatori automatici implementeranno la seguente interfaccia:
+
+```java
+/* GiocatoreAutomatico.java */
+package giocatoreAutomatico;
+
+public interface GiocatoreAutomatico {
+
+    
+    public static GiocatoreAutomatico getGiocatoreAutomatico(Griglia g);
+    public int getGiocatoreAutomatico(Griglia g);
+    
+
+}
+
+/* Griglia.java */
+package giocatoreAutomatico;
+
+public interface Griglia implements Map<game2048.Location,Integer>  {
+
+
+}
+
+
+```
