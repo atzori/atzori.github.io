@@ -11,15 +11,15 @@ Il progetto consiste nel modificare l'implementazione del gioco 2048 (già reali
 Dovranno essere quindi realizzati 2 file jar. Supponendo di essere il gruppo 9, i file saranno:
 
  - Game2048_G9.jar (implementa il gioco modificando la versione data)
- - Game2048\_player\_G9.jar (implementa il giocatore automatico)
+ - Game2048_player_G9.jar (implementa il giocatore automatico)
 
 Il gioco potra' essere avviato nel seguente modo:
 
-`java -cp Game2048_G9.jar:Game2048\_player\_G9.jar game2048.Game2048`
+`java -cp Game2048_G9.jar:Game2048_player_G9.jar game2048.Game2048`
 
 Il gioco dovra' funzionare anche con i giocatori automatici realizzati dagli altri gruppi e dal docente, ad esempio:
 
-`java -cp Game2048_G9.jar:Game2048\_player\_`**G15**`.jar game2048.Game2048`
+`java -cp Game2048_G9.jar:Game2048_player_`**G15**`.jar game2048.Game2048`
 
 
 
