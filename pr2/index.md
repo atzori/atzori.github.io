@@ -7,6 +7,7 @@ Esame PR2 2014
 =================
 
 L'esame di PR2 è suddiviso in 3 prove (tra parentesi il peso di ciascuna prova nel voto finale):
+
  - teoria (35%)
  - pratica (55%)
  - progetto (10%)
