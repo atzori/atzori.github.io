@@ -10,7 +10,7 @@ L'esame di PR2 è suddiviso in 3 prove (tra parentesi il peso di ciascuna prova 
 
  - teoria (35%)
  - pratica (55%)
- - progetto (10%)
+ - progetto (10%; oppure 20% con bonus progetto - vedi sotto)
 
 Teoria e Pratica
 ----------------
@@ -39,7 +39,7 @@ In casi eccezionali (lavoratori fuori sede o altri casi sempre da concordare pre
 
 
 Appelli 2014
---------
+------------
 Gli appelli sono presenti su [ESSE3](https://webstudenti.unica.it/) (verificare la correttezza delle date):
 
  - 13/6
