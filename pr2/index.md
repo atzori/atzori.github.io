@@ -20,6 +20,12 @@ La prova di teoria si considera superata se il voto è almeno 18 e le risposte c
 La prova pratica può essere sostenuta solo da chi ha superato la prova di teoria. Viene svolta immediatamente dopo la prova di teoria, nello stesso appello, e consiste nello sviluppo di classi Java che rispettino determinate specifiche, solitamente descritte tramite un Test (JUnit4 o tramite assert).
 La prova pratica si considera superata se il voto è almeno 18/30.
 
+### Preesami
+Chi ha sostenuto il primo preesame (10/4), anche se non superato, potra' sostenere il secondo preesame (7/6).
+Sara' necessario iscriversi al primo appello disponibile (13/6) entro il 31 Maggio.
+La media dei due preesami, o il voto del secondo preesame (se maggiore) saranno utilizzati come voto per la prova di teoria/pratica.
+
+
 Progetto
 --------
 Si può scegliere tra progetto _standard_ e progetto _impossibile_.
@@ -30,7 +36,7 @@ La consegna consiste nell'invio, tramite mail al docente, di un link al progetto
 
 
 ### Bonus progetti
-I progetti verranno valutati 20% anziche 10% nei seguenti casi (bonus progetto):
+I progetti verranno valutati 20% anziche 10% solo per gli studenti che superano le prove di teoria e pratica entro luglio che ricadono i uno dei seguenti casi (bonus progetto):
 
  - progetto standard consegnato entro luglio (12/7) ed il progetto e' stato svolto in gruppo
  - progetto impossibile entro settembre (13/9) ed il progetto è stato svolto da almeno 2 persone
