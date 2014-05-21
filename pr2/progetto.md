@@ -43,6 +43,9 @@ I progetti verranno valutati 20% anziche 10% solo per gli studenti che superano 
 
 In casi eccezionali (lavoratori fuori sede o altri casi sempre da concordare preventivamente col docente), il bonus sara' assegnato anche ai progetti svolti singolarmente.
 
+### Progetto standard
+Una descrizione del progetto standard (Gioco 2048) è disponibile in [questa pagina](/pr2/progetto2048).
+
 
 Appelli 2014
 ------------
