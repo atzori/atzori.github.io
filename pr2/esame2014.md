@@ -12,12 +12,14 @@ L'esame di PR2 è suddiviso in 3 prove (tra parentesi il peso di ciascuna prova 
  - pratica (55%)
  - progetto (10%; oppure 20% con bonus progetto - vedi sotto)
 
+Per le prove è necessario essere muniti di libretto universitario con foto o documento d'identità, ed avere un account valido su [moodle2.unica.it](http://moodle2.unica.it).
+
 Teoria e Pratica
 ----------------
 Agli appelli (o con i preesami) è possibile sostenere Teoria e Pratica. Entrambe le prove vertono su tutto il programma.
-La teoria consiste solitamente in 15 domande Vero/Falso/Non so: ad ogni risposta corretta vengono assegnati 2 punti; 0 punti se la risposta è sbagliata; 1 punto per la risposta Non so.
+La teoria consiste solitamente in 15 domande Vero/Falso/Non so: ad ogni risposta corretta vengono assegnati 2 punti; 0 punti se la risposta è sbagliata; 1 punto per la risposta Non so. Non è possibile consultare materiale didattico, libri o appunti.
 La prova di teoria si considera superata se il voto è almeno 18 e le risposte corrette sono almeno 8; entrambi i requisiti devono essere veri per superare la prova.
-La prova pratica può essere sostenuta solo da chi ha superato la prova di teoria. Viene svolta immediatamente dopo la prova di teoria, nello stesso appello, e consiste nello sviluppo di classi Java che rispettino determinate specifiche, solitamente descritte tramite un Test (JUnit4 o tramite assert).
+La prova pratica può essere sostenuta solo da chi ha superato la prova di teoria. Viene svolta immediatamente dopo la prova di teoria, nello stesso appello, e consiste nello sviluppo di classi Java che rispettino determinate specifiche, solitamente descritte tramite un Test (JUnit4 o tramite assert). Salvo diversa indicazione, si dovrà utilizzare gedit e si potrà accedere alle API online di Oracle Java ed al libro di testo su JavaFX2. Nessun altro materiale dovrà essere utilizzato.
 La prova pratica si considera superata se il voto è almeno 18/30.
 
 ### Preesami
@@ -28,15 +30,17 @@ La media dei due preesami, o il voto del secondo preesame (se maggiore) saranno 
 
 Progetto
 --------
-Si può scegliere tra progetto _standard_ e progetto _impossibile_.
+_Nota: La prova progettuale è facoltativa. Chi non intende farla, verrà valutato 0 (zero) con un peso del 10% (peso standard del progetto). Di conseguenza per superare PR2 con 18/30 sarà necessario prendere almeno 18/90*100 = 20 di media alle prove di teoria e pratica_
+Si può scegliere tra progetto _standard_ e progetto _impossibile_. 
 Deve essere svolto preferibilmente da gruppi di 3-5 persone, da formarsi autonomamente e da comunicare prontamente al docente.
-L'elaborato puo' essere consegnato 3 giorni prima dell'appello per poter essere valutato per quell'appello.
+L'elaborato deve essere consegnato 3 giorni prima dell'appello per poter essere valutato per quell'appello.
 Ad esempio, se si desidera consegnare a luglio, sarà necessario consegnare entro il 12/7 (essendo l'appello il 15/7).
-La consegna consiste nell'invio, tramite mail al docente, di un link al progetto github (eventualmente bitbucket) che si desidera sia valutato. 
+La consegna consiste nell'invio, tramite mail al docente, di un commit progetto github (eventualmente bitbucket) che si desidera sia valutato. La storia dei commit devono mostrare, anche con i commenti, lo sviluppo del progetto.
+Il file README.md di almeno 5k caratteri dovrà contenere un commento al progetto, in cui vengono descritti i dettagli tecnici che il gruppo ritiene rilevanti, anche al fine del suo utilizzo.
 
 
-### Bonus progetti
-I progetti verranno valutati 20% anziche 10% solo per gli studenti che superano le prove di teoria e pratica entro luglio che ricadono i uno dei seguenti casi (bonus progetto):
+### Bonus progetto
+I progetti verranno valutati 20% anziche 10% solo per gli studenti che superano le prove di teoria e pratica entro luglio e che ricadono i uno dei seguenti casi (bonus progetto):
 
  - progetto standard consegnato entro luglio (12/7) ed il progetto e' stato svolto in gruppo
  - progetto impossibile entro settembre (13/9) ed il progetto è stato svolto da almeno 2 persone
@@ -45,6 +49,11 @@ In casi eccezionali (lavoratori fuori sede o altri casi sempre da concordare pre
 
 ### Progetto standard
 Una descrizione del progetto standard (Gioco 2048) è disponibile in [questa pagina](/pr2/progetto2048).
+
+### Progetto impossibile
+Il progetto impossibile riguarda l'estensione delle funzionalità del progetto opensource [Apache Jena](http://jena.apache.org/) tramite lo sviluppo di una estensione del linguaggio che faccia uso di librerie Java esterne (es. Google Drive, Twitter, ecc.) utilizzando le [Magic Properties](http://jena.apache.org/documentation/query/extension.html#property-functions) a scelta del gruppo.
+Il progetto può anche essere svolto singolarmente (bonus non garantito).
+Maggiori dettagli disponibili per gli studenti interessati. 
 
 
 Appelli 2014
