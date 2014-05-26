@@ -30,7 +30,7 @@ La media dei due preesami, o il voto del secondo preesame (se maggiore) saranno 
 
 Progetto
 --------
-_Nota: La prova progettuale è facoltativa. Chi non intende farla, verrà valutato 0 (zero) con un peso del 10% (peso standard del progetto). Di conseguenza per superare PR2 con 18/30 sarà necessario prendere almeno 18/90*100 = 20 di media alle prove di teoria e pratica_
+_Nota: La prova progettuale è facoltativa. Per chi non intende consegnare, il progetto verrà valutato 0 (zero) con un peso del 10% (peso standard del progetto). Di conseguenza per superare PR2 con 18/30 sarà necessario prendere almeno 18/90*100 = 20 di media alle prove di teoria e pratica_
 Si può scegliere tra progetto _standard_ e progetto _impossibile_. 
 Deve essere svolto preferibilmente da gruppi di 3-5 persone, da formarsi autonomamente e da comunicare prontamente al docente.
 L'elaborato deve essere consegnato 3 giorni prima dell'appello per poter essere valutato per quell'appello.
