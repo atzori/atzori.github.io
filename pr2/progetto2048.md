@@ -9,7 +9,7 @@ Progetto 2048 (progetto standard 2014)
 
 Motivazione: il progetto ha il fine di stimolare lo sviluppo di codice in gruppo, utilizzare tecnologie di versionamento (git e github), esercitarsi a comprendere codice scritto da altri, e familiarizzare con Java 8 e JavaFX. Possibilmente divertendosi.
 
-Il progetto consiste nel modificare l'implementazione del gioco 2048 ([disponibile qui](https://github.com/atzori/fx2048), realizzata da B. Borges utilizzando JavaFX e Java 8) in modo da permettere, _opzionalmente_, di giocare autonomamente con un giocatore automatico.
+Il progetto consiste nel modificare l'implementazione del gioco 2048 ([disponibile qui](https://github.com/atzori/fx2048), realizzata da B. Borges utilizzando JavaFX e Java 8) in modo da permettere, _opzionalmente_, di giocare autonomamente con un giocatore automatico. La modifica dovrà essere fatta utilizzando il fork di github partendo dal [progetto dato](https://github.com/atzori/fx2048).
 
 
 Dovranno essere quindi realizzati 2 file jar. Supponendo di essere il gruppo 9, i file saranno:
