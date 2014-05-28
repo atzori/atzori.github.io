@@ -41,7 +41,9 @@ package giocatoreAutomatico;
 public interface GiocatoreAutomatico {
 
     /** restituisce un oggetto GiocatoreAutomatico su cui si potrà chiedere che mosse fare.  */
-    public abstract static GiocatoreAutomatico getGiocatoreAutomatico(Griglia g);
+    public static GiocatoreAutomatico getGiocatoreAutomatico(Griglia g) {
+       throw new UnsupportedOperationException("metodo non implementato; e' necessario l'overriding");
+    }
     
     /** restituisce 0=ALTO; 1=DX; 2=BASSO; 3=SX , ovvero la mossa che il giocatore automatico intende fare.
         In input prende una locazione (x,y) ed un valore. Ad esempio (0,0) e 16 se nella posizione (0,0) 
