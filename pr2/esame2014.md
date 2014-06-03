@@ -23,7 +23,7 @@ La prova pratica può essere sostenuta solo da chi ha superato la prova di teori
 La prova pratica si considera superata se il voto è almeno 18/30.
 
 ### Preesami
-Chi ha sostenuto il primo preesame (10/4), anche se non superato, potra' sostenere il secondo preesame (7/6).
+Chi ha sostenuto il primo preesame (10/4), anche se non superato, potra' sostenere il secondo preesame (6/6).
 Sara' necessario iscriversi al primo appello disponibile (13/6) entro il 31 Maggio.
 La media dei due preesami, o il voto del secondo preesame (se maggiore) saranno utilizzati come voto per la prova di teoria/pratica.
 
