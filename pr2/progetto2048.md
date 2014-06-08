@@ -5,7 +5,7 @@ title: Progetto Standard 2014
 
 Progetto 2048 (progetto standard 2014)
 ======================================
-**Ultimo aggiornamento: 28 Maggio 2014**
+**Ultimo aggiornamento: 8 Giugno 2014**
 
 Motivazione: il progetto ha il fine di stimolare lo sviluppo di codice in gruppo, utilizzare tecnologie di versionamento (git e github), esercitarsi a comprendere codice scritto da altri, e familiarizzare con Java 8 e JavaFX. Possibilmente divertendosi.
 
@@ -32,7 +32,7 @@ Il gioco dovra' funzionare anche con i giocatori automatici realizzati dagli alt
 
 
 
-Per poter permettere che il gioco sia "disaccoppiato" dal giocatore automatico, e che quindi funzioni anche con giocatori automatici di altri gruppi, i giocatori automatici implementeranno la seguente interfaccia:
+Per poter permettere che il gioco sia "disaccoppiato" dal giocatore automatico, e che quindi funzioni anche con giocatori automatici di altri gruppi, la logica del giocatore automatico deve essere implementata nella classe pubblica `giocatoreAutomatico.player.MyGiocatoreAutomatico` che deve implementare l'interfaccia `giocatoreAutomatico.GiocatoreAutomatico`:
 
 ```java
 /* GiocatoreAutomatico.java */
