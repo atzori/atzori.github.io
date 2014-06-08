@@ -28,7 +28,7 @@ Il gioco potra' essere avviato nel seguente modo:
 
 Il gioco dovra' funzionare anche con i giocatori automatici realizzati dagli altri gruppi e dal docente, ad esempio:
 
-`java -cp Game2048_G9.jar:Game2048_player_`**G15**`.jar game2048.Game2048`
+`java -cp Game2048_`**G9**`.jar:Game2048_player_`**G15**`.jar game2048.Game2048`
 
 
 
@@ -60,10 +60,9 @@ package giocatoreAutomatico;
 Alla Location (0,0), dovrà essere associato il numero (2, oppure 4, oppure 8, ...) associato a quella casella.
 Qualora nella posizione non ci siano numeri, sarà associato il valore -1
 */
-public interface Griglia extends Map<game2048.Location,Integer>  {
-
-
-}
+public interface Griglia extends java.util.Map<game2048.Location,Integer> { }
 
 
 ```
+
+
