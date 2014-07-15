@@ -28,7 +28,22 @@ The API also allows to compute the general ranking of properties, without specif
     http://swipe.unica.it/apps/rankProperties/?property=http://dbpedia.org/property/populationTotal
 
 In this second case, the ranking is not computed according to a specific entity.
-Other details are available in our paper (currently under submission).
+
+This service also includes in the response all properties ranked based on a given input entity (e.g., Cagliari) and a MLR algorithm number (1-8):
+
+1. RankNet
+2. RankBoost
+3. AdaRank
+4. Coordinate Ascent
+5. LambdaMART
+6. MART (Multiple Additive Regression Trees, a.k.a. Gradient boosted regression tree)
+7. ListNet
+8. Random Forests
+
+Here we rank Cagliari's properties using _Random Forest_:
+
+    http://swipe.unica.it/apps/rankProperties/?entity=Cagliari&alg=8
+
 
 
 Publications
