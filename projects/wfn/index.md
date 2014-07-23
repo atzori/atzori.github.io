@@ -62,13 +62,79 @@ A Nucleus for the Web of Open Functions
 As a boosting factor for the Web of Functions, we need a large enough set of functions forming a nucleus for the Web of Functions, allowing the user to appreciate the new features made available by the call function from within any SPARQL query.
 
 We concentrated on a limited set of _auxiliary functions_ (reduce, compose and memoize) that emphatize the usefulness of the higher-order expressivity, together with hundreds of interesting functions made available through a bridge function that exposes all the [Mashape](http://www.mashape.com/) Web APIs.
+The following describes the functions that are submitted for a demo showcase (more info will be available here).
 
 ### Auxiliary HOF functions: reduce, compose, memoize
-`wfn:reduce` is taken from the functional languages world (sometimes called fold or aggregate): given a binary function and a set of values, it applies the functions to the first two values, then recursively to the result and the next value in the list. This can perform aggregation by using a function that may not support aggregation (for instance [`afn:max`](https://jena.apache.org/documentation/query/library-function.html)
+`wfn:reduce` is taken from the functional languages world (sometimes called [fold or aggregate](http://en.wikipedia.org/wiki/Fold_(higher-order_function)): given a binary function and a set of values, it applies the functions to the first two values, then recursively to the result and the next value in the list. This can perform aggregation by using a function that may not support aggregation (for instance Jena's binary [`afn:max`](https://jena.apache.org/documentation/query/library-function.html).
+
+`wfn:compose` allows [function composition](http://en.wikipedia.org/wiki/Function_composition) in the Web of Functions, showing a powerful example of Higher-order function where functions are used as input and output at the same time.
+
+`wfn:memoize` is a [memoization function](http://en.wikipedia.org/wiki/Memoization), that is, produces a copy of the given functions, with the only difference that computed results are cached, making successive calls faster if same parameter values are used.
+
 
 
 ### WebAPIs from within SPARQL queries: api-bridge
-`wfn:call` 
+`wfn:api-bridge` is a function that allows to use any Web API found at the  [Mashape](http://www.mashape.com/) Hub service. Hundreds of functions will be therefore accessible within SPARQL by using the api-bridge extension function.
+The syntax is the following:
+
+    wfn:api-bridge(apiName, getParameters [, json_path])
+
+For instance, if we want to get a json with weather information on the area at a given (latitude, longitude), using the [Mashape API](http://www.mashape.com/community/open-weather-map) made available by the [Open Weather Map initiative](http://openweathermap.org/) as _community-open-weather-map_, we can call the following:
+
+    BIND( wfn:call(wfn:api-bridge, "community-open-weather-map", ?parameters) as ?json).
+
+If we are interested in just the temperature field (that is, "main.temp" in the JSON structure returned), we can specify a third optional parameter:
+
+    BIND( wfn:call(wfn:api-bridge, "community-open-weather-map", ?parameters,
+      "main.temp") as ?temperature).
+      
+or, the logically equivalent:
+
+    BIND( wfn:call(wfn:api-bridge, "community-open-weather-map", ?parameters) as ?json).
+    BIND( wfn:call(wfn:json-field, ?json, "main.temp") as ?temperature).
+
+
+A complete query would be:
+
+    SELECT *  {
+        ?city dbpedia-owl:region dbpedia:Tuscany;
+              dbpedia-owl:populationTotal ?population;
+              geo:lat ?lat;  geo:long ?long.
+        
+        FILTER(?population > 80000).
+        BIND(CONCAT("lat=",?lat,"&lon=",?long) AS ?parameters)
+        
+        BIND( wfn:call(wfn:api-bridge, "community-open-weather-map", ?parameters,
+          "main.temp") as ?temperature).
+    } ORDER BY ?temperature LIMIT 5
+    
+getting temperatures of larger cities in Tuscany.
+
+### Taking Advantage of HOF: Efficiently retrieving weather data
+
+Unfortunately, if we want to get both temperature and, for instance, the humidity, will need two distinct calls to the API service:
+
+    BIND( wfn:call(wfn:api-bridge, "community-open-weather-map", ?parameters,
+      "main.temp") as ?temperature).
+    BIND( wfn:call(wfn:api-bridge, "community-open-weather-map", ?parameters,
+      "main.humidity") as ?humidity).
+
+Memoization wouldn't help, since the last parameter (field) has a different value.
+Instead, a solution taking advantage of the auxiliary function would be:
+
+
+more efficient way would be defining:
+
+    BIND( wfn:compose(wfn:json-field,  wfn:memoize( wfn:api-bridge )) as ?fast_api_bridge).
+    
+and then, use it:
+
+    BIND( wfn:call( ?fast_api_bridge, "community-open-weather-map", ?parameters,
+      "main.temp") as ?temperature).
+    BIND( wfn:call( ?fast_api_bridge, "community-open-weather-map", ?parameters,
+      "main.humidity") as ?humidity).
+
+The second call would be extremely fast, since it will not involve the open weather API, memoized through the compose function.
 
 
 
