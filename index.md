@@ -52,7 +52,7 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 Another source is the [Research Catalog of the University of Cagliari](http://anagrafericerca.unica.it/anagrafe/it/risultati_prodotti.wp?tipo=RIC_PROD&id=RIC86316&new=1).
 
 
- 1. [Toward the Web of Functions: Interoperable Higher-Order Functions in SPARQL](http://iswc2014.semanticweb.org/). Atzori M. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Research Track (2014)
+ 1. [Toward the Web of Functions: Interoperable Higher-Order Functions in SPARQL](http://iswc2014.semanticweb.org/node/61). Atzori M. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Research Track (2014)
  1. [Supporting Semantic Web Search and Structured Queries on Mobile Devices](http://www.sebd2014.unina.it/). Dessi A., Maxia A., Atzori M., Zaniolo C. _SEBD 2014 - Proceedings of the 22th Italian Symposium on Advanced Database Systems_ (2014)
  1. [Ranking DBpedia Properties](http://web2touch2014.tudor.lu/Accepted.html). Atzori M., Dessi A. _23rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises, Web2Touch Track_ (2014)
  1. [Computing on-the-fly DBpedia Property Ranking](http://ieee-icsc.org/icsc2014/). Dessi A., Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
