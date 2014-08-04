@@ -207,6 +207,8 @@ Information Processing &amp; Management (<a>IPM</a>).
 
 - Program Committee member (PC Member) of the 1st International Workshop on Privacy and Security of Big Data ([PSBD 2014](http://si.deis.unical.it/~cuzzocrea/PSBD2014/)) co-located with [CIKM 2014](http://cikm2014.fudan.edu.cn/).
 
+- Program Committee member (PC Member) of the 18th International Conference on Business Information Systems ([BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/))
+ 
 - Program Committee member (PC Member) of the 22th Italian Symposium on Advanced Database Systems ([SEBD2014](http://www.sebd2014.unina.it/))
 
 - Program Committee member (PC Member) of the 2014 IEEE International Workshop on Trust, Security and Privacy for Big Data ([IEEE TrustData 2014](http://trust.csu.edu.cn/conference/TrustData2014/)), Dalian, China, August 24-27, 2014
