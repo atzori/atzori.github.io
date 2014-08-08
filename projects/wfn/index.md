@@ -120,10 +120,7 @@ Unfortunately, if we want to get both temperature and, for instance, the humidit
       "main.humidity") as ?humidity).
 
 Memoization wouldn't help, since the last parameter (field) has a different value.
-Instead, a solution taking advantage of the auxiliary function would be:
-
-
-more efficient way would be defining:
+Instead, a more efficient solution that takes advantage of the auxiliary function would be defining first:
 
     BIND( wfn:compose(wfn:json-field,  wfn:memoize( wfn:api-bridge )) as ?fast_api_bridge).
     
