@@ -24,7 +24,7 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- [Full paper accepted](http://iswc2014.semanticweb.org/node/61) at the Research Track of the [_International Semantic Web Conference (ISWC 2014)_](http://iswc2014.semanticweb.org/), see you at Riva del Garda!
+- _Full paper_ at the Research Track and a _Demo paper_ [accepted]((http://iswc2014.semanticweb.org/node/61)) at the [_International Semantic Web Conference (ISWC 2014)_](http://iswc2014.semanticweb.org/), see you at Riva del Garda! For further information on the proposal see its [project page](http://atzori.webofcode.org/projects/wfn/)
 
 <!--  PC of [SEBD 2014](http://www.sebd2014.unina.it/). Take the opportunity of visiting the amazing Sorrento Coast on June 16th-18th!-->
 - Our WWW2012 work [SWiPE: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in several languages
@@ -52,8 +52,8 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](http://anagrafericerca.unica.it/anagrafe/it/risultati_prodotti.wp?tipo=RIC_PROD&id=RIC86316&new=1).
 
-
  1. [Toward the Web of Functions: Interoperable Higher-Order Functions in SPARQL](http://iswc2014.semanticweb.org/node/61). Atzori M. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Research Track (2014)
+ 1. [call: A Nucleus for a Web of Open Functions](http://iswc2014.semanticweb.org/node/61). Atzori M. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Demo Track (2014)
  1. [Supporting Semantic Web Search and Structured Queries on Mobile Devices](http://www.sebd2014.unina.it/). Dessi A., Maxia A., Atzori M., Zaniolo C. _SEBD 2014 - Proceedings of the 22th Italian Symposium on Advanced Database Systems_ (2014)
  1. [Ranking DBpedia Properties](http://web2touch2014.tudor.lu/Accepted.html). Atzori M., Dessi A. _23rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises, Web2Touch Track_ (2014)
  1. [Computing on-the-fly DBpedia Property Ranking](http://ieee-icsc.org/icsc2014/). Dessi A., Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
@@ -208,7 +208,7 @@ Information Processing &amp; Management (<a>IPM</a>).
 
 - Program Committee member (PC Member) of the 1st International Workshop on Privacy and Security of Big Data ([PSBD 2014](http://si.deis.unical.it/~cuzzocrea/PSBD2014/)) co-located with [CIKM 2014](http://cikm2014.fudan.edu.cn/).
 
-- Program Committee member (PC Member) of the 18th International Conference on Business Information Systems ([BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/))
+- Program Committee member (PC Member) of the 18th International Conference on Business Information Systems ([BIS 2015](http://bis.kie.ue.poznan.pl/))
  
 - Program Committee member (PC Member) of the 22th Italian Symposium on Advanced Database Systems ([SEBD2014](http://www.sebd2014.unina.it/))
 
