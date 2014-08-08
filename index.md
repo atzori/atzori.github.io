@@ -268,6 +268,7 @@ In Cooperation with IEEE ICDM 2012 (PC member since SSTDM-08)
 <a id="links"/>
 Links
 -----
+- [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/) - Publisher copyright policies & self-archiving information
 - [CORE Portal](http://core.edu.au/index.php/categories/conference%20rankings/1) - Official Australian   [CS Conference Rankings](http://www.core.edu.au/coreportal)
 - [2048 infUnica Edition](http://games.usvsth3m.com/2048/infunica-edition/) - the popular game [2048](gabrielecirulli.github.io/2048/) as seen by CS students at the University of Cagliari. [Tetris also available](http://games.usvsth3m.com/giftris/infunica-edition/).
 - [PhD Comics](http://www.phdcomics.com/comics/comics.php)
