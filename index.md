@@ -24,7 +24,7 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- _Full paper_ at the Research Track and a _Demo paper_ [accepted]((http://iswc2014.semanticweb.org/node/61)) at the [_International Semantic Web Conference (ISWC 2014)_](http://iswc2014.semanticweb.org/), see you at Riva del Garda! For further information on the proposal see its [project page](http://atzori.webofcode.org/projects/wfn/)
+- _Full paper_ at the Research Track and a _Demo paper_ [accepted](http://iswc2014.semanticweb.org/node/61) at the [_International Semantic Web Conference (ISWC 2014)_](http://iswc2014.semanticweb.org/), see you at Riva del Garda! For further information on the proposal see its [project page](http://atzori.webofcode.org/projects/wfn/)
 
 <!--  PC of [SEBD 2014](http://www.sebd2014.unina.it/). Take the opportunity of visiting the amazing Sorrento Coast on June 16th-18th!-->
 - Our WWW2012 work [SWiPE: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in several languages
