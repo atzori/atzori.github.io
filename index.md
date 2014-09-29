@@ -210,6 +210,9 @@ Information Processing &amp; Management (<a>IPM</a>).
 - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics
 
 
+- Program Committee member (PC Member) of the International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM-14](http://web.ornl.gov/sci/knowledgediscovery/sstdm-14/))
+In Cooperation with IEEE ICDM (PC member since SSTDM-08)
+
 - Program Committee member (PC Member) of the 1st International Workshop on Privacy and Security of Big Data ([PSBD 2014](http://si.deis.unical.it/~cuzzocrea/PSBD2014/)) co-located with [CIKM 2014](http://cikm2014.fudan.edu.cn/).
 
 - Program Committee member (PC Member) of the 18th International Conference on Business Information Systems ([BIS 2015](http://bis.kie.ue.poznan.pl/))
@@ -229,9 +232,6 @@ Information Processing &amp; Management (<a>IPM</a>).
 - PC Member of Security &amp; Network Technologies Track of the <a href="http://ciia2013.lewebpro.net/">4th International Conference on Computer Science and Its Applications</a> (CIIA 2013)
 
 - PC Member of the International Workshop on Privacy and Anonymity in the Information Society (PAIS 2013), in conjunction with EDBT/ICDT (in the PC since its first edition in 2008)
-
-- Program Committee member (PC Member) of the International Workshop on Spatial and Spatiotemporal Data Mining (SSTDM-12)
-In Cooperation with IEEE ICDM 2012 (PC member since SSTDM-08)
 
 - Program Committee member (PC Member) of the 19th Italian Symposium on Advanced Database Systems (SEBD2011)
 
