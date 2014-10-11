@@ -23,5 +23,8 @@ Enjoy!
 
 
 *The SWiPE Team*
+
 Maurizio Atzori, University of Cagliari, _atzori@unica.it_
+
 Carlo Zaniolo, University of California in Los Angeles, _zaniolo@cs.ucla.edu_
+
