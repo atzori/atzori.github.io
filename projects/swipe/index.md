@@ -16,7 +16,7 @@ To discover active (recognized) fields, press Ctrl+Alt+1 or use the SWiPE Toolba
 For instance, to search for all Italian cities with more than 2 million people, you can:
 
 1. go to any page similar to the result you are looking for, for instance, go to the [Rome page](/wiki/Rome)
-2. in the infobox, move the mouse over Italy, close to country, click and type =italy; similarly, go over Rome's population, click and type >2000000 (overwriting the existing value)
+2. in the infobox, move the mouse over _Italy_, close to country, click and type `=italy`; similarly, go over Rome's _population total_, click and type `>2000000` (overwriting the existing value)
 3. click on the green "SWiPE" button in the bottom Toolbar; now you will be shown a list of the larger Italian cities, as you asked!
 
 Enjoy!
