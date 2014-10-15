@@ -24,8 +24,9 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- PC Member of the [18th International Conference on Business Information Systems (BIS 2015)](http://bis.kie.ue.poznan.pl/bis2015/call-for-papers/), on topics such as Big Data, Linked Data and Ontologies. Deadline December 19th, Springer Proceedings. Take the opportunity of visiting Poland and the historical city of Poznań.
+- PC Member of the [18th International Conference on Business Information Systems (BIS 2015)](http://bis.kie.ue.poznan.pl/bis2015/call-for-papers/), on topics such as Big Data, Linked Data and Ontologies. Deadline December 19th, Springer Proceedings. Take the opportunity of visiting Poland and the historical city of Poznań
 
+<!--  PC of [SEBD 2014](http://www.sebd2014.unina.it/). Take the opportunity of visiting the amazing Sorrento Coast on June 16th-18th!-->
 - _Full paper_ at the Research Track and a _Demo paper_ [accepted](http://iswc2014.semanticweb.org/node/61) at the [_International Semantic Web Conference (ISWC 2014)_](http://iswc2014.semanticweb.org/), see you at Riva del Garda! For further information on the proposal see its [project page](http://atzori.webofcode.org/projects/wfn/)
 
 <!--  PC of [SEBD 2014](http://www.sebd2014.unina.it/). Take the opportunity of visiting the amazing Sorrento Coast on June 16th-18th!-->
