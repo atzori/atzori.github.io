@@ -24,6 +24,9 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
+- PC Member of the [8th International Workshop on Privacy and Anonymity in the Information Society (PAIS)](http://www.mathcs.emory.edu/pais15/pdf/CFP_PAIS.pdf) collocated with EDBT/ICDT 2015. Deadline December 14th. _Travel grants_ available to participants from transition countries.
+
+<!--  PC of [SEBD 2014](http://www.sebd2014.unina.it/). Take the opportunity of visiting the amazing Sorrento Coast on June 16th-18th!-->
 - PC Member of the [18th International Conference on Business Information Systems (BIS 2015)](http://bis.kie.ue.poznan.pl/bis2015/call-for-papers/), on topics such as Big Data, Linked Data and Ontologies. Deadline December 19th, Springer Proceedings. Take the opportunity of visiting Poland and the historical city of Poznań
 
 <!--  PC of [SEBD 2014](http://www.sebd2014.unina.it/). Take the opportunity of visiting the amazing Sorrento Coast on June 16th-18th!-->
