@@ -58,7 +58,7 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](http://anagrafericerca.unica.it/anagrafe/it/risultati_prodotti.wp?tipo=RIC_PROD&id=RIC86316&new=1).
 
- 1. [Text-Mining, Structured Queries, and Knowledge Management on Web Document Corpora](http://www.sigmod.org/publications/sigmod-record/). Mousavi H., Atzori M., Gao S., Zaniolo C. _SIGMOD Record Journal_, accepted for publication (2014)
+ 1. [Text-Mining, Structured Queries, and Knowledge Management on Web Document Corpora](http://www.sigmod.org/publications/sigmod-record/1409/pdfs/07.systems-Mousavi.pdf). Mousavi H., Atzori M., Gao S., Zaniolo C. _SIGMOD Record Journal_, Vol. 43(3), (2014)
  1. [Expressivity and Accuracy of By-Example Structured Queries on Wikipedia](http://fmdb.cs.ucla.edu/tech_reports/listing.lasso). Atzori M., Zaniolo C. _UCLA Computer Science Technical Report 140017_ (2014) 
  1. [Toward the Web of Functions: Interoperable Higher-Order Functions in SPARQL](http://dx.doi.org/10.1007/978-3-319-11915-1_26). Atzori M. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Research Track (2014)
  1. [call: A Nucleus for a Web of Open Functions](http://iswc2014.semanticweb.org/node/61). Atzori M. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Demo Track (2014)
