@@ -147,7 +147,8 @@ and then, use it:
 The second call would be extremely fast, since it will not involve the open weather API, memoized through the compose function.
 
 
-### Contacts
+Contacts
+----------
 If you are interest in the Web of Functions, want to use it, contribute and/or make your own function available within the Web of Functions, feel free to [email me](mailto:atzori@unica.it).
 
 
