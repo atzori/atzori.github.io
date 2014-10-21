@@ -35,7 +35,7 @@ Technical details and how-tos will be available shortly.
 Details are available in our papers discussed at the [International Semantic Web Conference 2014](http://iswc2014.semanticweb.org/):
 
  1. [Toward the Web of Functions: Interoperable Higher-Order Functions in SPARQL](http://dx.doi.org/10.1007/978-3-319-11915-1_26). Atzori Maurizio. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Research Track (2014)
- 1. [call: A Nucleus for a Web of Open Functions](http://iswc2014.semanticweb.org/node/61). Atzori Maurizio. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Demo Track (2014)
+ 1. [call: A Nucleus for a Web of Open Functions](http://ceur-ws.org/Vol-1272/paper_13.pdf). Atzori Maurizio. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Demo Track (2014)
 
 
 
