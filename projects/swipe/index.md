@@ -22,7 +22,7 @@ To discover active (recognized) fields, press Ctrl+Alt+1 or use the SWiPE Toolba
 
 Enjoy!
 
-
+<br/>
 *The SWiPE Team*
 
 Maurizio Atzori, University of Cagliari, _atzori@unica.it_
