@@ -29,6 +29,7 @@ Now, you can refine your search by getting back to the previous example page ([c
 By clicking on the green button you are faced with the list of [largest cities in italy, sorted by starting from the largest](/wiki/Special:SwipeSearch?sp=Florence&dbo%3Acountry=Italy&dbo%3ApopulationTotal=%3E2000000&rdf%3Atype=cities&dbo%3ApopulationTotal=*&dbo:populationTotal=^desc).
 
 SWiPE dynamically generates a SPARQL query ran against our DBpedia 2014 instance server. Any wrong value in the result is likely to be a wrong value in DBpedia. By clicking on the _[D]_ link close to each result, you can check values in the DBpedia Linked Open Data.
+Text constraints are ignore case, and substring search by default: you can specify `ignazio` as *Mayor* in the previous search, finding Rome with mayor `Ignazio Marino`.
 
 To discover active (recognized) fields, press Ctrl+Alt+1 or use the SWiPE Toolbar commands at the bottom of the screen. The Toolbar will also allow to search for text in the abstracts and to constraint the type of the required results (e.g., _Settlement_).
 
