@@ -1,6 +1,7 @@
 ---
 title: SWiPE Searching Wikipedia by Example, By Example Structured Queries, BESt Query
 layout: simple_page
+myvar: 1
 ---
 
 
