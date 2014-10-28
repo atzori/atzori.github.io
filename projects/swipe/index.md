@@ -3,6 +3,7 @@ layout: simple_page
 title: Web of Functions - SPARQL call function
 ---
 
+
 # SWiPE: Searching WikiPedia by Example
 
 
