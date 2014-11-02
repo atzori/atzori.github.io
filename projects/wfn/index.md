@@ -35,10 +35,8 @@ Technical details and how-tos will be available shortly.
 ###Publications
 Details are available in our papers discussed at the [International Semantic Web Conference 2014](http://iswc2014.semanticweb.org/):
 
- 1. [Toward the Web of Functions: Interoperable Higher-Order Functions in SPARQL](http://dx.doi.org/10.1007/978-3-319-11915-1_26). Atzori Maurizio. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Research Track (2014)
- 1. [call: A Nucleus for a Web of Open Functions](http://ceur-ws.org/Vol-1272/paper_13.pdf). Atzori Maurizio. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Demo Track (2014)
-
-
+ 1. [Toward the Web of Functions: Interoperable Higher-Order Functions in SPARQL](https://github.com/lidingpku/iswc2014/raw/master/paper/87970401-toward-the-web-of-functions-interoperable-higher-order-functions-in-sparql.pdf). Atzori M. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Research Track, [doi](http://dx.doi.org/10.1007/978-3-319-11915-1_26) (2014)
+ 1. [call: A Nucleus for a Web of Open Functions](http://ceur-ws.org/Vol-1272/paper_13.pdf). Atzori M. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Demo Track (2014)
 
 Simple Examples: Computing the concatenation of Strings from a Remote Endpoint
 ----------
@@ -117,21 +115,8 @@ or, assuming we have a `wfn:json-field` parsing function, the logically equivale
     BIND( wfn:call(wfn:json-field, ?json, "main.temp") as ?temperature).
 
 
-A complete query would be:
+A complete query can be found in the [SPARQL examples page](http://atzori.webofcode.org/projects/wfn/examples), where the query gets large cities in Tuscany and their current (at query time) temperature in Celsius.
 
-    SELECT *  {
-        ?city dbpedia-owl:region dbpedia:Tuscany;
-              dbpedia-owl:populationTotal ?population;
-              geo:lat ?lat;  geo:long ?long.
-        
-        FILTER(?population > 80000).
-        BIND(CONCAT("lat=",?lat,"&lon=",?long) AS ?parameters)
-        
-        BIND( wfn:call(wfn:api-bridge, "community-open-weather-map/weather", ?parameters,
-          "main.temp") as ?temperature).
-    } ORDER BY ?temperature LIMIT 5
-    
-getting temperatures of larger cities in Tuscany.
 
 ### Taking Advantage of HOF: Efficiently retrieving weather data
 
