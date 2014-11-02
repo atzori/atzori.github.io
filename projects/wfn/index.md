@@ -158,7 +158,7 @@ The second call would be extremely fast, since it will not involve the open weat
 
 More Examples
 -------------
-Other examples of usage can be found on the [examples page](example)
+Other examples of usage can be found on the [examples page](http://atzori.webofcode.org/projects/wfn/examples)
 
 Contacts
 ----------
