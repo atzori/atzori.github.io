@@ -156,6 +156,9 @@ and then, use it:
 
 The second call would be extremely fast, since it will not involve the open weather API, memoized through the compose function.
 
+More Examples
+-------------
+Other examples of usage can be found on the [examples page](example)
 
 Contacts
 ----------
