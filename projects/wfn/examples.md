@@ -5,13 +5,18 @@ keywords: SPARQL, Web of Functions, Remote function calls
 ---
 
 Examples of SPARQL queries using the Web of Functions
-================
+=====================================================
 In this page we provide a set of SPARQL queries that document how take advantage of the [Web of Functions](http://webofcode.org/wfn/).
 The [Web of Functions](http://webofcode.org/wfn/) is a simple, backward-compatible way to computing custom functions remotely from any SPARQL endpoint. It is named after the Web of Data, since every function is associated with a (potentially dereferenciable) URI, thus forming the Web of Functions.
 Go to the [project page](http://webofcode.org/wfn/) to get info about the Web of Functions.
 
+Endpoint
+--------
+We made available a public SPARQL endpoint at `http://webofcode.org/wfn/sparql` where you can access the Web of Functions.
+SPARQL Queries can be posed by using [this form](http://webofcode.org/wfn/sparql.html). 
+
 Composing functions (higher-order expressivity)
----------------------------
+----------------------------------------------
 In the following we show how simply define a function `?f` which is the the composition of two function (one extracting the localname out of a URI, another making a string uppercase).
 The second `BIND` contain the actual `call:` that will execute the two functions.
 
@@ -19,13 +24,11 @@ The second `BIND` contain the actual `call:` that will execute the two functions
     PREFIX wfn: <http://webofcode.org/wfn/>
     PREFIX afn: <http://jena.hpl.hp.com/ARQ/function#>
     PREFIX fn:  <http://www.w3.org/2005/xpath-functions#>
-    
     PREFIX myserver: <http://i-mozart.com/mywfn/>
+        
     SELECT ?res {
-    
       BIND(wfn:compose(afn:localname, fn:upper-case) as ?f)
       BIND(call:(?f, <http://addr.com/my#entity>) as ?res)
-    
     }
 
 In the following another similar example:
