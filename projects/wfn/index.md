@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web of Functions - SPARQL call function
+title: Web of Functions
 keywords: SPARQL, Web of Functions, Remote function calls
 ---
 
