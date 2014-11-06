@@ -1,6 +1,7 @@
 ---
 title: A Gate for the Web of Functions
-layout: page_simple
+layout: page
+keywords: SPARQL, query rewriting
 ---
 A Gate for the Web of Functions
 ===============================
