@@ -15,7 +15,7 @@ Ongoing work
     PREFIX fn:  <http://www.w3.org/2005/xpath-functions#>
             
     SELECT ?city ?temperature_in_Celsius {
-        SERVICE <http://dbpedia.org/sparql> {
+        SERVICE <http://db.webofcode.org/sparql> {
           ?city a dbpedia-owl:Settlement;
                 dbpprop:region dbpedia:Tuscany;
                 dbpprop:populationTotal ?p.
