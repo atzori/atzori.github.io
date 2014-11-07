@@ -10,7 +10,7 @@ layout: simple_page
 ## Introducing SWiPE
 SWiPE is a research prototype interface that implements the _BESt Query_ paradigm ([WWW12 paper](http://www2012.wwwconference.org/proceedings/companion/p309.pdf)). 
 
-It allows to better search Wikipedia, by using different parameters other than simpy keyword search.
+It allows to better search Wikipedia, by using different parameters other than simple keyword search.
 SWiPE interface looks like Wikipedia but you can click and search using infoboxes as if they were form fields to input constraints.
 
 For instance, to search for all Italian places with more than 2 million people, you can:
