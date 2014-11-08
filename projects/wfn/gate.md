@@ -46,7 +46,7 @@ The following queries work on Virtuoso, Jena/Fuseki and Sesame.
     } # outer select
 
 
-# Temperature in given cities
+### Temperature in given cities
 
     PREFIX wfn: <http://webofcode.org/wfn/>
     PREFIX dbpedia: <http://dbpedia.org/resource/>
@@ -157,7 +157,6 @@ the following works both on Sesame and Jena (syntax problems with Virtuoso):
     PREFIX fn:  <http://www.w3.org/2005/xpath-functions#>
     
     SELECT ?city ?temperature_in_Celsius {
-    
     
     { select ?lon ?lat ?city {
         SERVICE <http://db.webofcode.org/sparql> {
