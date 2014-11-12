@@ -31,7 +31,7 @@ By clicking on the green button you are faced with the list of [largest cities i
 SWiPE dynamically generates a SPARQL query ran against our DBpedia 2014 instance server. Any wrong value in the result is likely to be a wrong value in DBpedia. By clicking on the _[D]_ link close to each result, you can check values in the DBpedia Linked Open Data.
 Text constraints are ignore case, and substring search by default: you can specify `ignazio` as *Mayor* in the previous search, finding Rome with mayor `Ignazio Marino`.
 
-To discover active (recognized) fields, press Ctrl+Alt+1 or use the SWiPE Toolbar commands at the bottom of the screen. The Toolbar will also allow to search for text in the abstracts and to constraint the type of the required results (e.g., _Settlement_).
+To discover active (recognized) fields, press Ctrl+Alt+1 or use the _show fields_ checkbox in the SWiPE Toolbar at the bottom of the screen. The Toolbar will also allow to search for text in the abstracts and to constraint the type of the required results (e.g., _Settlement_).
 
 Enjoy!
 
