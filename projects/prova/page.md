@@ -326,3 +326,11 @@ Members
   </li>
 {% endfor %}
 </ul>
+
+Members2
+-------
+Members
+{% for member in site.data.members %}
+  -  {{ member.name }}
+{% endfor %}
+</ul>
