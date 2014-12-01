@@ -331,6 +331,6 @@ Members2
 -------
 Members
 {% for member in site.data.members %}
-  -  {{ member.name }}
+  - [{{ member.name }}](https://github.com/{{ member.github }})
 {% endfor %}
 </ul>
