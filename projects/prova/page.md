@@ -1,5 +1,5 @@
 ---
-layout: prova
+layout: bootstrap
 title: titolo
 ---
 
