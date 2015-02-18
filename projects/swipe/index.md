@@ -33,6 +33,9 @@ Text constraints are ignore case, and substring search by default: you can speci
 
 To discover active (recognized) fields, press Ctrl+Alt+1 or use the _show fields_ checkbox in the SWiPE Toolbar at the bottom of the screen. The Toolbar will also allow to search for text in the abstracts and to constraint the type of the required results (e.g., _Settlement_).
 
+To simplify the use of SWiPE, drag an drop the following link (a flipr) to your browser's bookmarks bar: <a href="javascript:
+var l=window.location.href;if(l.indexOf('.wikipedia.org/wiki/')>0){l=l.split('/');l=l[l.length-1];window.location.href='http://swipe.webofcode.org/wiki/'+l;};">SWiPE</a>. Then, whenever you are on a Wikipedia page, just click on the new SWiPE link on the bookmarks bar and the browser will jump to the its corresponding SWiPE page.
+
 Enjoy!
 
 <br/>
