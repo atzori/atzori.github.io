@@ -35,7 +35,7 @@ To discover active (recognized) fields, press Ctrl+Alt+1 or use the _show fields
 
 
 To simplify the use of SWiPE, drag an drop the following link (a *flipr*) to your browser's bookmarks bar: <a href="javascript:
-var l=window.location.href;if(l.indexOf('.wikipedia.org/wiki/')>0){l=l.split('/');l=l[l.length-1];window.location.href='http://swipe.webofcode.org/wiki/'+l;} else if(l.indexOf('.webofcode.org/wiki/')>0){l=l.split('/');l=l[l.length-1];window.location.href='http://en.wikipedia.org/wiki/'+l;};">SwipeFlip</a>. Then, whenever you are on a Wikipedia page, just click on the new SWiPE link on the bookmarks bar and the browser will jump to the its corresponding SWiPE page.
+var l=window.location.href;if(l.indexOf('.wikipedia.org/wiki/')>0){l=l.split('/');l=l[l.length-1];window.location.href='http://swipe.webofcode.org/wiki/'+l;} else if(l.indexOf('.webofcode.org/wiki/')>0){l=l.split('/');l=l[l.length-1];window.location.href='http://en.wikipedia.org/wiki/'+l;}else{window.location.href='http://swipe.webofcode.org/';};">SwipeFlip</a>. Then, whenever you are on a Wikipedia page, just click on the new SWiPE link on the bookmarks bar and the browser will jump to the its corresponding SWiPE page.
 
 Enjoy!
 
