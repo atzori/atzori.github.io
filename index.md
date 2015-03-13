@@ -13,7 +13,7 @@ He has been member of the [ISTI-CNR](http://www.isti.cnr.it/), holding a researc
 He has been visiting scholar at [Purdue University](http://www.cs.purdue.edu/) (Indiana, USA), working with Prof. [Christopher W. Clifton](http://www.cs.purdue.edu/people/clifton) and his research team.
 He has been visiting resercher working with Prof. [Yucel Saygin](http://people.sabanciuniv.edu/ysaygin/) at [Sabanci University](http://www.sabanciuniv.edu/mdbf/eng/) (Istanbul, Turkey) and at [UCLA](http://www.cs.ucla.edu/), collaborating with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/).
 Since December 2010 he is _Assistant Professor_ (Ricercatore Universitario, Professore Aggregato) at the [Department of Mathematics and Computer Science](http://dipartimenti.unica.it/matematicaeinformatica/) of the [University of Cagliari](http://www.unica.it) (Italy).
-His major research interests regard database and dataspaces, data integration, data mining and privacy-preserving algorithms for data management.
+His major research interests regard database and dataspaces, data mining, knowledge graphs and privacy-preserving algorithms for data management.
 
 <!-- He discussed a thesis on Decision Trees and Abduction,
 about the use of abductive inference with decision trees in the
@@ -24,12 +24,11 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
+- co-Pi with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/) of a [Google Faculty Research Award](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html). Our project **Exploiting Structured Queries in Question Answering and Search** got extended coverage on local press such as [Wired.it](http://www.wired.it/economia/business/2015/03/11/google-award-rivoluzione-dei-motori-ricerca-passa-dalla-sardegna/)
 
 - Interested in the [**Web of Functions**](http://webofcode.org/wfn/)? Take a look at the  _full paper_ at the Research Track of the [_International Semantic Web Conference (ISWC 2014)_](http://iswc2014.semanticweb.org/). There is also a _Demo paper_. Further information and many examples can be found at the [project page](http://webofcode.org/wfn/).
 
-- PC Member of the [8th International Workshop on Privacy and Anonymity in the Information Society (PAIS)](http://www.mathcs.emory.edu/pais15/pdf/CFP_PAIS.pdf) collocated with EDBT/ICDT 2015. Deadline December 14th. _Travel grants_ available to participants from transition countries.
-
-- PC Member of the [18th International Conference on Business Information Systems (BIS 2015)](http://bis.kie.ue.poznan.pl/bis2015/call-for-papers/), on topics such as Big Data, Linked Data and Ontologies. Deadline December 19th, Springer Proceedings. Take the opportunity of visiting Poland and the historical city of Poznań
+- PC Member of the [8th International Workshop on Privacy and Anonymity in the Information Society (PAIS)](http://www.mathcs.emory.edu/pais15/pdf/CFP_PAIS.pdf) (EDBT/ICDT 2015) and of the [18th International Conference on Business Information Systems (BIS 2015)](http://bis.kie.ue.poznan.pl/bis2015/call-for-papers/).
 
 - Our WWW2012 work [**SWiPE**: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in several languages
 
@@ -53,6 +52,9 @@ Students can join the PR2 course at the [course page in Moodle](http://moodle2.u
 <!-- (http://moodle.unica.it/course/view.php?id=51) -->
 
 - [Programmazione II - Object-Oriented Programming](http://informatica.unica.it/index.php?section=course&id=79) (since A.A. 2010/11)
+
+
+I previously tought as Aggregate Professor at the [University of Sassari](http://www.uniss.it) and as Teaching assistant at the [University of Pisa](http://www.di.unipi.it/).
 
 <a id="publications"/>
 Publications
