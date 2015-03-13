@@ -24,13 +24,13 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- co-Pi with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/) of a [Google Faculty Research Award](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html). Our project **Exploiting Structured Queries in Question Answering and Search** got extended coverage on local press such as [Wired.it](http://www.wired.it/economia/business/2015/03/11/google-award-rivoluzione-dei-motori-ricerca-passa-dalla-sardegna/)
+- co-Pi with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/) of a [Google Faculty Research Award](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html). Our project **Exploiting Structured Queries in Question Answering and Search** got extended coverage on local press such as [Wired.it](http://www.wired.it/economia/business/2015/03/11/google-award-rivoluzione-dei-motori-ricerca-passa-dalla-sardegna/) (Italian).
 
 - Interested in the [**Web of Functions**](http://webofcode.org/wfn/)? Take a look at the  _full paper_ at the Research Track of the [_International Semantic Web Conference (ISWC 2014)_](http://iswc2014.semanticweb.org/). There is also a _Demo paper_. Further information and many examples can be found at the [project page](http://webofcode.org/wfn/).
 
 - PC Member of the [8th International Workshop on Privacy and Anonymity in the Information Society (PAIS)](http://www.mathcs.emory.edu/pais15/pdf/CFP_PAIS.pdf) (EDBT/ICDT 2015) and of the [18th International Conference on Business Information Systems (BIS 2015)](http://bis.kie.ue.poznan.pl/bis2015/call-for-papers/).
 
-- Our WWW2012 work [**SWiPE**: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in several languages
+- Our WWW2012 work [**SWiPE**: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in [several languages](/projects/swipe/press).
 
 
 <!--  PC of [SEBD 2014](http://www.sebd2014.unina.it/). Take the opportunity of visiting the amazing Sorrento Coast on June 16th-18th!-->
