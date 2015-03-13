@@ -30,7 +30,7 @@ Highlights
 
 - PC Member of the [8th International Workshop on Privacy and Anonymity in the Information Society (PAIS)](http://www.mathcs.emory.edu/pais15/pdf/CFP_PAIS.pdf) (EDBT/ICDT 2015) and of the [18th International Conference on Business Information Systems (BIS 2015)](http://bis.kie.ue.poznan.pl/bis2015/call-for-papers/).
 
-- Our WWW2012 work [**SWiPE**: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in [several languages](/projects/swipe/press).
+- Our WWW2012 work [**SWiPE**: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in [several languages](http://atzori.webofcode.org/projects/swipe/press).
 
 
 <!--  PC of [SEBD 2014](http://www.sebd2014.unina.it/). Take the opportunity of visiting the amazing Sorrento Coast on June 16th-18th!-->
