@@ -1,8 +1,7 @@
 ---
-title: SWiPE Searching Wikipedia by Example: Comparative Study
+title: SWiPE Searching Wikipedia by Example, Comparative Study
 layout: bootstrap
 ---
-
 
 # A Comparative Study about SWiPE: Searching WikiPedia by Example
 
