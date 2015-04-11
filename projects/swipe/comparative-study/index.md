@@ -3,10 +3,12 @@ title: SWiPE Searching Wikipedia by Example, Comparative Study
 layout: bootstrap
 ---
 
-# A Comparative Study about SWiPE's By-Example Structured Queries (BEStQ) and Xser's Natural language Question Answerting (QA).
+# A Comparative Study (BEStQ vs Q/A) 
+A Comparative study about SWiPE's By-Example Structured Queries (BEStQ) and Xser's Natural language Question Answerting (Q/A)
 
 ### Trivial Q/A Problems
 In the following the list of Trivial Q/A Problems from QALD-4
+
   1. How often did Jane Fonda marry?
   1. What is the official website of Tom Cruise?
   1. Who created Wikipedia?
