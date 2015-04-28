@@ -222,6 +222,10 @@ Information Processing &amp; Management (<a>IPM</a>).
 
 - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics
 
+- Program Committee member (PC Member) of the 6th International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2015](http://trust.csu.edu.cn/conference/TrustData2015/)), in conjunction with ICA3PP 2015,  November 18-20, 2015 in Zhangjiajie, China.
+
+TrustData 2015, the 6th International Workshop on Trust, Security and Privacy for Big Data. The conference will be held in conjunction with ICA3PP 2015, the 15th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2015), November 18-20, 2015 in Zhangjiajie, China. You can get more information at conference web site http://trust.csu.edu.cn/conference/TrustData2015/.
+
 - PC Member of the 5th IFIP Conference on Computer Science and its Applications ([CIIA-2015](http://ciia2015.ensma.fr/articles.php?lng=en&pg=69&mnuid=32&tconfig=0)), Security and Network Technologies Track
 
 - Program Committee member (PC Member) of the International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM-14](http://web.ornl.gov/sci/knowledgediscovery/sstdm-14/))
