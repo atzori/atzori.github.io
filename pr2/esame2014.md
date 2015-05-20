@@ -6,6 +6,8 @@ title: Esame PR2 2014
 Esame PR2 2014
 =================
 
+**NOTA: per le modalità d'esame dell'anno accademico 2014/2015 fare riferimento all'[apposita pagina di descrizione](esame2015)**
+
 L'esame di PR2 è suddiviso in 3 prove (tra parentesi il peso di ciascuna prova nel voto finale):
 
  - teoria (35%)
