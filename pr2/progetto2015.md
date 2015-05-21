@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bootstrap
 title: Progetto 2015
 ---
 
@@ -10,7 +10,7 @@ Progetto PR2 (A.A. 2014/2015)
 Motivazione: 
 
   1. il progetto ha il fine di stimolare lo sviluppo di codice in gruppo, 
-  1. utilizzare tecnologie di versionamento (git e github), 
+  1. utilizzare tecnologie di versionamento (git e bitbucket), 
   1. esercitarsi a comprendere codice scritto da altri, e 
   1. familiarizzare con Java 8 e le sue librerie. Possibilmente divertendosi.
 
@@ -20,7 +20,7 @@ it.unica.pr2.progetto2015.gXXXXX.Semplice
 it.unica.pr2.progetto2015.gXXXXX.Complessa
 it.unica.pr2.progetto2015.gXXXXX.Custom
 ```
-dove `XXX` è dato dal numero di matricola del componente del gruppo (5 cifre). Se il gruppo ha piu' componenti, si metteranno tutte le matricole dalla piu piccola alla piu grande separate dal simbolo `_`.
+dove `XXXXX` è dato dal numero di matricola del componente del gruppo (5 cifre). Se il gruppo ha piu' componenti, si metteranno tutte le matricole dalla piu piccola alla piu grande separate dal simbolo `_`.
 Per esempio: `it.unica.pr2.progetto2015.g12345_28957.Custom`
 
 Ognuna ha un costruttore vuoto ed implementa la seguente interfaccia:
