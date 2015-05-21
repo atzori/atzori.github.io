@@ -15,11 +15,13 @@ Motivazione:
   1. familiarizzare con Java 8 e le sue librerie. Possibilmente divertendosi.
 
 Il progetto consiste nel realizzare 3 funzioni di LibreOffice, implementate nelle seguenti classi: 
+
 ```
 it.unica.pr2.progetto2015.gXXXXX.Semplice
 it.unica.pr2.progetto2015.gXXXXX.Complessa
 it.unica.pr2.progetto2015.gXXXXX.Custom
 ```
+
 dove `XXXXX` è dato dal numero di matricola del componente del gruppo (5 cifre). Se il gruppo ha piu' componenti, si metteranno tutte le matricole dalla piu piccola alla piu grande separate dal simbolo `_`.
 Per esempio: `it.unica.pr2.progetto2015.g12345_28957.Custom`
 
