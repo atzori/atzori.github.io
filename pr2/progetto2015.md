@@ -26,6 +26,7 @@ dove `XXXXX` è dato dal numero di matricola del componente del gruppo (5 cifre)
 Per esempio: `it.unica.pr2.progetto2015.g12345_28957.Custom`
 
 Ognuna ha un costruttore vuoto ed implementa la seguente interfaccia:
+
 ```
 package it.unica.pr2.progetto2015.interface;
 
