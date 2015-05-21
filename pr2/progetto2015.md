@@ -86,4 +86,4 @@ Il repository conterrà la seguente struttura:
   - /build/progetto2015.jar   file contentente i compilati, unico file da utilizzare in foglio.ods per i test
   - file di progetto Netbeans
 
-
+Maggiori dettagli sulle modalità di consegna verranno pubblicati in questa pagina.
