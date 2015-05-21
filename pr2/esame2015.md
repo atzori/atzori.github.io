@@ -20,7 +20,7 @@ Per presentarsi agli appelli è necessario:
 
 Progetto
 --------
-Salvo casi particolari da concordare col docente, la prova progettuale è svolta in gruppi di 2 persone o singolarmente.
+Salvo casi particolari da concordare col docente, la prova progettuale è svolta preferibilmente in gruppi di 2 o 3 persone, oppure singolarmente.
 Chi ha già superato la prova progettuale _nell'anno accademico precedente_ può contattare il docente e considerare il voto già assegnato.
 L'elaborato deve essere svolto e consegnato 3 giorni prima dell'appello a cui si intende partecipare per la prova di teoria/pratica.
 La prova progettuale va quindi consegnata prima di sostenere le prove di teoria/pratica, ad eccezione di chi si iscrive 
