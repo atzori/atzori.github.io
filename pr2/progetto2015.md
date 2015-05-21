@@ -30,30 +30,31 @@ Ognuna ha un costruttore vuoto ed implementa la seguente interfaccia:
 ```java
 package it.unica.pr2.progetto2015.interfacce;
 
+/** Implementa una singola funzione del foglio elettronico */
 public interface SheetFunction {
 
-  /** argomenti in input ed output possono essere solo: String, Integer, Long, Double, Character, Boolean e array di questi tipi.
-  
-  Ad esempio a runtime si puo' avere, come elementi di args, un Integer ed un Long[], e restituire un Double[];
-  
-  */
-  Object execute(Object[] args) ;
-  
-  /** restituisce la categoria LibreOffice;
-      vedere: https://help.libreoffice.org/Calc/Functions_by_Category/it
-      
-      ad esempio, si puo' restituire "Data&Orario" oppure "Foglio elettronico"
-  */
-  final String getCategory();
-  
-  /** informazioni di aiuto */
-  final String getHelp(); 
- 
- /** Nome della funzione.
-     vedere: https://help.libreoffice.org/Calc/Functions_by_Category/it
-     ad es. "VAL.DISPARI" 
-  */         
- final String	getName();
+	/** 
+	Argomenti in input ed output possono essere solo: String, Integer, Long, Double, Character, Boolean e array di questi tipi.
+	Ad esempio a runtime si puo' avere, come elementi di args, un Integer ed un Long[], e restituire un Double[];
+	*/
+	Object execute(Object[] args) ;
+
+	/** 
+	Restituisce la categoria LibreOffice;
+	Vedere: https://help.libreoffice.org/Calc/Functions_by_Category/it
+	ad esempio, si puo' restituire "Data&Orario" oppure "Foglio elettronico"
+	*/
+	String getCategory();
+
+	/** Informazioni di aiuto */
+	String getHelp(); 
+
+	/** 
+	Nome della funzione.
+	vedere: https://help.libreoffice.org/Calc/Functions_by_Category/it
+	ad es. "VAL.DISPARI" 
+	*/         
+	String getName();
 }
 ```
 
