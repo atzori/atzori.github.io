@@ -60,11 +60,11 @@ public interface SheetFunction {
 
 Semplice
 --------
-La classe Semplice implementa una funzione LibreOffice (si veda la [lista di Funzioni LibreOffice](https://help.libreoffice.org/Calc/Mathematical_Functions/it)) semplice, ovvero che non restituisce un array.
+La classe Semplice implementa una funzione LibreOffice (si veda la [lista di Funzioni LibreOffice](https://help.libreoffice.org/Calc/Functions_by_Category/it)) semplice, ovvero che non restituisce un array.
 
 Complessa
 --------
-La classe Semplice implementa una funzione LibreOffice (si veda la [lista di Funzioni LibreOffice](https://help.libreoffice.org/Calc/Mathematical_Functions/it)) piu' complessa, ovvero che restituisce un array o che richiede comunque uno sforzo maggiore nell'implementazione.
+La classe Semplice implementa una funzione LibreOffice (si veda la [lista di Funzioni LibreOffice](https://help.libreoffice.org/Calc/Functions_by_Category/it)) piu' complessa, ovvero che restituisce un array o che richiede comunque uno sforzo maggiore nell'implementazione.
 
 Custom
 ------
