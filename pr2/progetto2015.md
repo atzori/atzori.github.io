@@ -63,10 +63,11 @@ Complessa
 La classe Semplice implementa una funzione LibreOffice (si veda la [lista di Funzioni LibreOffice](https://help.libreoffice.org/Calc/Mathematical_Functions/it)) piu' complessa, ovvero che restituisce un array o che richiede comunque uno sforzo maggiore nell'implementazione.
 
 Custom
---------
+------
 La classe Custom implementa una funzione non presente in LibreOffice, a scelta dell'utente, utilizzando almeno una libreria esterna (ad esempio: [HtmlUnit](http://htmlunit.sourceforge.net/gettingStarted.html), [Twitter4J](http://twitter4j.org/en/index.html), [Dropbox Java API](https://www.dropbox.com/developers/core/start/java), o qualsiasi altra libreria esterna Java).
 
-Alcune funzioni interessanti sono implementate in Google Sheet (si veda la [lista di Funzioni di Google Sheet](https://support.google.com/docs/table/25273?hl=it))
+Alcune funzioni interessanti sono implementate in Google Sheet (si veda la [lista di Funzioni di Google Sheet](https://support.google.com/docs/table/25273?hl=it)), ad esempio `IMPORTXML`.
+
 
 Note
 ----
