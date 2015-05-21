@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bootstrap
 title: Esame PR2 2015
 ---
 
