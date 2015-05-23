@@ -5,10 +5,14 @@ title: Progetto 2015
 
 Progetto PR2 (A.A. 2014/2015)
 ======================================
-**Ultimo aggiornamento: 21 Maggio 2015**
+**Ultimo aggiornamento: 24 Maggio 2015**
+
+_Change Log_
+ - 24 Maggio _aggiunta lista funzioni_
+ - 21 Maggio _creato documento_
 
 Motivazione: 
-
+----------
   1. il progetto ha il fine di stimolare lo sviluppo di codice in gruppo, 
   1. utilizzare tecnologie di versionamento (git e bitbucket), 
   1. esercitarsi a comprendere codice scritto da altri, e 
