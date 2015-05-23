@@ -302,7 +302,7 @@ ASS​
 
 
 
-# matrice
+###Matrice
 
 MATR.TRASPOSTA​
 ​REGR.LIN​
@@ -327,6 +327,6 @@ Le funzioni della categoria statistica non sono utilizzate nel progetto
 Le funzioni della categoria statistica non sono utilizzate nel progetto
 
 
-###foglio elettronico
+###Foglio elettronico
 Le funzioni della categoria statistica non sono utilizzate nel progetto
 
