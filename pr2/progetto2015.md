@@ -69,7 +69,7 @@ La classe Semplice implementa una funzione LibreOffice (si veda la [lista di Fun
 
 Complessa
 --------
-La classe Semplice implementa una funzione LibreOffice (si veda la [lista di Funzioni LibreOffice](https://help.libreoffice.org/Calc/Functions_by_Category/it)) piu' complessa, ovvero che restituisce un array o che richiede comunque uno sforzo maggiore nell'implementazione.
+La classe Complessa implementa una funzione LibreOffice (si veda la [lista di Funzioni LibreOffice](https://help.libreoffice.org/Calc/Functions_by_Category/it)) piu' complessa, ovvero che restituisce un array o che richiede comunque uno sforzo maggiore nell'implementazione.
 
 Custom
 ------
