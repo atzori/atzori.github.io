@@ -304,6 +304,7 @@ ASS​
 
 
 ###Matrice
+Le funzioni di questa categoria sono _complesse_
 
 MATR.TRASPOSTA​
 ​REGR.LIN​
@@ -322,10 +323,10 @@ MATR.TRASPOSTA​
 
 
 ###Statistica 
-Le funzioni della categoria statistica non sono utilizzate nel progetto
+Le funzioni di questa categoria non sono utilizzate nel progetto
 
 ###Logica
-Le funzioni della categoria statistica sono _semplici_.
+Le funzioni di questa categoria sono _semplici_.
 
 E
 FALSO
@@ -336,5 +337,5 @@ VERO
 XO
 
 ###Foglio elettronico
-Le funzioni della categoria statistica non sono utilizzate nel progetto
+Le funzioni di questa categoria non sono utilizzate nel progetto
 
