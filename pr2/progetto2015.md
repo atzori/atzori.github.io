@@ -8,6 +8,7 @@ Progetto PR2 (A.A. 2014/2015)
 **Ultimo aggiornamento: 24 Maggio 2015**
 
 _Change Log_
+
  - 24 Maggio _aggiunta lista funzioni_
  - 21 Maggio _creato documento_
 
@@ -324,8 +325,15 @@ MATR.TRASPOSTA​
 Le funzioni della categoria statistica non sono utilizzate nel progetto
 
 ###Logica
-Le funzioni della categoria statistica non sono utilizzate nel progetto
+Le funzioni della categoria statistica sono _semplici_.
 
+E
+FALSO
+SE
+NON
+O
+VERO
+XO
 
 ###Foglio elettronico
 Le funzioni della categoria statistica non sono utilizzate nel progetto
