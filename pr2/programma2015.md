@@ -20,6 +20,7 @@ Il programma potrebbe variare di anno in anno. Da considerarsi non definitivo.
     - Classi: interfaccia e implementazione
     - Relazioni fra le classi: associazione, ereditarietà, aggregazione, composizione, incapsulamento
     - Introduzione ai Design patterns
+    - Test Driven Development, assert, JUnit
 
   2. OOP in Java
     - La macchina virtuale ed il compilatore
@@ -41,6 +42,8 @@ Il programma potrebbe variare di anno in anno. Da considerarsi non definitivo.
     - Grafica per interfacce utente in Java (Introduzione a JavaFX; layouts)
     - Classi locali; innestate (interne); anonime;
     - Lambda Expressions
+    - versionamento e git
+    - Introduzione ad IDE e Netbeans
 
 Obiettivi
 ---------
@@ -80,7 +83,7 @@ Sul sito e' presente il materiale didattico, che include:
 
 ###Testi
 
-"Concetti di informatica e fondamenti di Java", ultima edizione di Cay Horstmann.
+[Concetti di informatica e fondamenti di Java](http://www.apogeonline.com/libri/9788850329564/scheda), ultima edizione di Cay Horstmann.
 
 http://www.apogeonline.com/libri/9788850329564/scheda
 
