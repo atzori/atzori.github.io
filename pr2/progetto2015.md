@@ -5,10 +5,11 @@ title: Progetto 2015
 
 Progetto PR2 (A.A. 2014/2015)
 ======================================
-**Ultimo aggiornamento: 24 Maggio 2015**
+**Ultimo aggiornamento: 29 Maggio 2015**
 
 _Change Log_
 
+ - 29 Maggio _assegnazione funzioni a studenti_
  - 24 Maggio _aggiunta lista funzioni_
  - 21 Maggio _creato documento_
 
