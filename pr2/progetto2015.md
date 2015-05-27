@@ -97,6 +97,15 @@ Il repository conterrà la seguente struttura:
 
 Maggiori dettagli sulle modalità di consegna verranno pubblicati in questa pagina.
 
+Assegnazione gruppi e funzioni
+-------
+La divisione in gruppi e le funzioni assegnate sono visibili [in questa tabella](https://docs.google.com/spreadsheets/d/1RjFGGm3GcKEHmfgZHQncrIbszDnhZ8K5qKL-Jnc6mP4/edit?usp=sharing).
+Ad ogni studente è associata una funzione semplice ed una complessa che dovrà implementare come richiesto, oltre alla funzione custom.
+Per i gruppi formati da più persone, il gruppo potrà scegliere una funzione semplice e una funzione complessa da implementare tra quelle assegnate ai propri componenti del gruppo.
+I gruppi vanno comunicati al docente a lezione oppure via email al tutor. 
+
+
+<!--
 Lista Funzioni
 ----
 
@@ -339,3 +348,5 @@ XO
 ###Foglio elettronico
 Le funzioni di questa categoria non sono utilizzate nel progetto
 
+
+-->
