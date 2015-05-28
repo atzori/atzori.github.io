@@ -9,7 +9,7 @@ Progetto PR2 (A.A. 2014/2015)
 
 _Change Log_
 
- - 29 Maggio _assegnazione funzioni a studenti_
+ - 29 Maggio _assegnazione funzioni a studenti_; interfaccia varargs; _pubblicazione esempio_ 
  - 24 Maggio _aggiunta lista funzioni_
  - 21 Maggio _creato documento_
 
@@ -43,7 +43,7 @@ public interface SheetFunction {
 	Argomenti in input ed output possono essere solo: String, Integer, Long, Double, Character, Boolean e array di questi tipi.
 	Ad esempio a runtime si puo' avere, come elementi di args, un Integer ed un Long[], e restituire un Double[];
 	*/
-	Object execute(Object[] args) ;
+	Object execute(Object... args) ;
 
 	/** 
 	Restituisce la categoria LibreOffice;
@@ -104,6 +104,10 @@ La divisione in gruppi e le funzioni assegnate sono visibili [in questa tabella]
 Ad ogni studente è associata una funzione semplice ed una complessa che dovrà implementare come richiesto, oltre alla funzione custom.
 Per i gruppi formati da più persone, il gruppo potrà scegliere una funzione semplice e una funzione complessa da implementare tra quelle assegnate ai propri componenti del gruppo.
 I gruppi vanno comunicati al docente a lezione oppure via email. 
+
+Esempio Repository Progetto (semplificato)
+----------------
+[Repository di esempio su GitHub](https://github.com/pr2unica/progetto2015/tree/master/java/it/unica/pr2/progetto2015)
 
 
 <!--
