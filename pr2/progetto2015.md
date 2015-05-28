@@ -107,7 +107,7 @@ I gruppi vanno comunicati al docente a lezione oppure via email.
 
 Esempio Repository Progetto (semplificato)
 ----------------
-[Repository di esempio su GitHub](https://github.com/pr2unica/progetto2015/tree/master/java/it/unica/pr2/progetto2015)
+[Repository di esempio su GitHub](https://github.com/pr2unica/progetto2015)
 
 
 <!--
