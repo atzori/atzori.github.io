@@ -31,7 +31,7 @@ I dettagli sulle specifiche della prova progettuale sono disponibili nella [pagi
 
 Teoria e Pratica
 ----------------
-Agli appelli è possibile sostenere teoria e pratica. Entrambe le prove vertono su tutto il programma.
+Agli appelli è possibile sostenere teoria e pratica. Entrambe le prove vertono su tutto il programma e vanno superate nello stesso appello.
 La _prova di teoria_ consiste solitamente in 15 domande Vero/Falso: ad ogni risposta corretta vengono assegnati 2 punti; 0 punti se la risposta è sbagliata. 
 Non è possibile consultare materiale didattico, libri o appunti.
 La prova di teoria si considera superata se il voto è almeno 18.
