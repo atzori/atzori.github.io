@@ -5,8 +5,14 @@ title: Progetto 2015
 
 Progetto PR2 (A.A. 2014/2015)
 ======================================
-**Ultimo aggiornamento: 29 Maggio 2015**
+**Ultimo aggiornamento: 28 Giugno 2015**
 
+
+Consegna:
+
+ - rendere *pubblico* il progetto per 3 giorni, poi compilare il [Form di consegna](http://goo.gl/forms/O50ibZikwd). Non modificare il progetto dopo la compilazione del form. Non verranno prese in considerazione consegne successive all'1 Luglio alle 15.00. Come dalle regole dell'esame già comunicate, *la consegna e' necessaria per poter partecipare alla prossima prova di teoria/pratica di PR2*. I progetti verranno valutati e non potranno essere riconsegnati successivamente.
+ 
+ 
 Note e news:
 
  - *Eccezione InvocationTargetException con Obba.* Qualora venisse lanciata l'eccezione `java.lang.reflect.InvocationTargetException`, è necessario installare il pacchetto libreoffice-java-common col comando (su ubuntu) `sudo apt-get install libreoffice-java-common`
