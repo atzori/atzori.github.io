@@ -105,7 +105,7 @@ Il repository conterrà la seguente struttura:
   - /java/it/unica/pr2/progetto2015/...   sorgenti java
   - /libs/ ...    librerie esterne utilizzate
   - /build/progetto2015.jar   file contentente i compilati, unico file da utilizzare in foglio.ods per i test
-  - file di progetto Netbeans
+  - eventuali file di progetto Netbeans
 
 Maggiori dettagli sulle modalità di consegna verranno pubblicati in questa pagina.
 
