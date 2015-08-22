@@ -239,7 +239,7 @@ TrustData 2015, the 6th International Workshop on Trust, Security and Privacy fo
 - Program Committee member (PC Member) of the International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM-14](http://web.ornl.gov/sci/knowledgediscovery/sstdm-14/))
 In Cooperation with IEEE ICDM (PC member since SSTDM-08)
 
-- PC Member of the International Workshop on Privacy and Anonymity in the Information Society (PAIS 2015), in conjunction with EDBT/ICDT (in the PC since its first edition in 2008)
+- PC Member of the International Workshop on Privacy and Anonymity in the Information Society (PAIS 2016), in conjunction with EDBT/ICDT (in the PC since its first edition in 2008)
 
 - Program Committee member (PC Member) of the 1st International Workshop on Privacy and Security of Big Data ([PSBD 2014](http://si.deis.unical.it/~cuzzocrea/PSBD2014/)) co-located with [CIKM 2014](http://cikm2014.fudan.edu.cn/).
 
