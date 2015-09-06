@@ -230,6 +230,10 @@ Information Processing &amp; Management (<a>IPM</a>).
 
 - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics
 
+- PC Member of the 4th ACM SIGSPATIAL International Workshop on
+Analytics for Big Geospatial Data
+([BigSpatial-2015](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2015/)), Nov 3, 2015, Seattle, WA, USA. 
+
 - Program Committee member (PC Member) of the 2nd International Workshop on Privacy and Security of Big Data ([PSBD 2015](http://si.deis.unical.it/cuzzocrea/PSBD2015/)) co-located with [IEEE BigData 2015](http://cci.drexel.edu/bigdata/bigdata2015/).
 
 - Program Committee member (PC Member) of the 6th International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2015](http://trust.csu.edu.cn/conference/TrustData2015/)), in conjunction with ICA3PP 2015,  November 18-20, 2015 in Zhangjiajie, China.
