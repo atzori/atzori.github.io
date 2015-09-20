@@ -4,7 +4,7 @@ title: Maurizio Atzori Home Page
 ---
 
 Short CV
---------
+-------- 
 Maurizio Atzori was born in 1978 in Italy. He
 graduated in Computer Science (Informatica) summa cum laude in
 2002, from the [University of Pisa](http://www.unipi.it/). 
