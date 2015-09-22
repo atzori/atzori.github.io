@@ -6,7 +6,7 @@ title: Progetto 2015
 Progetto PR2 (A.A. 2014/2015)
 ======================================
 **Ultimo aggiornamento: 27 Agosto 2015**
-
+<!--
 Consegna:
 
  - rendere *pubblico* il progetto, poi compilare il [Form di consegna](http://goo.gl/forms/O50ibZikwd). Non modificare il progetto dopo la compilazione del form. Non verranno prese in considerazione consegne successive all'2 Settembre alle 15.00. Come dalle regole dell'esame già comunicate, *la consegna e' necessaria per poter partecipare alla prossima prova di teoria/pratica di PR2*. I progetti verranno valutati e non potranno essere riconsegnati successivamente.
