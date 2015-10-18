@@ -45,23 +45,23 @@ In the following the list of some projects currently undertaken by our lab.
  - [woraSPARQL](http://atzori.webofcode.org/projects/woraSPARQL) Write-One Run-Anywhere SPARQL Custom Functions plugin for Virtuoso
  
 Previous projects where [Maurizio Atzori](http://atzori.webofcode.org/) was involved:
-- [DENIS]() 
+ - [DENIS]() 
 DENIS: Dataspaces Enhancing the Next Internet in Sardinia (RAS)
-- [U-DID]()
+ - [U-DID]()
 PI of project Unstructured Data Integration for Dataspaces (RAS)
-- [DIVA](http://kdd.isti.cnr.it/project/diva)
+ - [DIVA](http://kdd.isti.cnr.it/project/diva)
 A predictive system aimed at fighting against tax evasion in VAT domain
-- [KDubiq](http://www.kdubiq.org/kdubiq/control/research_areas#wg5)
+ - [KDubiq](http://www.kdubiq.org/kdubiq/control/research_areas#wg5)
 Ubiquitous Knowledge Discovery (WG5: Privacy and Security)
-- [GeoPKDD](http://www.geopkdd.eu/)
+ - [GeoPKDD](http://www.geopkdd.eu/)
 Geographic Privacy-aware Knowledge Discovery and Delivery
-- [GeoPKDD.it](http://geopkdd.di.unipi.it/)
+ - [GeoPKDD.it](http://geopkdd.di.unipi.it/)
 Italian Project on Geographic Privacy-aware Knowledge Discovery and Delivery (MIUR COFIN2004)
-- [P3D - Privacy Preserving Pattern Discovery](http://www-kdd.isti.cnr.it/p3d/)
+ - [P3D - Privacy Preserving Pattern Discovery](http://www-kdd.isti.cnr.it/p3d/)
 A "Curiosity Driven and Independent Research" ISTI Internal Project
-- [KDDML-MQL](http://kdd.di.unipi.it/kddml/)
+ - [KDDML-MQL](http://kdd.di.unipi.it/kddml/)
 Knowledge Discovery in Databases Markup Language
-- [ClickWorld]()
+ - [ClickWorld]()
 Data analysis of Click Streams
 
 
