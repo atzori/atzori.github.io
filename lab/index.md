@@ -44,7 +44,8 @@ In the following the list of some projects currently undertaken by our lab.
  - [runSPARQL](http://atzori.webofcode.org/projects/runSPARQL) Recursion and SPARQL macros within SPARQL engines
  - [woraSPARQL](http://atzori.webofcode.org/projects/woraSPARQL) Write-One Run-Anywhere SPARQL Custom Functions plugin for Virtuoso
  
-Previous projects where [Maurizio Atzori](http://atzori.webofcode.org/) was involved:
+Previous projects where [Maurizio Atzori](http://atzori.webofcode.org/) was involved with:
+
  - [DENIS]() 
 DENIS: Dataspaces Enhancing the Next Internet in Sardinia (RAS)
  - [U-DID]()
