@@ -5,7 +5,11 @@ keywords: Semantic Web, Database, SPARQL, Web of Functions, projects, research
 ---
 
 Semantic Web Lab
-===================================
+================
+
+The [Semantic Web Lab](http://webofcode.org/lab/) is mainly devoted to the design, analysis and experimentation of algorithms and systems involving structured and unstructured data for the Web, such as Knowledge graphs, massive textual data, web and source code repositories.
+Our effort is particularly focused on simplifying access to these resources with inovative query systems, such as Question Answering over Linked Data, SPARQL extensions and our By-Examply Structured Query approach.
+
 
 Members
 ------
