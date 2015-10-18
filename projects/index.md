@@ -8,9 +8,9 @@ Projects
 ================
 In the following the list of some projects currently undertaken by [Maurizio Atzori](/).
 
- - [SPARQL4coding] 
- - [rankProperties]
- - [runSPARQL]
- - [swipe]
- - [wfn]
- - [woraSPARQL]
+ - [SPARQL4coding](SPARQL4coding)
+ - [rankProperties]()
+ - [runSPARQL]()
+ - [swipe]()
+ - [wfn]()
+ - [woraSPARQL]()
