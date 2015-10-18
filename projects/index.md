@@ -13,12 +13,14 @@ People
  - [Maurizio Atzori](/) - Lead Researcher
  - Andrea Dessi - PhD Student
  - Livio Pompianu - PhD Student
- - Emanuele Mameli - Research Fellow
- - Simone Barbieri - Research Fellow
+ - Emanuele Mameli - Research Assistant
+ - Simone Barbieri - Research Assistant
  - Mattia Setzu - Intern
  - Daniele S. Ferru - Intern
+ - Annalisa Congiu - Intern
 
 ###Alumni
+ - Riccardo Angius - Student
  - Andrea Maxia - Student
  - Gabriele Rota - Student
  - Stefano Serra - Student
