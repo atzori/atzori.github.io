@@ -4,9 +4,30 @@ title: Semantic Web and Database Projects by Maurizio Atzori, University of Cagl
 keywords: Semantic Web, Database, SPARQL, Web of Functions, projects, research
 ---
 
+Semantic Web Lab
+===================================
+
+People
+------
+###Current
+ - [Maurizio Atzori](/) - Lead Researcher
+ - Andrea Dessi - PhD Student
+ - Livio Pompianu - PhD Student
+ - Emanuele Mameli - Research Fellow
+ - Simone Barbieri - Research Fellow
+ - Mattia Setzu - Intern
+ - Daniele S. Ferru - Intern
+
+###Alumni
+ - Andrea Maxia - Student
+ - Gabriele Rota - Student
+ - Stefano Serra - Student
+
+
+
 Projects
-================
-In the following the list of some projects currently undertaken by [Maurizio Atzori](/).
+--------
+In the following the list of some projects currently undertaken in our lab.
 
  - [SPARQL4coding](SPARQL4coding) Massive dataset of Source code repositories that can be queried with SPARQL
  - [rankProperties](rankProperties) a machine-learning approach to sort RDF properties on the fly
