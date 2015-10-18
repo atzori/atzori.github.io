@@ -33,7 +33,7 @@ Members
 
 Projects
 --------
-In the following the list of some projects currently undertaken in our lab.
+In the following the list of some projects currently undertaken by our lab.
 
  - [swipeQA]() Exploiting Structured Queries in Question Answering and Search. In collaboration with Prof. Carlo Zaniolo (UCLA), awarded by a [Google Faculty Research Award](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html).
  - [SWiPE](http://atzori.webofcode.org/projects/swipe) Searching Wikipedia by Example, a user-friendly interface for structured queries
