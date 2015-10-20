@@ -22,6 +22,7 @@ Members
  - Mattia Setzu - Intern
  - Daniele S. Ferru - Intern
  - Annalisa Congiu - Intern
+ - Mattia Atzeni - Student
 
 ###Alumni
  - Riccardo Angius - Student
