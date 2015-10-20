@@ -1,5 +1,5 @@
 ---
-layout: bootstrap
+layout: page
 title: Semantic Web and Database Projects by Maurizio Atzori, University of Cagliari, Italy
 keywords: Semantic Web, Database, SPARQL, Web of Functions, projects, research
 ---
