@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: bootstrap
 title: Semantic Web and Database Projects by Maurizio Atzori, University of Cagliari, Italy
 keywords: Semantic Web, Database, SPARQL, Web of Functions, projects, research
 ---
 
-Semantic Web Lab
+Semantic Web Lab 
 ================
 
 The [Semantic Web Lab](http://webofcode.org/lab/) is mainly devoted to the design, analysis and experimentation of algorithms and systems involving structured and unstructured data for the Web, such as Knowledge graphs, massive textual data, web and source code repositories.
