@@ -7,8 +7,8 @@ keywords: Semantic Web, Database, SPARQL, Web of Functions, projects, research
 Semantic Web Lab 
 ================
 
-The [Semantic Web Lab](http://webofcode.org/lab/) is mainly devoted to the design, analysis and experimentation of algorithms and systems involving structured and unstructured data for the Web, such as Knowledge graphs, massive textual data, web and source code repositories.
-Our effort is particularly focused on simplifying access to these resources with inovative query systems, such as Question Answering over Linked Data, SPARQL extensions and our By-Examply Structured Query approach.
+The [Semantic Web Lab](http://webofcode.org/lab/) is mainly devoted to the design, analysis and experimentation of algorithms and systems involving structured and unstructured data for the Web, such as knowledge graphs, massive textual data, web and source code repositories.
+Our effort is particularly focused on simplifying access to these resources with innovative query systems, such as Question Answering over Linked Data, SPARQL extensions and our By-Examply Structured Query approach.
 
 
 Members
@@ -43,7 +43,7 @@ In the following the list of some projects currently undertaken by our lab.
  - [SPARQL4coding](http://atzori.webofcode.org/projects/SPARQL4coding) Massive dataset of Source code repositories that can be queried with SPARQL
  - [rankProperties](http://atzori.webofcode.org/projects/rankProperties) a machine-learning approach to sort RDF properties on the fly
  - [runSPARQL](http://atzori.webofcode.org/projects/runSPARQL) Recursion and SPARQL macros within SPARQL engines
- - [woraSPARQL](http://atzori.webofcode.org/projects/woraSPARQL) Write-One Run-Anywhere SPARQL Custom Functions plugin for Virtuoso
+ - [woraSPARQL](http://atzori.webofcode.org/projects/woraSPARQL) Write-One Run-Anywhere SPARQL Custom Functions plugin for OpenLink Virtuoso
  
 Previous projects where [Maurizio Atzori](http://atzori.webofcode.org/) was involved with:
 
