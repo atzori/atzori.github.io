@@ -230,6 +230,9 @@ Information Processing &amp; Management (<a>IPM</a>).
 
 - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics
 
+
+- Program Committee member (PC Member) of the 19th International Conference on Business Information Systems ([BIS 2015](http://bis.kie.ue.poznan.pl/bis2016/)), 6-8 July 2016, Leipzig, Germany.
+
 - PC Member of the 4th ACM SIGSPATIAL International Workshop on
 Analytics for Big Geospatial Data
 ([BigSpatial-2015](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2015/)), Nov 3, 2015, Seattle, WA, USA. 
