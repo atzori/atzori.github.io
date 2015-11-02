@@ -8,7 +8,7 @@ Semantic Web Lab
 ================
 
 The [Semantic Web Lab](http://webofcode.org/lab/) is mainly devoted to the design, analysis and experimentation of algorithms and systems involving structured and unstructured data for the Web, such as knowledge graphs, massive textual data, web and source code repositories.
-Our effort is particularly focused on simplifying access to these resources with innovative query systems, such as Question Answering over Linked Data, SPARQL extensions and our By-Examply Structured Query approach.
+Our effort is particularly focused on simplifying access to these resources with innovative query systems, such as Question Answering over Linked Data, SPARQL extensions and our By-Example Structured Query approach.
 
 
 Members
