@@ -7,8 +7,10 @@ Write-Once Run-Anywhere (WORA) Sparql
 ================
 This is the official page for the woraSPARQL project. 
 In the following we provide technical information about the *bif:callJ()* function, which is the core of the woraSPARQL project.
+The project repository will be open for everyone after the ongoing code review process.
 
-The *bif:callJ()* is a custom function implemented on OpenLink Virtuoso. Itâ€™s written with C programming language. However, thanks to the behavior of callJ inside Virtuoso, we wrote some Java Classes, since the meaning of callJ is that to execute Java methods inside SPARQL. 
+
+The *bif:callJ()* is a custom function implemented on OpenLink Virtuoso. It is written with C programming language. However, thanks to the behavior of callJ inside Virtuoso, we wrote some Java Classes, since the meaning of callJ is that to execute Java methods inside SPARQL. 
 
 ## Semantics of bif:callJ##
 The *bif:callJ()* is a function that is able to execute a method of a java class. The java class must be written expressly for this purpose and It must have a specific format described afterwards. 
