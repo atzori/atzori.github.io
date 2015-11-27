@@ -335,3 +335,4 @@ Resources
 - [Trace route online](http://www.inmotionhosting.com/support/tools/visual-domain-routing?domain=webofcode.org) - info on DNS configuration of your server 
 - [Setting up Virtuoso with DBpedia](https://joernhees.de/blog/2014/04/23/setting-up-a-local-dbpedia-3-9-mirror-with-virtuoso-7/) - set up [RAM and swappiness](http://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/VirtRDFPerformanceTuning), [RDF performance tuning](http://docs.openlinksw.com/virtuoso/rdfperformancetuning.html)
 - [Ubuntu can look like Windows](http://www.noobslab.com/2014/04/make-your-ubuntulinux-mint-look-like.html) - Packages and themes to make Ubuntu look like Windows 7 or 8
+- [Production tools Guide](http://blog.takipi.com/production-tools-guide/) - A Java-focused guide to production tools (Alert, log, visualization and metrics, APM, build, deployment)
