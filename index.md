@@ -210,11 +210,10 @@ An open source ANSI C/C++ library of functions and protocols useful to exchange 
 
 I am also developing a number of other applications in the fields of abduction, data privacy, and data mining. I planned to publish them here as soon as the documentation is ready. If you need details on experiments on my papers or software published here, please feel free to [email me](mailto:atzori@unica.it).
 
-<a id="activities"/>
+<a id="activities" />
 Scientific Activities
 ---------------------
-
-- Serving as Reviewer for the following major database and data mining international journals:
+Serving as Reviewer for the following major database and data mining international journals:
 ACM Transactions on Database Systems (<a>TODS</a>), 
 IEEE Transactions on Knowledge and Data Engineering (<a>TKDE</a>), 
 The International Journal on Very Large Data Bases (<a>VLDB Journal</a>),
@@ -228,9 +227,10 @@ Journal of Computer Science and Technology (<a>JCST</a>),
 Information Sciences (<a href="http://www.journals.elsevier.com/information-sciences/">INS</a>),
 Information Processing &amp; Management (<a>IPM</a>).
 
-- Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics
+Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics.
 
 PC Member for a number of International Conferences and Workshops, including:
+
 - International Conference on Business Information Systems ([BIS 2016](http://bis.kie.ue.poznan.pl/bis2016/), [BIS 2015](http://bis.kie.ue.poznan.pl/), [BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/))
 - International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2015](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2015/))
 - International Workshop on Privacy and Security of Big Data ([PSBD 2015](http://si.deis.unical.it/cuzzocrea/PSBD2015/) co-located with [IEEE BigData 2015](http://cci.drexel.edu/bigdata/bigdata2015/)).
@@ -249,9 +249,9 @@ PC Member for a number of International Conferences and Workshops, including:
 - PC Member of the IADIS European Conference on Data Mining 2008 (MCCSIS-DM08)
 - PC member of the First ACM SIGKDD Workshop on Privacy, Security, and Trust in KDD (PinKDD'07), joint with ACM SIGKDD 2007
 
-- Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
+Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
 
-- Served as Reviewer for a number of international conferences and workshops, including:
+Served as Reviewer for a number of international conferences and workshops, including:
 <a href="http://www-aiia2003.di.unipi.it/aiia2003/index-eng.html">AI&#42;IA03</a>,
 <a href="http://www.unica.it/SEBD/index.htm">SEBD04</a>, 
 <a href="http://ecmlpkdd.isti.cnr.it/">ECML04 and PKDD04</a>, 
@@ -271,8 +271,7 @@ PC Member for a number of International Conferences and Workshops, including:
 <a href="http://www.ecmlpkdd2007.org/">ECML-PKDD07</a>, 
 <a href="http://www.acm.org/conferences/sac/sac2008/">ACM SAC08-DM</a>, 
 <a href="http://www.siam.org/meetings/sdm08/">SIAM SDM08</a>, 
-[ACM PODS08](http://www.sigmod08.org/program_glance.shtml#pods_program),
-<a href="http://www.db.unibas.it/SEBD2011">SEBD2011</a>
+[ACM PODS08](http://www.sigmod08.org/program_glance.shtml#pods_program).
 <!-- (list not updated). -->
 
 <a id="links"/>
