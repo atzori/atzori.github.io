@@ -230,46 +230,19 @@ Information Processing &amp; Management (<a>IPM</a>).
 
 - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics
 
-
-- Program Committee member (PC Member) of the 19th International Conference on Business Information Systems ([BIS 2016](http://bis.kie.ue.poznan.pl/bis2016/)), 6-8 July 2016, Leipzig, Germany.
-
-- PC Member of the 4th ACM SIGSPATIAL International Workshop on
-Analytics for Big Geospatial Data
-([BigSpatial-2015](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2015/)), Nov 3, 2015, Seattle, WA, USA. 
-
-- Program Committee member (PC Member) of the 2nd International Workshop on Privacy and Security of Big Data ([PSBD 2015](http://si.deis.unical.it/cuzzocrea/PSBD2015/)) co-located with [IEEE BigData 2015](http://cci.drexel.edu/bigdata/bigdata2015/).
-
-- Program Committee member (PC Member) of the 6th International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2015](http://trust.csu.edu.cn/conference/TrustData2015/)), in conjunction with ICA3PP 2015,  November 18-20, 2015 in Zhangjiajie, China.
-
-- PC Member of the 5th IFIP Conference on Computer Science and its Applications ([CIIA-2015](http://ciia2015.ensma.fr/articles.php?lng=en&pg=69&mnuid=32&tconfig=0)), Security and Network Technologies Track
-
-- Program Committee member (PC Member) of the International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM-14](http://web.ornl.gov/sci/knowledgediscovery/sstdm-14/))
-In Cooperation with IEEE ICDM (PC member since SSTDM-08)
-
-- PC Member of the International Workshop on Privacy and Anonymity in the Information Society (PAIS 2016), in conjunction with EDBT/ICDT (in the PC since its first edition in 2008)
-
-- Program Committee member (PC Member) of the 1st International Workshop on Privacy and Security of Big Data ([PSBD 2014](http://si.deis.unical.it/~cuzzocrea/PSBD2014/)) co-located with [CIKM 2014](http://cikm2014.fudan.edu.cn/).
-
-- Program Committee member (PC Member) of the 18th International Conference on Business Information Systems ([BIS 2015](http://bis.kie.ue.poznan.pl/))
- 
-- Program Committee member (PC Member) of the 22th Italian Symposium on Advanced Database Systems ([SEBD2014](http://www.sebd2014.unina.it/))
-
-- Program Committee member (PC Member) of the 2014 IEEE International Workshop on Trust, Security and Privacy for Big Data ([IEEE TrustData 2014](http://trust.csu.edu.cn/conference/TrustData2014/)), Dalian, China, August 24-27, 2014
-
-- Program Committee member (PC Member) of the 17th International Conference on Business Information System ([BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/)), Larnaca, Cyprus, 21-23 May, 2014
-
-
-
-- Program Committee member (PC Member) of the 2013 International Workshop on Trust, Security and Privacy for Big Data (<a href="http://trust.csu.edu.cn/conference/TrustData2013/">TrustData 2013</a>), Zhangjiajie, China, November 13-15, 2013
-
-- Program Committee member (PC Member) of the 21th Italian Symposium on Advanced Database Systems (SEBD2013)
-
-- PC Member of Security &amp; Network Technologies Track of the <a href="http://ciia2013.lewebpro.net/">4th International Conference on Computer Science and Its Applications</a> (CIIA 2013)
-
-- Program Committee member (PC Member) of the 19th Italian Symposium on Advanced Database Systems (SEBD2011)
-
-- Scientific Committee member of the First International Workshop on Mobility, Data Mining and Privacy Preserving anonymity in geographically referenced data, at the headquarter of the Italian Privacy Authority, Rome, 14 February 2008
-
+PC Member for a number of International Conferences and Workshops, including:
+- International Conference on Business Information Systems ([BIS 2016](http://bis.kie.ue.poznan.pl/bis2016/), [BIS 2015](http://bis.kie.ue.poznan.pl/), [BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/))
+- International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2015](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2015/))
+- International Workshop on Privacy and Security of Big Data ([PSBD 2015](http://si.deis.unical.it/cuzzocrea/PSBD2015/) co-located with [IEEE BigData 2015](http://cci.drexel.edu/bigdata/bigdata2015/)).
+- International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2015](http://trust.csu.edu.cn/conference/TrustData2015/))
+- IFIP Conference on Computer Science and its Applications ([CIIA-2015](http://ciia2015.ensma.fr/articles.php?lng=en&pg=69&mnuid=32&tconfig=0) Security and Network Technologies Track)
+- International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM-14](http://web.ornl.gov/sci/knowledgediscovery/sstdm-14/) co-located with IEEE ICDM, PC Member since SSTDM-08)
+- International Workshop on Privacy and Anonymity in the Information Society (PAIS 2016, in conjunction with EDBT/ICDT, in the PC since its first edition in 2008)
+- International Workshop on Privacy and Security of Big Data ([PSBD 2014](http://si.deis.unical.it/~cuzzocrea/PSBD2014/) co-located with [CIKM 2014](http://cikm2014.fudan.edu.cn/)).
+- Italian Symposium on Advanced Database Systems ([SEBD2016](http://www.sebd2014.unina.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
+- IEEE International Workshop on Trust, Security and Privacy for Big Data ([IEEE TrustData 2014](http://trust.csu.edu.cn/conference/TrustData2014/), [TrustData 2013](http://trust.csu.edu.cn/conference/TrustData2013/))
+- International Conference on Computer Science and Its Applications ([CIIA 2013](http://ciia2013.lewebpro.net/), Security &amp; Network Technologies Track)
+- International Workshop on Mobility, Data Mining and Privacy Preserving anonymity in geographically referenced data, at the headquarter of the Italian Privacy Authority, Rome, 14 February 2008
 - Program Committee member (PC Member) of the Second ACM SIGKDD Workshop on Privacy, Security, and Trust in KDD (PinKDD'08), joint with ACM SIGKDD 2008
 - Organizing Committee and Publicity Chair of the 2008 IEEE International Conference on Data Mining (ICDM08)
 - PC Member of the 19th Brazilian Symposium on Artificial Intelligence (SBIA 2008)
