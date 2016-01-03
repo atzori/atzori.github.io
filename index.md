@@ -66,6 +66,8 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
+ 1. [SPARQL Queries over Source Code](). Setzu M., Atzori M. _10th IEEE International Conference on Semantic Computing_ (2016)
+ 1. [Write-Once Run-Anywhere Custom SPARQL Functions](). D. S. Ferru, Atzori M. _10th IEEE International Conference on Semantic Computing_ (2016)
  1. [SPARQLT and its User-Friendly Interface for Managing and Querying the History of RDF Knowledge Bases](). Gao S., Chen M., Atzori M., Gu J. and Zaniolo C. _ISWC 2015 - Proceedings of the 14th International Semantic Web Conference_, Demo Track (2015)
  1. [A Machine-Learning Approach to Ranking RDF Properties](http://dx.doi.org/10.1016/j.future.2015.04.018). Dessi A., Atzori M. _Future Generation Computer Systems Journal_, Special Issue on [Semantic Technologies for Collaborative Web](http://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-semantic-technologies-for-collaborative-web/) (May 2015).
  1. [Expressivity and Accuracy of By-Example Structured Queries on Wikipedia](http://www.cyprusconferences.org/wetice2015/). Atzori M., Zaniolo C. _24th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE), Web2Touch Track_ (2015)
