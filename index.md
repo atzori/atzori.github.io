@@ -66,8 +66,8 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
- 1. [SPARQL Queries over Source Code](). Setzu M., Atzori M. _10th IEEE International Conference on Semantic Computing_ (2016)
- 1. [Write-Once Run-Anywhere Custom SPARQL Functions](). D. S. Ferru, Atzori M. _10th IEEE International Conference on Semantic Computing_ (2016)
+ 1. [SPARQL Queries over Source Code](). Setzu M., Atzori M. _ICSC 2016 - 10th IEEE International Conference on Semantic Computing_ (2016)
+ 1. [Write-Once Run-Anywhere Custom SPARQL Functions](). D. S. Ferru, Atzori M. _ICSC 2016 - 10th IEEE International Conference on Semantic Computing_ (2016)
  1. [SPARQLT and its User-Friendly Interface for Managing and Querying the History of RDF Knowledge Bases](). Gao S., Chen M., Atzori M., Gu J. and Zaniolo C. _ISWC 2015 - Proceedings of the 14th International Semantic Web Conference_, Demo Track (2015)
  1. [A Machine-Learning Approach to Ranking RDF Properties](http://dx.doi.org/10.1016/j.future.2015.04.018). Dessi A., Atzori M. _Future Generation Computer Systems Journal_, Special Issue on [Semantic Technologies for Collaborative Web](http://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-semantic-technologies-for-collaborative-web/) (May 2015).
  1. [Expressivity and Accuracy of By-Example Structured Queries on Wikipedia](http://www.cyprusconferences.org/wetice2015/). Atzori M., Zaniolo C. _24th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE), Web2Touch Track_ (2015)
@@ -80,8 +80,8 @@ Another source is the [Research Catalog of the University of Cagliari](https://i
  1. [call: A Nucleus for a Web of Open Functions](http://ceur-ws.org/Vol-1272/paper_13.pdf). Atzori M. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Demo Track (2014)
  1. [Supporting Semantic Web Search and Structured Queries on Mobile Devices](http://www.sebd2014.unina.it/). Dessi A., Maxia A., Atzori M., Zaniolo C. _SEBD 2014 - Proceedings of the 22nd Italian Symposium on Advanced Database Systems_ (2014)
  1. [Ranking DBpedia Properties](http://web2touch2014.tudor.lu/Accepted.html). Atzori M., Dessi A. _23rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE), Web2Touch Track_ (2014)
- 1. [Computing on-the-fly DBpedia Property Ranking](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6882037). Dessi A., Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
- 1. [Computing Recursive SPARQL Queries](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6882036). Atzori M. _8th IEEE International Conference on Semantic Computing_ (2014)
+ 1. [Computing on-the-fly DBpedia Property Ranking](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6882037). Dessi A., Atzori M. _ICSC 2014 - 8th IEEE International Conference on Semantic Computing_ (2014)
+ 1. [Computing Recursive SPARQL Queries](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6882036). Atzori M. _ICSC 2014 - 8th IEEE International Conference on Semantic Computing_ (2014)
  1. [Improving Spatial Decision Making in Cloud Computing](http://dx.doi.org/10.4018/978-1-4666-6252-0.ch005). Argiolas M., Atzori M., Dessi N., Pes B. In book _Contemporary Advancements in Information Technology Development in Dynamic Environments_, (2014)
  1. [Supporting Semantic Web Search and Structured Queries on Mobile Devices](http://dx.doi.org/10.1145/2509908.2509910). Dessi A., Maxia A., Atzori M., Zaniolo C. _3rd Intl. ACM Workshop Semantic Search over the Web (SSW 2013 / VLDB 2013)_ (2013)
  1. [User-Friendly Structured Queries on Wikipedia: the SWiPE System](). Atzori M., Zaniolo C. _SEBD 2013 - Proceedings of the 21th Italian Symposium on Advanced Database Systems_ (2013)
