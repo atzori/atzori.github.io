@@ -5,7 +5,7 @@ title: Progetto 2015
 
 Progetto PR2 (A.A. 2014/2015)
 ======================================
-**Ultimo aggiornamento: Gennaio 2015**
+**Ultimo aggiornamento: Gennaio 2016**
 
 Consegna:
 
