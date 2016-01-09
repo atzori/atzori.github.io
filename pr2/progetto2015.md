@@ -9,8 +9,14 @@ Progetto PR2 (A.A. 2014/2015)
 
 Consegna:
 
- - rendere *pubblico* il progetto, poi compilare il [Form di consegna](http://goo.gl/forms/O50ibZikwd). Non modificare il progetto dopo la compilazione del form. Non verranno prese in considerazione consegne successive al 7 Gennaio alle 15.00. Come dalle regole dell'esame già comunicate, *la consegna e' necessaria per poter partecipare alla prossima prova di teoria/pratica di PR2*. I progetti verranno valutati e non potranno essere riconsegnati successivamente.
+ - rendere *pubblico* il progetto, poi compilare il [Form di consegna](http://goo.gl/forms/O50ibZikwd). Non modificare il progetto dopo la compilazione del form. Per la valutazione il progetto va consegnato entro 3 giorni prima del prossimo appello, entro le ore  15.00, non verranno prese in considerazione consegne successive. Come dalle regole dell'esame già comunicate, *la consegna e' necessaria per poter partecipare alla prossima prova di teoria/pratica di PR2*. I progetti verranno valutati e non potranno essere riconsegnati successivamente (eventuali consegne mancanti verranno valutate zero trentesimi).
 
+
+<!--
+Consegna:
+
+ - rendere *pubblico* il progetto, poi compilare il [Form di consegna](http://goo.gl/forms/O50ibZikwd). Non modificare il progetto dopo la compilazione del form. Non verranno prese in considerazione consegne successive al 7 Gennaio alle 15.00. Come dalle regole dell'esame già comunicate, *la consegna e' necessaria per poter partecipare alla prossima prova di teoria/pratica di PR2*. I progetti verranno valutati e non potranno essere riconsegnati successivamente.
+-->
 <!--
 Consegna:
 
