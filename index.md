@@ -29,8 +29,6 @@ Highlights
 
 - Interested in the [**Web of Functions**](http://webofcode.org/wfn/)? Take a look at the  _full paper_ at the Research Track of the [_International Semantic Web Conference (ISWC 2014)_](http://iswc2014.semanticweb.org/). There is also a _Demo paper_. Further information and many examples can be found at the [project page](http://webofcode.org/wfn/).
 
-- PC Member of the 19th International Conference on Business Information Systems ([BIS 2016](http://bis.kie.ue.poznan.pl/bis2016/)), 6-8 July 2016, Leipzig, Germany. Calls are open!
-
 - Our WWW2012 work [**SWiPE**: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in [several languages](http://atzori.webofcode.org/projects/swipe/press).
 
 
