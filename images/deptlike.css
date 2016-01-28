@@ -1,0 +1,175 @@
+	body
+	{
+		
+    height: 100%; 
+    
+    /*padding: 0;*/
+    
+    color: #555;
+    font: 12px/22px Verdana, Arial, Helvetica, sans-serif;
+		
+		
+		margin: 0;
+		padding: 1em 1em 1em 14em;
+		/*color: #000;*/
+		background: white;
+		background: url(../images/bluebar.png) repeat-y 0 0; 
+	}
+
+	div.fixedBox
+	{
+		position: fixed;
+		top: 1em;
+		left: 1em;
+		width: 12em;
+		/*border: 1px solid: #000;
+		background: #eee;*/
+	}
+	
+	div.fixedBox p
+	{
+		/*margin: 1em;*/
+	}
+
+	a { color: #9e1616; }
+	
+	h2 a { color: #3d3f7c; }
+	
+	h1 {
+		font: 600 26px arial, helvetica, sans-serif;
+		color: #9e1616; 
+		margin-top: 10px;
+		margin-bottom: 30px;
+		font-weight: bold;
+		
+		/*
+		#ff9900;
+		
+		.menuSezione{font-size:11px;color:#9e1616; font-weight:bold;position:relative; top:12px;padding-bottom:5px;}*/
+
+	}
+	
+	h2 {
+		font: 18px arial, helvetica, sans-serif;
+		color: #3d3f7c;
+		margin-top: 40px;
+		margin-bottom: 5px;
+		font-weight: 300;
+		
+		/* #003366; */
+	}
+	
+	h3 {
+		font: bold 13px arial, sans-serif;
+		color: #006666;
+		margin-top: 20px;
+		margin-bottom: 5px;
+	}    
+	
+	
+	p { margin: 0px }
+	p.link {margin-left: 40px }
+
+	
+	
+div.content {
+    margin-left: 30px;
+    width: 80%;
+    /*position: absolute;*/
+    top: 0px;
+}
+	
+
+	div.w3c {text-align: center; width: 100%; margin-top: 60px; margin-bottom: 60px}
+	div.footer {text-align: center; width: 100%; margin-top: 60px; margin-bottom: 60px }
+	div.footer li {width: 25%}
+	span.foot {text-align: center; margin-right: 100px; }	
+	span.citation {text-align: center; font-style: italic; margin-right: 100px; }	
+	
+		
+	img {
+		margin: 0px 0px 0px 0px; 
+		/*padding: 0px 0px 0px 0px; */
+		border: none 
+	}
+		
+	img.logo {
+		margin: 0px 0px 0px 80px; 
+		/*padding: 0px 0px 0px 20px; */
+	}
+	
+	#photo { 
+		
+		margin: 10px 15px 10px 20px;
+		float: left; 
+		/* padding: 10px 5px 0px 20px; */	
+	}
+	
+	a.link {
+		display: block;
+		font: 12px/20px verdana, arial, sans-serif;
+		margin-left: 40px;
+		font-weight: bold;
+		margin-top: 15px;
+		margin-bottom: 5px; 
+	}
+	
+	
+	/* others, not used */
+	
+	
+	#search {text-align: center; margin-right: 100px;}
+	#info {text-align: center; margin-right: 100px; }
+	
+	.text {
+	font: 12px/20px verdana, arial, sans-serif;
+	margin-left: 82px;}
+	
+	.text_noindent {
+	font: 12px/20px verdana, arial, sans-serif;
+	}
+	
+	/*
+	textarea, input {
+	font: 12px verdana, arial, sans-serif; color: #555;
+	}
+	
+	textarea { padding: 5px; line-height: 18px; }
+	
+	input { padding:0; padding-left: 5px; }
+	*/
+	
+	td {
+	color: #555;
+	font: 12px/20px verdana, arial, sans-serif;
+	}
+	
+	td.smaller {
+	font-size: 0.8em;
+	}
+	
+	td.smallest {
+	font-family: verdana, arial, sans-serif; font-size: 0.7em;
+	}
+
+	
+	
+	/* Don't do this at home */
+	* html
+	{
+	overflow: hidden;
+	}
+	* html body
+	{
+	overflow: auto;
+	height: 100%;
+	padding: 0 1em 0 14em;
+	/*font-size: 100%;*/
+	}
+	* html div.fixedBox
+	{
+	position: absolute;  
+	}
+/* All done. */
+
+  
