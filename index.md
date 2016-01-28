@@ -282,7 +282,7 @@ Served as Reviewer for a number of international conferences and workshops, incl
 Links
 -----
 - [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/) - Publisher copyright policies & self-archiving information
-- [CORE Portal](http://core.edu.au/index.php/conference-rankings) - Official Australian   [CS Conference Rankings](http://www.core.edu.au/coreportal); olso the Italian [GII-GRIN Ratings](http://www.consorzio-cini.it:8080/consultazioneclassificazioni/ratingSearch.jsf)
+- [CORE Portal](http://core.edu.au/index.php/conference-rankings) - Official Australian   [CS Conference Rankings](http://www.core.edu.au/coreportal); see also the Italian [GII-GRIN Ratings](http://www.consorzio-cini.it:8080/consultazioneclassificazioni/ratingSearch.jsf)
 - [2048 infUnica Edition](http://games.usvsth3m.com/2048/infunica-edition/) - the popular game [2048](gabrielecirulli.github.io/2048/) as seen by CS students at the University of Cagliari. [Tetris also available](http://games.usvsth3m.com/giftris/infunica-edition/).
 - [PhD Comics](http://www.phdcomics.com/comics/comics.php)
 - [Compute Collaboration Distance](http://www.ams.org/mathscinet/collaborationDistance.html) - My Erd&ouml;s Number (collaboration distance with Paul Erd&ouml;s) is 4 (via Prof. C. Zaniolo)
