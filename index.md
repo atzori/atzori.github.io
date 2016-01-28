@@ -24,6 +24,7 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
+- Presenting 2 papers at the [10th IEEE International Conference on Semantic Computing](http://www.ieee-icsc.com/), Laguna Hill, California. Also involved as the *Session Chair* of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf).  
 - Co-PI with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/) (UCLA) of a [**Google Research Award**](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html). Our project _Exploiting Structured Queries in Question Answering and Search_ got extended coverage on local press such as [Wired.it](http://www.wired.it/economia/business/2015/03/11/google-award-rivoluzione-dei-motori-ricerca-passa-dalla-sardegna/) (Italian).
 
 - Interested in the [**Web of Functions**](http://webofcode.org/wfn/)? Take a look at the  _full paper_ at the Research Track of the [_International Semantic Web Conference (ISWC 2014)_](http://iswc2014.semanticweb.org/). There is also a _Demo paper_. Further information and many examples can be found at the [project page](http://webofcode.org/wfn/).
@@ -215,6 +216,7 @@ I am also developing a number of other applications in the fields of abduction, 
 <a id="activities" />
 Scientific Activities
 ---------------------
+
 Serving as Reviewer for the following major database and data mining international journals:
 ACM Transactions on Database Systems (<a>TODS</a>), 
 IEEE Transactions on Knowledge and Data Engineering (<a>TKDE</a>), 
@@ -230,6 +232,10 @@ Information Sciences (<a href="http://www.journals.elsevier.com/information-scie
 Information Processing &amp; Management (<a>IPM</a>).
 
 Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics.
+
+Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
+
+Session Chair of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf),at the [10th IEEE International Conference on Semantic Computing (ICSC 2016)](http://www.ieee-icsc.com/), Laguna Hill, California. 
 
 PC Member for a number of International Conferences and Workshops, including:
 
@@ -250,8 +256,6 @@ PC Member for a number of International Conferences and Workshops, including:
 - PC Member of the 19th Brazilian Symposium on Artificial Intelligence (SBIA 2008)
 - PC Member of the IADIS European Conference on Data Mining 2008 (MCCSIS-DM08)
 - PC member of the First ACM SIGKDD Workshop on Privacy, Security, and Trust in KDD (PinKDD'07), joint with ACM SIGKDD 2007
-
-Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
 
 Served as Reviewer for a number of international conferences and workshops, including:
 <a href="http://www-aiia2003.di.unipi.it/aiia2003/index-eng.html">AI&#42;IA03</a>,
