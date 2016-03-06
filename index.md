@@ -237,6 +237,7 @@ Session Chair of the [Semantics Integration and Analysis Session](http://media.w
 
 PC Member for a number of International Conferences and Workshops, including:
 
+- 7th Italian Information Retrieval Workshop [IIR 2016](http://www.dais.unive.it/~iir2016/)
 - International Conference on Business Information Systems ([BIS 2016](http://bis.kie.ue.poznan.pl/bis2016/), [BIS 2015](http://bis.kie.ue.poznan.pl/), [BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/))
 - International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2015](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2015/))
 - International Workshop on Privacy and Security of Big Data ([PSBD 2015](http://si.deis.unical.it/cuzzocrea/PSBD2015/) co-located with [IEEE BigData 2015](http://cci.drexel.edu/bigdata/bigdata2015/)).
@@ -245,7 +246,7 @@ PC Member for a number of International Conferences and Workshops, including:
 - International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM-14](http://web.ornl.gov/sci/knowledgediscovery/sstdm-14/) co-located with IEEE ICDM, PC Member since SSTDM-08)
 - International Workshop on Privacy and Anonymity in the Information Society (PAIS 2016, in conjunction with EDBT/ICDT, in the PC since its first edition in 2008)
 - International Workshop on Privacy and Security of Big Data ([PSBD 2014](http://si.deis.unical.it/~cuzzocrea/PSBD2014/) co-located with [CIKM 2014](http://cikm2014.fudan.edu.cn/)).
-- Italian Symposium on Advanced Database Systems ([SEBD2016](http://www.sebd2014.unina.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
+- Italian Symposium on Advanced Database Systems ([SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
 - IEEE International Workshop on Trust, Security and Privacy for Big Data ([IEEE TrustData 2014](http://trust.csu.edu.cn/conference/TrustData2014/), [TrustData 2013](http://trust.csu.edu.cn/conference/TrustData2013/))
 - International Conference on Computer Science and Its Applications ([CIIA 2013](http://ciia2013.lewebpro.net/), Security &amp; Network Technologies Track)
 - International Workshop on Mobility, Data Mining and Privacy Preserving anonymity in geographically referenced data, at the headquarter of the Italian Privacy Authority, Rome, 14 February 2008
