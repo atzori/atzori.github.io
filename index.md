@@ -237,7 +237,7 @@ Session Chair of the [Semantics Integration and Analysis Session](http://media.w
 
 PC Member for a number of International Conferences and Workshops, including:
 
-- 7th Italian Information Retrieval Workshop ([IIR 2016](http://www.dais.unive.it/~iir2016/))
+- 7th Italian Information Retrieval Workshop ([IIR 2016](http://www.dais.unive.it/IIR2016/))
 - International Conference on Business Information Systems ([BIS 2016](http://bis.kie.ue.poznan.pl/bis2016/), [BIS 2015](http://bis.kie.ue.poznan.pl/), [BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/))
 - International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2015](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2015/))
 - International Workshop on Privacy and Security of Big Data ([PSBD 2015](http://si.deis.unical.it/cuzzocrea/PSBD2015/) co-located with [IEEE BigData 2015](http://cci.drexel.edu/bigdata/bigdata2015/)).
