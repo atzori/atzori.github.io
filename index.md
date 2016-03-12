@@ -235,6 +235,8 @@ Organizing Committee Member of The 15th European Conference on Machine Learning 
 
 Session Chair of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf),at the [10th IEEE International Conference on Semantic Computing (ICSC 2016)](http://www.ieee-icsc.com/), Laguna Hill, California. 
 
+<!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
+
 PC Member for a number of International Conferences and Workshops, including:
 
 - 7th Italian Information Retrieval Workshop ([IIR 2016](http://www.dais.unive.it/IIR2016/))
