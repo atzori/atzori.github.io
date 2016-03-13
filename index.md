@@ -277,7 +277,6 @@ Served as Reviewer for a number of international conferences and workshops, incl
 [ACM PODS08](http://www.sigmod08.org/program_glance.shtml#pods_program).
 <!-- (list not updated). -->
 
-<a id="links"/>
 Links
 -----
 - [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/) - Publisher copyright policies & self-archiving information
