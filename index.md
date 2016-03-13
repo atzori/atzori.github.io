@@ -42,7 +42,6 @@ Highlights
 - [Math/CS Department](http://dipartimenti.unica.it/matematicaeinformatica), [University of Cagliari](http://unica.it) ([Sardinia](http://en.wikipedia.org/wiki/Sardinia), Italy)
 -->
 
-<a id="teaching"/>
 Teaching
 --------
 [Computer Science @ Unica](http://informatica.unica.it/)
@@ -55,7 +54,6 @@ Students can join the PR2 course at the [course page in Moodle](http://moodle2.u
 
 I previously tought as Aggregate Professor at the [University of Sassari](http://www.uniss.it) and as Teaching assistant at the [University of Pisa](http://www.di.unipi.it/).
 
-<a id="publications"/>
 Publications
 ------------
 
@@ -179,7 +177,6 @@ This list is not complete nor frequently updated.
 - [Romeo Zitarosa](http://it.linkedin.com/in/romeozitarosa)'s Bachelor Degree _Development of an Online Data Mining Algorithm for Association Rules Extraction_ (University of Pisa, Feb 2005)
 - [Daniele Sgandurra](http://www.di.unipi.it/~daniele/)'s Bachelor Degree _Development of Tools for Privacy Preserving Distributed Data Mining_ (CNR, July 2004)
 
-<a id="software"/>
 Software and Tools
 ------------------
 - [SWiPE]() Searching WikiPedia by Example, as published at [WWW2012](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) and featured by the international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext),
@@ -211,7 +208,6 @@ An open source ANSI C/C++ library of functions and protocols useful to exchange 
 
 I am also developing a number of other applications in the fields of abduction, data privacy, and data mining. I planned to publish them here as soon as the documentation is ready. If you need details on experiments on my papers or software published here, please feel free to [email me](mailto:atzori@unica.it).
 
-<a id="activities" />
 Scientific Activities
 ---------------------
 
