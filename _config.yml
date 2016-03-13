@@ -1,2 +1,3 @@
-markdown: rdiscount
+# Build settings
+markdown: kramdown
 pygments: true
