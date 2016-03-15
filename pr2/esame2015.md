@@ -3,8 +3,10 @@ layout: bootstrap
 title: Esame PR2 2015
 ---
 
-Esame PR2 2015
+Esame PR2 2015 (OUT OF DATE)
 =================
+**ATTENZIONE: QUESTA PAGINA E' OBSOLETA, UTILIZZARE QUELLA RELATIVA ALL'ANNO IN CORSO**
+
 _Nota: le modalità di esame e le regole descritte in questa pagina si riferiscono solo all'anno accademico 2014/2015._
 
 L'esame di PR2 è suddiviso in 3 prove (tra parentesi il peso di ciascuna prova nel voto finale):
