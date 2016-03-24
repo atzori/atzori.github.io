@@ -182,7 +182,7 @@ Software and Tools
 - [SWiPE]() Searching WikiPedia by Example, as published at [WWW2012](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) and featured by the international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext),
 [KurzweilAI](http://www.kurzweilai.net/new-search-tool-to-unlock-wikipedia) and translated in several languages
 
-> &quot;By making Wikipedia search simple, though, SWiPE has the potential to bring this benefit to a far greater audience. I, for one, can't wait to try it out myself.&quot; ([Lee Feigenbaum](http://www.cambridgesemantics.com/blog/-/blogs/swipe-an-example-of-easier-semantic-web-software), W3C SPARQL WG co-Chair)
+> &quot;By making Wikipedia search simple, though, SWiPE has the potential to bring this benefit to a far greater audience. I, for one, can't wait to try it out myself.&quot; ([Lee Feigenbaum](http://supportcenter.cambridgesemantics.com/blog/-/blogs/swipe-an-example-of-easier-semantic-web-software), W3C SPARQL WG co-Chair)
 
 
 - [Web of Functions](http://webofcode.org/wfn/)
