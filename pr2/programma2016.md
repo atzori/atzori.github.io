@@ -65,7 +65,7 @@ Esercitazioni e laboratorio: 36 ore, 3 ore ad esercitazione, una ogni settimana.
 
 Altre Informazioni
 ---------
-Il corso di Programmazione 2 e' ospitato su Moodle, piattaforma di e-learning, nella [pagina dedicata al corso](http://moodle.unica.it/course/view.php?id=51).
+Il corso di Programmazione 2 e' ospitato su Moodle, piattaforma di e-learning, nella [pagina dedicata al corso](http://moodle.unica.it/course/view.php?id=103).
 
 Sul sito e' presente il materiale didattico, che include:
 
