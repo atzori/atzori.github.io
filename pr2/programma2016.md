@@ -10,7 +10,7 @@ Registro lezioni
 ---------
 Il programma potrebbe variare di anno in anno. Da considerarsi non definitivo. 
 
-```
+```text
 	Data	Ore	Titolo	Tipo Attività	Canc
 Invia
 03/03/2016	2	introduzione al corso, linguaggi ed architetture, paradigmi, astrazione	lezione	
