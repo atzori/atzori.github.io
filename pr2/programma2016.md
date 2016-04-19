@@ -36,6 +36,9 @@ Invia
 05/04/2016	2	equals, ==, hashCode, RuntimeException, Exception, Error, try, catch	lezione	
 Invia
 05/04/2016	3	lab: eccezioni, ripasso (toString, equals su classe Animale)	laboratorio
+
+
+
 ```
 
 
