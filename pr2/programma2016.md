@@ -36,7 +36,16 @@ Invia
 05/04/2016	2	equals, ==, hashCode, RuntimeException, Exception, Error, try, catch	lezione	
 Invia
 05/04/2016	3	lab: eccezioni, ripasso (toString, equals su classe Animale)	laboratorio
-
+Invia
+07/04/2016	2	esercitazione motivazionale su Web Scraping con libreria Jaunt	laboratorio	
+Invia
+12/04/2016	5	Lezione Straordinaria a Tiscali	lezione	
+Invia
+14/04/2016	2	finally, jar, array, classi astratte, intro interfacce	lezione	
+Invia
+19/04/2016	2	interfacce (Iterable, Iterator) e Java Collections, Map, Set, AbstractList, ArrayList, LinkedList, etc.	lezione	
+Invia
+19/04/2016	3	Esercitazione bonus 2	laboratorio
 
 
 ```
