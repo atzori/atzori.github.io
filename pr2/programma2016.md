@@ -35,7 +35,7 @@ Invia
 Invia
 05/04/2016	2	equals, ==, hashCode, RuntimeException, Exception, Error, try, catch	lezione	
 Invia
-05/04/2016	3	lab: eccezioni, ripasso (toString, equals su classe Animale)	laboratorio
+05/04/2016	3	lab: eccezioni, ripasso (toString, equals su classe Animale)	laboratorio	
 Invia
 07/04/2016	2	esercitazione motivazionale su Web Scraping con libreria Jaunt	laboratorio	
 Invia
@@ -45,8 +45,13 @@ Invia
 Invia
 19/04/2016	2	interfacce (Iterable, Iterator) e Java Collections, Map, Set, AbstractList, ArrayList, LinkedList, etc.	lezione	
 Invia
-19/04/2016	3	Esercitazione bonus 2	laboratorio
-
+19/04/2016	3	Esercitazione bonus 2	laboratorio	
+Invia
+21/04/2016	2	Ripasso equals e hashCode, intro Generics, esercizi du Comparable, Comparator	lezione	
+Invia
+26/04/2016	2	Java Generics, import static	lezione	
+Invia
+26/04/2016	3	Esercizi su Java Collections: Comparable, Comparator, HashMap, TreeMap etc.	lezione
 
 ```
 
