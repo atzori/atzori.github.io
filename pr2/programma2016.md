@@ -11,7 +11,7 @@ Registro lezioni
 Il programma potrebbe variare di anno in anno. Da considerarsi non definitivo. 
 
 ```text
-	Data	Ore	Titolo	Tipo Attività	Canc
+
 Invia
 03/03/2016	2	introduzione al corso, linguaggi ed architetture, paradigmi, astrazione	lezione	
 Invia
@@ -49,10 +49,27 @@ Invia
 Invia
 21/04/2016	2	Ripasso equals e hashCode, intro Generics, esercizi du Comparable, Comparator	lezione	
 Invia
-26/04/2016	2	Java Generics, import static	lezione	
+26/04/2016	1	import static, intro JUnit, Java Generics	lezione	
 Invia
-26/04/2016	3	Esercizi su Java Collections: Comparable, Comparator, HashMap, TreeMap etc.	lezione
-
+26/04/2016	4	JUnit, Pratica su JUnit, Esercizi su Java Collections e Generics: Comparable, HashMap/TreeMap	laboratorio	
+Invia
+28/04/2016	2	Esercizio simulazione compito RisorsaWeb (TestRisorseWeb)	lezione	
+Invia
+03/05/2016	2	Sintassi JUnit4 da riga di comando e annotazioni JUnit; nested, inner, local, anonymous classes, lambda expressions	lezione	
+Invia
+03/05/2016	3	esercitazione bonus 3	laboratorio	
+Invia
+05/05/2016	2	Correzione esercizi precedenti, approfondimento lambda, ripasso nested classes e esercizi domande, enum	lezione	
+Invia
+10/05/2016	2	ripasso enum, lambda e functional interface, esempi lambda/local/anonymous class equivalenti, reference methods, varargs	lezione	
+Invia
+10/05/2016	3	metodi di default nelle interfacce, correzione esercitazioni precedenti (5 e 6), esercizi su Collections/Comparable/Generics, File/Scanner/PrintWriter ed esercizi	laboratorio	
+Invia
+12/05/2016	2	IDE, Java 8 Streams, annotazioni	lezione	
+Invia
+17/05/2016	2	?	lezione	
+Invia
+17/05/2016	3	Correzione esercizi settimana precedente, esercizio IDE/annotazioni/stream	laboratorio	
 ```
 
 
