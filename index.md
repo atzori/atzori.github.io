@@ -24,12 +24,17 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- Presenting 2 papers at the [10th IEEE International Conference on Semantic Computing](http://www.ieee-icsc.com/), Laguna Hill, California. Also involved as the *Session Chair* of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf).  
+
+
+
 - Co-PI with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/) (UCLA) of a [**Google Research Award**](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html). Our project _Exploiting Structured Queries in Question Answering and Search_ got extended coverage on local press such as [Wired.it](http://www.wired.it/economia/business/2015/03/11/google-award-rivoluzione-dei-motori-ricerca-passa-dalla-sardegna/) (Italian).
 
 - Interested in the [**Web of Functions**](http://webofcode.org/wfn/)? Take a look at the  _full paper_ at the Research Track of the [_International Semantic Web Conference (ISWC 2014)_](http://iswc2014.semanticweb.org/). There is also a _Demo paper_. Further information and many examples can be found at the [project page](http://webofcode.org/wfn/).
 
 - Our WWW2012 work [**SWiPE**: Searching Wikipedia By Example](http://www2012.wwwconference.org/proceedings/companion/p309.pdf) described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in [several languages](http://atzori.webofcode.org/projects/swipe/press).
+
+<!--
+- Presenting 2 papers at the [10th IEEE International Conference on Semantic Computing](http://www.ieee-icsc.com/), Laguna Hill, California. Also involved as the *Session Chair* of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf).  --> 
 
 
 <!--  PC of [SEBD 2014](http://www.sebd2014.unina.it/). Take the opportunity of visiting the amazing Sorrento Coast on June 16th-18th!-->
@@ -185,6 +190,9 @@ Software and Tools
 > &quot;By making Wikipedia search simple, though, SWiPE has the potential to bring this benefit to a far greater audience. I, for one, can't wait to try it out myself.&quot; ([Lee Feigenbaum](http://supportcenter.cambridgesemantics.com/blog/-/blogs/swipe-an-example-of-easier-semantic-web-software), W3C SPARQL WG co-Chair)
 
 
+- [CodeOntology](http://codeontology.org/)
+RFD-ization of source code and use of SPARQL for finding design patterns over code
+
 - [Web of Functions](http://webofcode.org/wfn/)
 Higher-order interoperable functions within any SPARQL endpoint
 
@@ -235,6 +243,7 @@ Session Chair of the [Semantics Integration and Analysis Session](http://media.w
 
 PC Member for a number of International Conferences and Workshops, including:
 
+- 1st IEEE ICDM International Workshop on Privacy and Discrimination in Data Mining ([PDDM 2016](http://pddm2016.eurecat.org))
 - 7th Italian Information Retrieval Workshop ([IIR 2016](http://www.dais.unive.it/IIR2016/))
 - International Conference on Business Information Systems ([BIS 2016](http://bis.kie.ue.poznan.pl/bis2016/), [BIS 2015](http://bis.kie.ue.poznan.pl/), [BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/))
 - International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2015](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2015/))
