@@ -67,9 +67,11 @@ Invia
 Invia
 12/05/2016	2	IDE, Java 8 Streams, annotazioni	lezione	
 Invia
-17/05/2016	2	?	lezione	
+17/05/2016	2	Scanner, File PrintWriter, Reader, FileReader, esempi su file	lezione	
 Invia
-17/05/2016	3	Correzione esercizi settimana precedente, esercizio IDE/annotazioni/stream	laboratorio	
+17/05/2016	3	Correzione esercizi settimana precedente (Query), esercizio con IDE (Netbeans) soluz esercitaz Bonus 3, try with resources	laboratorio	
+Invia
+19/05/2016	2	Esercizio su DataFramework con domande	lezione
 ```
 
 
