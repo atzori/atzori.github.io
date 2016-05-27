@@ -8,7 +8,7 @@ Programma PR2 (A.A. 2015/2016)
 
 Registro lezioni
 ---------
-Il programma potrebbe variare di anno in anno. Da considerarsi non definitivo. 
+Il seguente è il registro lezioni del docente.
 
 ```text
 
@@ -118,10 +118,11 @@ Sul sito e' presente il materiale didattico, che include:
   - questionari
   - esempi di testi di esame e traccia delle soluzioni
 
-###Testi
+###Testi e Materiale didattico
 
-[Concetti di informatica e fondamenti di Java](http://www.apogeonline.com/libri/9788850329564/scheda), ultima edizione di Cay Horstmann.
+Il materiale del corso è disponibile nella pagina dedicata a [PR2 su Moodle](http://moodle.unica.it/course/view.php?id=103).
+Per altro materiale ed esercizi ausiliari si rimanda al testo suggerito:
 
-http://www.apogeonline.com/libri/9788850329564/scheda
+ - [Concetti di informatica e fondamenti di Java](http://www.apogeonline.com/libri/9788850329564/scheda), ultima edizione di Cay Horstmann ([scheda](http://www.apogeonline.com/libri/9788850329564/scheda))
 
 Also available in english as "Big Java" by Cay Horstmann, last edition. 
