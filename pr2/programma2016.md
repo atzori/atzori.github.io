@@ -118,7 +118,7 @@ Sul sito e' presente il materiale didattico, che include:
   - questionari
   - esempi di testi di esame e traccia delle soluzioni
 
-###Testi e Materiale didattico
+### Testi e Materiale didattico
 
 Il materiale del corso è disponibile nella pagina dedicata a [PR2 su Moodle](http://moodle.unica.it/course/view.php?id=103).
 Per altro materiale ed esercizi ausiliari si rimanda al testo suggerito:
