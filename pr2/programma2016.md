@@ -65,13 +65,19 @@ Invia
 Invia
 10/05/2016	3	metodi di default nelle interfacce, correzione esercitazioni precedenti (5 e 6), esercizi su Collections/Comparable/Generics, File/Scanner/PrintWriter ed esercizi	laboratorio	
 Invia
-12/05/2016	2	IDE, Java 8 Streams, annotazioni	lezione	
+12/05/2016	2	IDE, Java 8 Streams	lezione	
 Invia
 17/05/2016	2	Scanner, File PrintWriter, Reader, FileReader, esempi su file	lezione	
 Invia
-17/05/2016	3	Correzione esercizi settimana precedente (Query), esercizio con IDE (Netbeans) soluz esercitaz Bonus 3, try with resources	laboratorio	
+17/05/2016	3	Correzione esercizi settimana precedente (Query), esercizio con IDE (Netbeans) soluz esercitaz Bonus 3, try with resources (es Query)	laboratorio	
 Invia
-19/05/2016	2	Esercizio su DataFramework con domande	lezione
+19/05/2016	2	Esercizio su DataFramework con domande	lezione	
+Invia
+24/05/2016	2	annotazioni, intro maven, ripasso programma, intro spark	lezione	
+Invia
+24/05/2016	3	Correzione esercizi precedenti (stack, contaParole, genericsHashMap), esercizio su stream, Esercitazione bonus 4	laboratorio	
+Invia
+26/05/2016	2	spark java	lezione	
 ```
 
 
