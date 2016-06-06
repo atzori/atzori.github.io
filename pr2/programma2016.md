@@ -77,7 +77,7 @@ Invia
 Invia
 24/05/2016	3	Correzione esercizi precedenti (stack, contaParole, genericsHashMap), esercizio su stream, Esercitazione bonus 4	laboratorio	
 Invia
-26/05/2016	2	spark java	lezione	
+26/05/2016	2	spark java: creazione proxy con Jsoup e sparkjava	lezione
 ```
 
 
