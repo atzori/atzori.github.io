@@ -25,7 +25,7 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 Highlights
 ----------
 
-
+- Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
 - Co-PI with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/) (UCLA) of a [**Google Research Award**](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html). Our project _Exploiting Structured Queries in Question Answering and Search_ got extended coverage on local press such as [Wired.it](http://www.wired.it/economia/business/2015/03/11/google-award-rivoluzione-dei-motori-ricerca-passa-dalla-sardegna/) (Italian).
 
@@ -243,6 +243,7 @@ Session Chair of the [Semantics Integration and Analysis Session](http://media.w
 
 PC Member for a number of International Conferences and Workshops, including:
 
+- The Third International Conference on Big Data, Small Data, Linked Data and Open Data ([ALLDATA 2017](http://www.iaria.org/conferences2017/ALLDATA17.html))
 - 1st IEEE ICDM International Workshop on Privacy and Discrimination in Data Mining ([PDDM 2016](http://pddm16.eurecat.org))
 - 7th Italian Information Retrieval Workshop ([IIR 2016](http://www.dais.unive.it/IIR2016/))
 - International Conference on Business Information Systems ([BIS 2016](http://bis.kie.ue.poznan.pl/bis2016/), [BIS 2015](http://bis.kie.ue.poznan.pl/), [BIS 2014](http://bis.kie.ue.poznan.pl/17th_bis/))
