@@ -10,5 +10,6 @@ Metodologie e strumenti) included in the Summer School [Libraries in the Digital
 
 Links
 -----
+ - [this page](http://atzori.webofcode.org/lda2016/)
  - [http://lda2016.unica.it/](http://lda2016.unica.it/)
  - [http://www.orestesignore.eu/education/lda/](http://www.orestesignore.eu/education/lda/)
