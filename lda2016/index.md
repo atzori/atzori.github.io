@@ -10,5 +10,5 @@ Metodologie e strumenti) included in the Summer School [Libraries in the Digital
 
 Links
 -----
- - [](http://lda2016.unica.it/)
+ - [http://lda2016.unica.it/](http://lda2016.unica.it/)
  - [http://www.orestesignore.eu/education/lda/](http://www.orestesignore.eu/education/lda/)
