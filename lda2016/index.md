@@ -8,10 +8,11 @@ Publishing Linked Data: Methodologies and Tools (LDA 2016)
 This page contains teaching material (slides and links) related to my course *Publishing Linked Data: Methodologies and Tools* (PUBBLICARE LINKED DATA
 Metodologie e strumenti) which is part of the Summer School [Libraries in the Digital Age (LDA) 2016](http://lda2016.unica.it/).
 
-Introduction to Linked Data (video)
----------------------------
-<iframe src="https://player.vimeo.com/video/36752317" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+Videos
+------
+ - [Introduction to Linked Data](https://vimeo.com/36752317) 
+ - [From Excel file to RDF with links to DBpedia and Europeana (using OpenRefine)](https://youtu.be/XdpzmGxA33U)
+ - [Another example of using OpenRefine to produce RDF triples from tabular data](https://youtu.be/B5CsSE7_zeQ)
 
 Book
 ----
