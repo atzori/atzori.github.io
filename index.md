@@ -243,6 +243,7 @@ Session Chair of the [Semantics Integration and Analysis Session](http://media.w
 
 PC Member for a number of International Conferences and Workshops, including:
 
+- 5th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2016](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2016/)),  held in conjunction with the ACM GIS Conference on October 31st in San Francisco, CA
 - The Third International Conference on Big Data, Small Data, Linked Data and Open Data ([ALLDATA 2017](http://www.iaria.org/conferences2017/ALLDATA17.html))
 - 1st IEEE ICDM International Workshop on Privacy and Discrimination in Data Mining ([PDDM 2016](http://pddm16.eurecat.org))
 - 7th Italian Information Retrieval Workshop ([IIR 2016](http://www.dais.unive.it/IIR2016/))
