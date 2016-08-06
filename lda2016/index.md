@@ -22,5 +22,6 @@ Links
 -----
  - [LODrefine](https://sourceforge.net/projects/lodrefine/), an RDF-featured version of *OpenRefine* (formerly Google Refine)
  - [this page](http://atzori.webofcode.org/lda2016/)
- - [http://lda2016.unica.it/](http://lda2016.unica.it/)
+ - [Summer School LDA 2016](http://lda2016.unica.it/)
  - [http://www.orestesignore.eu/education/lda/](http://www.orestesignore.eu/education/lda/)
+ - [Introduzione al Semantic Web by Oreste Signore](http://www.w3c.it/papers/wsb08.pdf)
