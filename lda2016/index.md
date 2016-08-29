@@ -20,6 +20,8 @@ Videos
  - [Introduction to Linked Data](https://vimeo.com/36752317) 
  - [From Excel file to RDF with links to DBpedia and Europeana (using OpenRefine)](https://youtu.be/XdpzmGxA33U)
  - [Another example of using OpenRefine to produce RDF triples from tabular data](https://youtu.be/B5CsSE7_zeQ)
+ - [Tim Berners-Lee, publicizing LOD for TIM](https://youtu.be/-rxy9lI8-7Q)
+ - [Tim Berners-Lee's talk at TED in 2009](https://youtu.be/OM6XIICm_qo)
 
 Book
 ----
