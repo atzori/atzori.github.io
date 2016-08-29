@@ -1,7 +1,10 @@
 ---
 layout: bootstrap
-title: Summer School LDA 2016 - Publishing Linked Data: Methodologies and Tools
+title: Esame PR2 2015
 ---
+
+
+
 
 Publishing Linked Data: Methodologies and Tools (LDA 2016)
 ========
