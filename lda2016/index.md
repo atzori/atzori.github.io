@@ -1,6 +1,6 @@
 ---
 layout: bootstrap
-title: Esame PR2 2015
+title: Publishing Linked Data: Methodologies and Tools
 ---
 
 
