@@ -25,3 +25,13 @@ Links
  - [Summer School LDA 2016](http://lda2016.unica.it/)
  - [http://www.orestesignore.eu/education/lda/](http://www.orestesignore.eu/education/lda/)
  - [Introduzione al Semantic Web by Oreste Signore](http://www.w3c.it/papers/wsb08.pdf)
+
+LodRefine Settings
+------
+In order to reconcile properly against DBpedia, create a reconciliation service using the following settings:
+
+  "matchThreshold": 0.9,
+  "searchPropertyUris": ["http://www.w3.org/2000/01/rdf-schema#label", "http://dbpedia.org/property/name"],
+  "type": "remote-virtuoso",
+  "sparql-url": "http://dbpedia.org/sparql"
+			
