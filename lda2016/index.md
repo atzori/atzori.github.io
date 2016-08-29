@@ -8,6 +8,10 @@ Publishing Linked Data: Methodologies and Tools (LDA 2016)
 This page contains teaching material (slides and links) related to my course *Publishing Linked Data: Methodologies and Tools* (PUBBLICARE LINKED DATA
 Metodologie e strumenti) which is part of the Summer School [Libraries in the Digital Age (LDA) 2016](http://lda2016.unica.it/).
 
+Slides
+------
+Slides are available [here](http://atzori.webofcode.org/lda2016/lda2016-atzori.pdf).
+
 Videos
 ------
  - [Introduction to Linked Data](https://vimeo.com/36752317) 
@@ -30,8 +34,8 @@ LodRefine Settings
 ------
 In order to reconcile properly against DBpedia, create a reconciliation service using the following settings:
 
-  "matchThreshold": 0.9,
-  "searchPropertyUris": ["http://www.w3.org/2000/01/rdf-schema#label", "http://dbpedia.org/property/name"],
-  "type": "remote-virtuoso",
-  "sparql-url": "http://dbpedia.org/sparql"
-			
+  - matchThreshold: 0.9
+  - searchPropertyUris: "http://www.w3.org/2000/01/rdf-schema#label", "http://dbpedia.org/property/name"
+  - type: Virtuoso,
+  - endpoint: "http://dbpedia.org/sparql"
+ 
