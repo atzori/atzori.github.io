@@ -1,6 +1,6 @@
 ---
 layout: bootstrap
-title: Publishing Linked Data: Methodologies and Tools
+title: Publishing Linked Data - Methodologies and Tools
 ---
 
 
