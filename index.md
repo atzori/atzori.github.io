@@ -61,6 +61,16 @@ Students can join the PR2 course at the [course page in Moodle](http://moodle2.u
 
 I previously tought as Aggregate Professor at the [University of Sassari](http://www.uniss.it) and as Teaching assistant at the [University of Pisa](http://www.di.unipi.it/).
 
+Recent Talks
+------------
+A list of few recent talks:
+
+- [A User-Friendly Interface for Structured and Temporal Queries over Wikipedia](http://www.deib.polimi.it/ita/eventi/dettagli/1166) @PoliMi, 21 October 2016
+- [A User-Friendly Interface for Structured and Temporal Queries over Wikipedia](http://www.unibz.it/en/inf/events/EventsOverview.html?NewsID=120359) @UniBZ, 17 October 2016
+
+- [Structured Queries over Unstructured Data]() @UCLA, DB-UCLA, 16 February 2016
+
+
 Publications
 ------------
 
