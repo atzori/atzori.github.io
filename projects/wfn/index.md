@@ -15,7 +15,7 @@ The call function executes the specified URI function against an appropriate rem
 It allows interoperable remote invocation of functions (including higher-order functions -- HOF) from within a SPARQL query.
 
 
-###Name space 
+### Name space 
 The official namespace is the following:
 
     wfn: <http://webofcode.org/wfn/>
@@ -27,7 +27,7 @@ The call function can be also defined through the following prefix:
 This way, you can call a function by using the simpler syntax `call:(?functionURI, ?arg1, ?arg2, ...)`
 
     
-###Download
+### Download
 Our open source implementation in Java of the `wfn:call` function is available at [bitbucket](https://bitbucket.org/atzori/callsparql/).
 You can deploy it on your Apache Jena / Fuseki installation, allowing the use of `wfn:call` and therefore of any custom function defined on other remote endpoints.
 Technical details and how-tos will be available shortly.
