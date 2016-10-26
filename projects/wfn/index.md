@@ -32,7 +32,7 @@ Our open source implementation in Java of the `wfn:call` function is available a
 You can deploy it on your Apache Jena / Fuseki installation, allowing the use of `wfn:call` and therefore of any custom function defined on other remote endpoints.
 Technical details and how-tos will be available shortly.
 
-###Publications
+### Publications
 Details are available in our papers discussed at the [International Semantic Web Conference 2014](http://iswc2014.semanticweb.org/):
 
  1. [Toward the Web of Functions: Interoperable Higher-Order Functions in SPARQL](https://github.com/lidingpku/iswc2014/raw/master/paper/87970401-toward-the-web-of-functions-interoperable-higher-order-functions-in-sparql.pdf). Atzori M. _ISWC 2014 - Proceedings of the 13th International Semantic Web Conference_, Research Track, [doi](http://dx.doi.org/10.1007/978-3-319-11915-1_26) (2014)
