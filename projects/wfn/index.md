@@ -6,7 +6,7 @@ keywords: SPARQL, Web of Functions, Remote function calls
 
 Web of Functions
 ================
-The [Web of Functions](http://webofcode.org/wfn/) is a simple, backward-compatible way to computing custom functions remotely from any SPARQL endpoint. It is named after the Web of Data, since every function is associated with a (potentially dereferenciable) URI, thus forming the Web of Functions.
+The [Web of Functions](http://atzori.webofcode.org/projects/wfn/) is a simple, backward-compatible way to computing custom functions remotely from any SPARQL endpoint. It is named after the Web of Data, since every function is associated with a (potentially dereferenciable) URI, thus forming the Web of Functions.
 
 Introducing wfn:call
 -------------------------------
