@@ -1,219 +1,138 @@
-
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
 
-    <title>Semantic Web Lab</title>
+    <title>Justified Nav Template for Bootstrap</title>
 
-    <!-- Bootstrap Core CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <!-- <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-    <!-- Custom CSS -->
-    <link href="css/grayscale.css" rel="stylesheet">
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="ie10-viewport-bug-workaround.css" rel="stylesheet">
 
-    <!-- Custom Fonts -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <!-- Custom styles for this template -->
+    <link href="justified-nav.css" rel="stylesheet">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+  </head>
 
-</head>
+  <body>
 
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <div class="container">
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    <i class="fa fa-bars"></i>
-                </button>
-            </div>
+      <!-- The justified navigation menu is meant for single line per list item.
+           Multiple lines will require custom code not provided by Bootstrap. -->
+      <div class="masthead">
+		<div class="row">
+			<div class="col-sm-2">
+				<img src="dew2017-track.jpg" class="img-responsive img-rounded center-block" alt="Responsive image">
+			
+			</div>
+ 			<div class="col-sm-10">
+				<h1 class="text-center"> <b>DEW 2017: Data Exploration in the Web 3.0 Age</b></h1>
+				<h3 class="text-center">Conference Track @ <a href="http://wetice.ue.poznan.pl/">26th IEEE WETICE Conference</a></h3>
+				<h4 class="text-center">Poznan, Poland, June 21-23, 2017 </h3>
+			</div>
+		</div>
+				
+	  </div>
+	  <div class="masthead">
+		<nav>
+          <ul class="nav nav-justified">
+            <!--  class="active" -->
+            <li><a href="#welcome">Welcome</a></li>
+            <li><a href="#cfp">Call for papers</a></li>
+            <li><a href="#topics">Topics</a></li>
+            <li><a href="#pc">Program Committee</a></li>
+            <li><a href="#dates">Important Dates</a></li>
+            <li><a target="_blank" href="http://wetice.ue.poznan.pl/">WETICE 2017</a></li>
+          </ul>
+        </nav>
+      </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll2" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#members">Members</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll2" href="#projects">Projects</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
+      <!-- Jumbotron -->
+      <div><!-- class="jumbotron" -->
+	  
+		<h2 id="welcome">Welcome to DEW 2017!</h2>
+			<p class="lead">
+			The goal of the <em>Data Exploration in the Web 3.0 Age (DEW 2017)</em> track is to bring together researchers and practitioners from both the Academia and Industry working in the areas related to data exploration, in a very broad sense. The track welcomes contributions from data mining, query languages, data visualization, graph databases and other fields related to the analysis and exploitation of data. Papers focusing on Semantic technologies and Graph databases are particularly welcome.
+			</p>
+
+		<h3 id="background">Background</h3>
+		<p> Over the course of the last twenty years, currently emerging Web 3.0 environments have provided a strong potential for the integration of data sources, applications and tools.  In such a pervasive and highly dynamic scenario, existing techniques for accessing and managing web content seems to be actually inadequate to satisfy the user needs and more implicit or automatic ways of joining information are needed to improve the usability of web resources where searching is often unwieldy. This raises several important challenges for future data and web mining methods. Such challenges range from the analysis of poorly structured information, such as annotations and tags, to the provision of innovative methods that support users in searching and integrating information offered by web resources.</p> 
+		<p>The overall goal of these challenges is not limited to enhance information retrieval, but aims to raise awareness of how such information can be put to use in order to transform a specific dataset into a particularly significant resource when used in conjunction with other sources of information. According to this point of view, web-based information is also seen as an important source of economic growth enabling new forms of entrepreneurships and social innovation. Indeed, having a social and economic value, web information can be used as a basis for the creation of new services which add value to the original data. Finally, the growth of information through the Internet dramatically increases the range of benefits and usages derived from enabling data mining technologies that clearly point toward a high user involvement. The above motivations make DEW 2017 a special venue for a series of topics at the intersection of several technologies such as data mining, web intelligence, search, cloud technologies, etc. </p>
+	  
+	  <!--
+        <h2 id="welcome">Welcome to DEW 2017!</h2>
+        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>-->
+        <p><a class="btn btn-lg btn-success" href="#" role="button">Get started today</a></p>
+      </div>
+
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-lg-4">
+          <h2 id="cfp"><i class="fa fa-bullhorn"></i> Call for Paper</h2>
+          <p>To be announced</p>
+          <!-- <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>-->
         </div>
-        <!-- /.container -->
-    </nav>
-
-    <!-- Intro Header -->
-    <header class="intro">
-        <div class="intro-body">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <h2 class="brand-heading">Semantic Web Lab</h2>
-                        <!--<p class="intro-text">A free, responsive, one page Bootstrap theme.<br>Created by Start Bootstrap.</p> -->
-                        <a href="#about" class="btn btn-circle page-scroll2">
-                            <i class="fa fa-angle-double-down animated"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
+        <div class="col-lg-4">
+          <h2 id="topics"><i class="fa fa-list-ul"></i> </i>Topics</h2>
+		  Any work related to data exploration is welcome. The following is a non-exhaustive list to exemplify possible topics of interest:
+		   <ul>
+            <li>Text and Data Mining, Knowledge Discovery</li>
+            <li>Faceted Search and Browsing</li>
+            <li>Data Visualization and UX for Web 3.0 data</li>
+			<li>Querying interfaces and languages including Constrained natural languages</li>
+			<li>Entity Recognition and merging, Type classification, record linkage and property ranking</li>
+			<li>Privacy and Security issues in Data Exploration</li>
+			<li>Machine learning and statistical methods for natural language and Web 3.0 data</li>
+			<li>Platforms and Applications exploring data in all domains including social, web, bioinformatics and finance</li>
+			<li>Knowledge graph creation, reasoning, and exploration</li>
+			<li>Data streams and the Internet of Things</li>
+			<li>Semantic Web and Linked Data analytics</li>
+          </ul>
+       </div>
+        <div class="col-lg-4">
+			<h2 id="pc"> <i class="fa fa-users"></i> Program Committee</h2>
+		  
+		   <ul>
+            <li>Maurizio Atzori, University of Cagliari (co-chair)</li>
+            <li>Barbara Pes, University of Cagliari (co-chair)</li>
+            <li>[TBD]</li>
+			<!--
+			Carlo Zaniolo, University of California in Los Angeles Shi Gao, Google Massimo Mazzeo, Facebook Nicoletta Dessì, University of Cagliari Yücel Saygin, Sabanci University Danuta Zakrzewska, Politechnika Łódzka Vedrana Vidulin, Ruđer Bošković Institute Carlo Combi, University of Verona Stefano Montanelli, Università degli Studi di Milano Paolo Ferragina, University of Pisa Daniele Riboni, University of Cagliari Fabio Persia, Free University of Bozen-Bolzano 
+			-->
+			
+          </ul>
+		  <!--
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
+          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>-->
         </div>
-    </header>
-    <!-- About Section -->
-    <section id="about" class="container content-section text-center">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <h2>About Semantic Web Lab</h2>
-                    <p>The <a href="#">Semantic Web Lab</a> is mainly devoted to the design, analysis and experimentation of algorithms and systems involving structured and unstructured data for the Web, such as knowledge graphs, massive textual data, web and source code repositories. Our effort is particularly focused on simplifying access to these resources with innovative query systems, such as Question Answering over Linked Data, SPARQL extensions and our By-Example Structured Query approach.</p>
-                </div>
-            </div>
-    </section>
+      </div>
 
-    <!-- Download Section -->
-    <section id="members" class="content-section text-center">
-        <div class="download-section">
-            <div class="container">
-                <div class="coll-lg-8 col-g-offset-2">
-                    <h2>Members</h2>
-                    <div class = "float_left_L">
-                        <h3>Current</h3>
-                            <p>
-                            <a href="http://atzori.webofcode.org/">Maurizio Atzori</a> - Lead Researcher <br>
-                            <a href="http://people.unica.it/diegoreforgiato/">Diego Reforgiato</a> - Faculty Research Fellow <br>
-                            
-                            Andrea Dessi - PhD Student <br>
-                            Livio Pompianu - PhD Student <br>
+      <!-- Site footer -->
+      <footer class="footer">
+        <p>&copy; <a href="http://swlab.unica.it/">SWLab</a>, <a href="http://dipartimenti.unica.it/matematicaeinformatica/">Dept. of Maths and Computer Science, University of Cagliari</a>. For any issue please contact <a href="http://swlab.unica.it/atzori">Maurizio Atzori</a></p>
+      </footer>
 
-                            Emanuele Mameli - Research Assistant (LM18)<br>
-
-                            Andrea Medda - Student (LM18)<br>
-                            Julia Schmidt - Student (LM18)<br>
-                            
-                            Mattia Atzeni - Intern<br>
-                            Daniele S. Ferru - Intern<br>
-                            Federica Muceli - Intern<br>
-                            Flavia Murru - Intern<br>
-                            Mattia Setzu - Intern<br>
+    </div> <!-- /container -->
 
 
-                            </p><br> <br>
-                    </div>
-                    <div class = "float_left_R">
-                        <h3>Alumni</h3>
-                            <p>Simone Barbieri - Research Assistant <br>
-                            Annalisa Congiu - Intern <br>
-                            Riccardo Angius - Student <br>
-                            Andrea Maxia - Student <br>
-                            Gabriele Rota - Student <br>
-                            Stefano Serra - Student </p><br><br>
-                    </div>
-                    <div style="clear:both;"></div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Contact Section -->
-    <section id="projects" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8v2 col-lg-offset-2V2">
-                <h2>Projects</h2>
-
-                <h4>In the following the list of some projects currently undertaken by our lab:</h4>
-
-                <p><a href="">swipeQA</a> Exploiting Structured Queries in Question Answering and Search. In collaboration with Prof. Carlo Zaniolo (UCLA), awarded by a <a href="http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html">Google Faculty Research Award</a>
-                <br>
-                <a href="http://atzori.webofcode.org/projects/swipe">SWiPE</a> Searching Wikipedia by Example, a user-friendly interface for structured queries
-                <br>
-                <a href="http://atzori.webofcode.org/projects/http://tcs.unica.it/projects/security-horizons">Security Horizons</a> A consortium of universities working on security and privacy issues (PRIN 2010-11 project) <br>
-                <a href="wfn">wfn</a> Web of Functions, executable functions spread around the Web <br>
-                <a href="http://atzori.webofcode.org/projects/SPARQL4coding">SPARQL4coding</a> Massive dataset of Source code repositories that can be queried with SPARQL <br>
-                <a href="http://atzori.webofcode.org/projects/rankProperties">rankProperties</a> a machine-learning approach to sort RDF properties on the fly
-                <br>
-                <a href="http://atzori.webofcode.org/projects/runSPARQL">runSPARQL</a> Recursion and SPARQL macros within SPARQL engines <br>
-                <a href="http://atzori.webofcode.org/projects/woraSPARQL">woraSPARQL</a> Write-One Run-Anywhere SPARQL Custom Functions plugin for OpenLink Virtuoso </p> <br><br>
-
-                <h4>Previous projects where <a href="http://atzori.webofcode.org/">Maurizio Atzori</a> was involved with:</h4>
-                <p>
-                <a href="">DENIS</a> DENIS: Dataspaces Enhancing the Next Internet in Sardinia (RAS) <br>
-                <a href="">U-DID</a> PI of project Unstructured Data Integration for Dataspaces (RAS) <br>
-                <a href="http://kdd.isti.cnr.it/project/diva">DIVA</a> A predictive system aimed at fighting against tax evasion in VAT domain<br>
-                <a href="http://www.kdubiq.org/kdubiq/control/research_areas#wg5">KDubiq</a>
-                Ubiquitous Knowledge Discovery (WG5: Privacy and Security)<br>
-                <a href="http://www.geopkdd.eu/">GeoPKDD</a>
-                Geographic Privacy-aware Knowledge Discovery and Delivery<br>
-                <a href="http://geopkdd.di.unipi.it/">GeoPKDD.it</a>
-                Italian Project on Geographic Privacy-aware Knowledge Discovery and Delivery (MIUR COFIN2004)<br>
-                <a href="http://www-kdd.isti.cnr.it/p3d/">P3D - Privacy Preserving Pattern Discovery</a>
-                A "Curiosity Driven and Independent Research" ISTI Internal Project<br>
-                <a href="http://kdd.di.unipi.it/kddml/">KDDML-MQL</a>
-                Knowledge Discovery in Databases Markup Language <br>
-                <a href="">ClickWorld</a> Data analysis of Click Streams
-                </p> <br><br>
-            </div>
-        </div>
-    </section>
-
-    <!-- Footer -->
-    <footer>
-        <div class="container text-center">
-            <div class="float_left_L_h"><a href="mailto:atzori@unica.it">Email</a></div>
-            <div class="float_left_R_h"><a href="">Home</a></div><br/><br/>
-            <div style="clear:both;"></div>
-            <span class="citation">Live as if you were to die tomorrow. Learn as if you were to live forever. (<a href="http://en.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi">Mohandas Gandhi</a>)</span>
-        </div>
-    </footer>
-
-    <!-- jQuery -->
-    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-
-    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
-
-    <!-- Custom Theme JavaScript -->
-    <script src="js/grayscale.js"></script>
-    
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-56102516-1', 'auto');
-  ga('require', 'linkid');
-  ga('send', 'pageview');
-
-</script>
-
-</body>
-
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="ie10-viewport-bug-workaround.js"></script>
+  </body>
 </html>
