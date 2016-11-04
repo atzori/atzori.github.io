@@ -25,7 +25,10 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 Highlights
 ----------
 
-- We have extended the deadlines for 11th [International Conference on Semantic Computing (ICSC 2017)](http://icsc.eecs.uci.edu/2017/), abstract/full papers submissions to Oct. 21/Oct. 27
+- PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017)
+
+<!--
+- We have extended the deadlines for 11th [International Conference on Semantic Computing (ICSC 2017)](http://icsc.eecs.uci.edu/2017/), abstract/full papers submissions to Oct. 21/Oct. 27 -->
 
 - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
