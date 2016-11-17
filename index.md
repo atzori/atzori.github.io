@@ -25,7 +25,7 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 Highlights
 ----------
 
-- PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017), in Poland! Accepted papers will be published on IEEE Proceedings. Submission deadline: February 26, 2017
+- PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/), in Poland! Accepted papers will be published on IEEE Proceedings. Submission deadline: February 26, 2017
 
 <!--
 - We have extended the deadlines for 11th [International Conference on Semantic Computing (ICSC 2017)](http://icsc.eecs.uci.edu/2017/), abstract/full papers submissions to Oct. 21/Oct. 27 -->
@@ -252,6 +252,10 @@ Information Processing &amp; Management (<a>IPM</a>).
 
 Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics.
 
+PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/), in Poland! Accepted papers will be published on IEEE Proceedings. Submission deadline: February 26, 2017
+ 
+Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
+ 
 Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
 
 Session Chair of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf),at the [10th IEEE International Conference on Semantic Computing (ICSC 2016)](http://www.ieee-icsc.com/), Laguna Hill, California. 
