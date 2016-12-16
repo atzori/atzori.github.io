@@ -6,7 +6,7 @@ keywords: Semantic Web, Big Data, Database, SPARQL, Web of Functions, projects, 
 
 <div class="row">
 			<div class="col-sm-2">
-				<img src="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg" class="img-responsive img-rounded center-block" alt="Responsive image">
+				<a href="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg"><img src="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg" class="img-responsive img-rounded center-block" alt="Responsive image"></a>
 			
 			</div>
  			<div class="col-sm-10">
