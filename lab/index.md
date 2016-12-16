@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Semantic Web and Database Projects by Maurizio Atzori, University of Cagliari, Italy
-keywords: Semantic Web, Database, SPARQL, Web of Functions, projects, research
+layout: bootstrap
+title: Semantic Web, Big Data and Database Projects, University of Cagliari, Italy
+keywords: Semantic Web, Big Data, Database, SPARQL, Web of Functions, projects, research, Maurizio Atzori
 ---
 
 Semantic Web Lab 
@@ -13,7 +13,7 @@ Our effort is particularly focused on simplifying access to these resources with
 
 Members
 ------
-###Current
+### Current
  - [Maurizio Atzori](http://atzori.webofcode.org/) - Lead Researcher
  - Andrea Dessi - PhD Student
  - Livio Pompianu - PhD Student
@@ -24,7 +24,7 @@ Members
  - Annalisa Congiu - Intern
  - Mattia Atzeni - Student
 
-###Alumni
+### Alumni
  - Riccardo Angius - Student
  - Andrea Maxia - Student
  - Gabriele Rota - Student
