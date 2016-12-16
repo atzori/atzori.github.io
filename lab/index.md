@@ -10,9 +10,11 @@ keywords: Semantic Web, Big Data, Database, SPARQL, Web of Functions, projects, 
 			
 			</div>
  			<div class="col-sm-10">
-				<h1 class="text-center"> <b>[Semantic Web Lab](http://webofcode.org/lab/)</b></h1>
-				<h3 class="text-center">Department of Maths and Computer Science</a></h3>
-				<h4 class="text-center">University of Cagliari</h3>
+				<h1 class="text-center"> <b>
+				[Semantic Web Lab](http://webofcode.org/lab/)
+				</b></h1>
+				<h3 class="text-center">Department of Maths and Computer Science</h3>
+				<h4 class="text-center">University of Cagliari</h4>
 			</div>
 </div>
 
