@@ -4,12 +4,24 @@ title: Semantic Web, Big Data and Database Projects, University of Cagliari, Ita
 keywords: Semantic Web, Big Data, Database, SPARQL, Web of Functions, projects, research, Maurizio Atzori
 ---
 
-Semantic Web Lab 
-================
+<div class="row">
+			<div class="col-sm-2">
+				<img src="dew2017-track.jpg" class="img-responsive img-rounded center-block" alt="Responsive image">
+			
+			</div>
+ 			<div class="col-sm-10">
+				<h1 class="text-center"> <b>[Semantic Web Lab](http://webofcode.org/lab/)</b></h1>
+				<h3 class="text-center">Department of Maths and Computer Science</a></h3>
+				<h4 class="text-center">University of Cagliari</h3>
+			</div>
+</div>
 
 The [Semantic Web Lab](http://webofcode.org/lab/) is mainly devoted to the design, analysis and experimentation of algorithms and systems involving Big structured and unstructured Data for the Web, such as knowledge graphs, massive textual data, web and source code repositories.
 Our effort is particularly focused on automating or simplifying access to these resources with innovative query systems, such as Question Answering over Linked Data, Machine Reading, SPARQL extensions and our By-Example Structured Query approach.
 
+
+<div class="row">
+			<div class="col-sm-6">
 
 Members
 ------
@@ -29,7 +41,9 @@ Members
  - Daniele S. Ferru - Student (LM)
  - Andrea Medda - Student (LM)
  
-
+  </div>
+  <div class="col-sm-6">
+  
 ### Alumni
 
  - Riccardo Angius - Student
@@ -40,6 +54,9 @@ Members
  - Mattia Setzu - Intern
  - Annalisa Congiu - Intern
  - Julia Schmidt - Student (LM18)
+
+  </div>
+</div>
 
 
 Projects
