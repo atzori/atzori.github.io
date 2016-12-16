@@ -7,8 +7,8 @@ keywords: Semantic Web, Big Data, Database, SPARQL, Web of Functions, projects, 
 Semantic Web Lab 
 ================
 
-The [Semantic Web Lab](http://webofcode.org/lab/) is mainly devoted to the design, analysis and experimentation of algorithms and systems involving structured and unstructured data for the Web, such as knowledge graphs, massive textual data, web and source code repositories.
-Our effort is particularly focused on simplifying access to these resources with innovative query systems, such as Question Answering over Linked Data, SPARQL extensions and our By-Example Structured Query approach.
+The [Semantic Web Lab](http://webofcode.org/lab/) is mainly devoted to the design, analysis and experimentation of algorithms and systems involving Big structured and unstructured Data for the Web, such as knowledge graphs, massive textual data, web and source code repositories.
+Our effort is particularly focused on automating or simplifying access to these resources with innovative query systems, such as Question Answering over Linked Data, Machine Reading, SPARQL extensions and our By-Example Structured Query approach.
 
 
 Members
@@ -16,15 +16,19 @@ Members
 
 ### Current
 
- - [Maurizio Atzori](http://atzori.webofcode.org/) - Lead Researcher
- - Andrea Dessi - PhD Student
- - Livio Pompianu - PhD Student
+ - [Maurizio Atzori](http://swlab.unica.it/atzori) - Lead Researcher
+ - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - Faculty Research Fellow
+ - Andrea Dessi - PhD Student (supervised by Maurizio Atzori)
+ - Livio Pompianu - PhD Student (co-supervised by Maurizio Atzori)
+ - Amna Dridi - PhD Student (supervised by Diego Reforgiato)
+ - Danilo Dessì - PhD Student (supervised by Diego Reforgiato)
  - Emanuele Mameli - Research Assistant
- - Simone Barbieri - Research Assistant
- - Mattia Setzu - Intern
- - Daniele S. Ferru - Intern
- - Annalisa Congiu - Intern
- - Mattia Atzeni - Student
+ - Mattia Atzeni - Intern, Student (LM)
+ - Federica Muceli - Intern, Student (LM)
+ - Flavia Murru - Intern, Student (LM)
+ - Daniele S. Ferru - Student (LM)
+ - Andrea Medda - Student (LM)
+ 
 
 ### Alumni
 
@@ -32,7 +36,10 @@ Members
  - Andrea Maxia - Student
  - Gabriele Rota - Student
  - Stefano Serra - Student
-
+ - Simone Barbieri - Research Assistant
+ - Mattia Setzu - Intern
+ - Annalisa Congiu - Intern
+ - Julia Schmidt - Student (LM18)
 
 
 Projects
@@ -47,8 +54,9 @@ In the following the list of some projects currently undertaken by our lab.
  - [rankProperties](http://atzori.webofcode.org/projects/rankProperties) a machine-learning approach to sort RDF properties on the fly
  - [runSPARQL](http://atzori.webofcode.org/projects/runSPARQL) Recursion and SPARQL macros within SPARQL engines
  - [woraSPARQL](http://atzori.webofcode.org/projects/woraSPARQL) Write-One Run-Anywhere SPARQL Custom Functions plugin for OpenLink Virtuoso
+ - [QA3 (QAcube)](http://qa3.link) Question Answering over Statistical Linked Data. Awarded at the [QALD-6 Task3 Challenge](http://qald.sebastianwalter.org/index.php?x=challenge&q=6), with a 2nd place in its category. 
  
-Previous projects where [Maurizio Atzori](http://atzori.webofcode.org/) was involved with:
+Previous projects:
 
  - [DENIS]() 
 DENIS: Dataspaces Enhancing the Next Internet in Sardinia (RAS)
