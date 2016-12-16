@@ -10,9 +10,7 @@ keywords: Semantic Web, Big Data, Database, SPARQL, Web of Functions, projects, 
 			
 			</div>
  			<div class="col-sm-10">
-				<h1 class="text-center"> <b>
-				[Semantic Web Lab](http://webofcode.org/lab/)
-				</b></h1>
+				<h1 class="text-center"> <b>Semantic Web Lab</b></h1>
 				<h3 class="text-center">Department of Maths and Computer Science</h3>
 				<h4 class="text-center">University of Cagliari</h4>
 			</div>
@@ -22,8 +20,6 @@ The [Semantic Web Lab](http://webofcode.org/lab/) is mainly devoted to the desig
 Our effort is particularly focused on automating or simplifying access to these resources with innovative query systems, such as Question Answering over Linked Data, Machine Reading, SPARQL extensions and our By-Example Structured Query approach.
 
 
-<div class="row">
-			<div class="col-sm-6">
 
 Members
 ------
@@ -56,9 +52,6 @@ Members
  - Mattia Setzu - Intern
  - Annalisa Congiu - Intern
  - Julia Schmidt - Student (LM18)
-
-  </div>
-</div>
 
 
 Projects
