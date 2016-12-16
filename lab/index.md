@@ -29,9 +29,9 @@ Members
  - [Maurizio Atzori](http://swlab.unica.it/atzori) - Lead Researcher
  - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - Faculty Research Fellow
  - Andrea Dessi - PhD Student (supervised by Maurizio Atzori)
- - Livio Pompianu - PhD Student (co-supervised by Maurizio Atzori)
- - Amna Dridi - PhD Student (supervised by Diego Reforgiato)
  - Danilo Dessì - PhD Student (supervised by Diego Reforgiato)
+ - Amna Dridi - PhD Student (supervised by Diego Reforgiato)
+ - Livio Pompianu - PhD Student (co-supervised by Maurizio Atzori)
  - Emanuele Mameli - Research Assistant
  - Mattia Atzeni - Intern, Student (LM)
  - Federica Muceli - Intern, Student (LM)
