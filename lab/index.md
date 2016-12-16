@@ -26,8 +26,8 @@ Members
 
 ### Current
 
- - [Maurizio Atzori](http://swlab.unica.it/atzori) - Lead Researcher
- - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - Faculty Research Fellow
+ - [Maurizio Atzori](http://swlab.unica.it/atzori) - Lead Researcher for Semantic Web
+ - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - Lead Researcher for Big Data
  - Andrea Dessi - PhD Student (supervised by Maurizio Atzori)
  - Danilo Dessì - PhD Student (supervised by Diego Reforgiato)
  - Amna Dridi - PhD Student (supervised by Diego Reforgiato)
