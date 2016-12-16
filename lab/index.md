@@ -41,14 +41,14 @@ Members
   
 ### Alumni
 
+ - Simone Barbieri - Research Assistant
+ - Julia Schmidt - Student (LM18)
  - Riccardo Angius - Student
  - Andrea Maxia - Student
  - Gabriele Rota - Student
  - Stefano Serra - Student
- - Simone Barbieri - Research Assistant
  - Mattia Setzu - Intern
  - Annalisa Congiu - Intern
- - Julia Schmidt - Student (LM18)
 
 
 Projects
