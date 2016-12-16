@@ -13,7 +13,9 @@ Our effort is particularly focused on simplifying access to these resources with
 
 Members
 ------
+
 ### Current
+
  - [Maurizio Atzori](http://atzori.webofcode.org/) - Lead Researcher
  - Andrea Dessi - PhD Student
  - Livio Pompianu - PhD Student
@@ -25,6 +27,7 @@ Members
  - Mattia Atzeni - Student
 
 ### Alumni
+
  - Riccardo Angius - Student
  - Andrea Maxia - Student
  - Gabriele Rota - Student
