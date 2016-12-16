@@ -6,7 +6,7 @@ keywords: Semantic Web, Big Data, Database, SPARQL, Web of Functions, projects, 
 
 <div class="row">
 			<div class="col-sm-2">
-				<img src="dew2017-track.jpg" class="img-responsive img-rounded center-block" alt="Responsive image">
+				<img src="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg" class="img-responsive img-rounded center-block" alt="Responsive image">
 			
 			</div>
  			<div class="col-sm-10">
@@ -38,9 +38,6 @@ Members
  - Flavia Murru - Intern, Student (LM)
  - Daniele S. Ferru - Student (LM)
  - Andrea Medda - Student (LM)
- 
-  </div>
-  <div class="col-sm-6">
   
 ### Alumni
 
