@@ -26,8 +26,8 @@ Members
 
 ### Current
 
- - [Maurizio Atzori](http://swlab.unica.it/atzori) - Lead Researcher for Semantic Web
- - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - Lead Researcher for Big Data
+ - [Maurizio Atzori](http://swlab.unica.it/atzori) - co-Director, Lead Researcher for Semantic Web
+ - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - co-Director, Lead Researcher for Big Data
  - Andrea Dessi - PhD Student (supervised by Maurizio Atzori)
  - Danilo Dessì - PhD Student (supervised by Diego Reforgiato)
  - Amna Dridi - PhD Student (supervised by Diego Reforgiato)
@@ -37,7 +37,8 @@ Members
  - Federica Muceli - Intern, Student (LM)
  - Flavia Murru - Intern, Student (LM)
  - Daniele S. Ferru - Student (LM)
- - Andrea Medda - Student (LM)
+ - Andrea Medda - Student (LM) 
+ - Sergio Consoli - External Collaborator (Philips Research, Eindhoven)
   
 ### Alumni
 
@@ -50,6 +51,9 @@ Members
  - Mattia Setzu - Intern
  - Annalisa Congiu - Intern
 
+Collaborations
+--------
+The Semantic Web Lab has a number of international ongoing collaborations, including those with the [Web Information Systems Laboratory](http://wis.cs.ucla.edu/wis/) at the Scalable Analytics Institute ([UCLA](http://www.cs.ucla.edu/)),  and the [STLab](http://stlab.istc.cnr.it/) at [ISTC (CNR)](http://istc.cnr.it/).
 
 Projects
 --------
