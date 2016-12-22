@@ -327,6 +327,7 @@ Links
 
 Resources
 ---------
+- [Uptime Monitor](https://stats.uptimerobot.com/lOpDnczG3) This page contains monitors of online services related to my work
 - [Calendario Accademico UniCA](http://www.unica.it/UserFiles/File/Utenti/csaba/Calendario%2016_17.pdf) Calendario Accademico 2016/2017
 - [Google Web Toolkit (GWT)](http://code.google.com/webtoolkit/) - Framework to develop AJAX application with Java
 - [Drag and Drop with GWT](http://nubgames.com/index.cgi/gwt/drag-and-drop-with-the-google-web-toolkit.html) - A useful tutorial on how to support D'n D in GWT
