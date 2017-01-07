@@ -23,7 +23,7 @@ Tool da utilizzare:
 
   - Linux Ubuntu
   - Bitbucket and Git
-  - [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow/)
+  - [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow/) (see also [this](https://gist.github.com/blackfalcon/8428401))
   - Docker
   
 Il software andrà elaborato utilizzando un repository [Bitbucket](https://bitbucket.org/) creato dal docente.
