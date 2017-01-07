@@ -8,7 +8,6 @@ Informazioni per Tirocinanti, Tesisti, Dottorandi, Contrattisti
 
 Indice argomenti
 ----------------
-
  - Software e Documentazione
  - Timetable (tirocinanti)
 
