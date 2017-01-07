@@ -8,8 +8,9 @@ Informazioni per Tirocinanti, Tesisti, Dottorandi, Contrattisti
 
 Indice argomenti
 ----------------
- - Software e Documentazione
- - Timetable (tirocinanti)
+
+  - Software e Documentazione
+  - Timetable (tirocinanti)
 
 Timetable (tirocinanti)
 -----------------------
@@ -19,10 +20,11 @@ I tirocinanti hanno l'obbligo di compilare il registro delle presenze in forma e
 Software e Documentazione
 -------------------------
 Tool da utilizzare:
- - Linux Ubuntu
- - Bitbucket and Git
- - [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow/)
- - Docker
+
+  - Linux Ubuntu
+  - Bitbucket and Git
+  - [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow/)
+  - Docker
  
  Il software andrà elaborato utilizzando un repository [Bitbucket](https://bitbucket.org/) creato dal docente.
  Checklist:
