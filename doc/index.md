@@ -11,13 +11,14 @@ Indice argomenti
   - Software e Documentazione
   - Timetable (tirocinanti)
 
-Timetable (tirocinanti)
------------------------
-I tirocinanti, ai fini del riconoscimento dello svolgimento del tirocinio, hanno l'obbligo di compilare giornalmente il registro delle presenze in forma elettronica, messo a disposizione dal docente.
-
 
 Software e Documentazione
 -------------------------
+Artefatti software possibili:
+
+  1. REST API (servizi che rimangono attivi ed in ascolto su una porta)
+  2. [CLI](https://en.wikipedia.org/wiki/Command-line_interface), ovvero software utilizzabili da riga di comando, inclusi software per generare *Dataset* (quest'ultimo non va inserito nel repository)
+
 Tool da utilizzare:
 
   - Linux Ubuntu
@@ -36,4 +37,13 @@ Di seguito una Checklist sintetica del contenuto del repository:
   - *[Dockerfile](https://docs.docker.com/engine/reference/builder/)* semplice con EXPOSE opportunamente settato su 8080 se necessita di una porta aperta. Il progetto dovrà funzionare con i comandi `docker build -t img/PROGETTO https://bitbucket.org/semanticweb/PROGETTO.git` (creazione immagine/installazione), seguito da `docker run --name PROGETTO --rm -p 127.0.0.1:8080:8080 img/PROGETTO` (avvio software)
   - *.gitignore* e *.dockerignore* se opportuni
   - i file sorgente (i compilati e tutto cio' ottenibile dalla procedura di installazione descritta nel README non fanno inseriti nel repository)
- 
+  - nella cartella */test*, i file di test per la verifica del funzionamento del servizio
+  
+La versione finale dei file README ed il Dockerfile andranno ri-committati sul repository tramite [pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request/), ed il docente effettuerà una code review.
+
+
+Timetable (tirocinanti)
+-----------------------
+I tirocinanti, ai fini del riconoscimento dello svolgimento del tirocinio, hanno l'obbligo di compilare giornalmente il registro delle presenze in forma elettronica, messo a disposizione dal docente.
+
+
