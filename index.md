@@ -264,6 +264,7 @@ Session Chair of the [Semantics Integration and Analysis Session](http://media.w
 
 PC Member for a number of International Conferences and Workshops, including:
 
+- 1st International Workshop on Application of Semantic Web technologies in Robotics - [AnSWeR 2017](http://answer.kmi.open.ac.uk/), co-located with the 14th Extended Semantic Web Conference ([ESWC 2017](http://2017.eswc-conferences.org/)) - Portoroz, Slovenia, 28 May - 1st June 2017
 - First International Workshop on Semantic Multimedia Computing ([SMC 2017](http://www.inf.unibz.it/~fpersia/smc17/), in conjunction with [IEEE ICSC 2017](http://icsc.eecs.uci.edu/2017/))
 - First IEEE International Workshop on Semantic Robots ([WSR 2017](http://icrc.asia.edu.tw/workshop-wsr2017/), in conjunction with [IEEE IRS 2017](http://icrc.asia.edu.tw/))
 - 5th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2016](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2016/)),  held in conjunction with the ACM GIS Conference on October 31st in San Francisco, CA
