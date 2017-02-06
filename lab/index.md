@@ -26,7 +26,8 @@ Members
 
 ### Current
 
- - [Maurizio Atzori](http://swlab.unica.it/atzori) - co-Director, Lead Researcher for Semantic Web
+ - [Maurizio Atzori](http://swlab.unica.it/atzori) - co-Director, Lead Researcher for Semantic Web, Lab founder
+ - [Barbara Pes](http://people.unica.it/barbarapes/) - Lead Researcher for Data Mining
  - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - co-Director, Lead Researcher for Big Data
  - Andrea Dessi - PhD Student (supervised by Maurizio Atzori)
  - Danilo Dessì - PhD Student (supervised by Diego Reforgiato)
@@ -59,6 +60,7 @@ Projects
 --------
 In the following the list of some projects currently undertaken by our lab.
 
+ - []() 
  - [swipeQA]() Exploiting Structured Queries in Question Answering and Search. In collaboration with Prof. Carlo Zaniolo (UCLA), awarded by a [Google Faculty Research Award](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html).
  - [SWiPE](http://atzori.webofcode.org/projects/swipe) Searching Wikipedia by Example, a user-friendly interface for structured queries
  - [Security Horizons](http://atzori.webofcode.org/projects/http://tcs.unica.it/projects/security-horizons) A consortium of universities working on security and privacy issues (PRIN 2010-11 project)
