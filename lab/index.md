@@ -36,9 +36,8 @@ Members
  - Emanuele Mameli - Research Assistant
  - Mattia Atzeni - Intern, Student (LM)
  - Federica Muceli - Intern, Student (LM)
- - Flavia Murru - Intern, Student (LM)
- - Daniele S. Ferru - Student (LM)
- - Andrea Medda - Student (LM) 
+ - Simone Balloccu - Intern, Student
+ - Andrea Bellanti - Intern, Student
  - Sergio Consoli - External Collaborator (Philips Research, Eindhoven)
   
 ### Alumni
@@ -51,6 +50,9 @@ Members
  - Stefano Serra - Student
  - Mattia Setzu - Intern
  - Annalisa Congiu - Intern
+ - Flavia Murru - Intern, Student (LM)
+ - Daniele S. Ferru - Student (LM)
+ - Andrea Medda - Student (LM) 
 
 Collaborations
 --------
@@ -60,7 +62,7 @@ Projects
 --------
 In the following the list of some projects currently undertaken by our lab.
 
- - []() 
+ - [OKgraph]() OKgraph: automatic learning and querying the Sardinian Open Knowledge Graph. Creating Knowledge Graphs from scratch, without human intervention. Founded by Regione Sardegna through Sardegna Ricerche.  
  - [swipeQA]() Exploiting Structured Queries in Question Answering and Search. In collaboration with Prof. Carlo Zaniolo (UCLA), awarded by a [Google Faculty Research Award](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html).
  - [SWiPE](http://atzori.webofcode.org/projects/swipe) Searching Wikipedia by Example, a user-friendly interface for structured queries
  - [Security Horizons](http://atzori.webofcode.org/projects/http://tcs.unica.it/projects/security-horizons) A consortium of universities working on security and privacy issues (PRIN 2010-11 project)
