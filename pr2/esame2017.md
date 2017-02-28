@@ -47,13 +47,14 @@ Durante il corso vengono svolte esercitazioni bonus, valutate, che in base al vo
 
 Appelli AA 2016/2017
 --------------------
-Gli appelli sono ufficialmente elencati su [ESSE3](https://webstudenti.unica.it/), che farà fede per date e orari, e a cui sarà necessario registrarsi entro 3 giorni prima, pena non possibilità di sostenere l'esame.
+Gli appelli sono ufficialmente elencati su [ESSE3](https://webstudenti.unica.it/), che farà fede per date e orari.
+**Iscrizione Appello**: l'iscrizione è possibile da 10 a 3 giorni prima dell'appello; è quindi necessario registrarsi entro 3 giorni prima, pena la non possibilità di sostenere l'esame.
 Per comodità si riportano di seguito le date (orari indicativi):
 
  - 06 / 6 / 2017 (14:00 - 19:00)
  - 20 / 6 / 2017 (14:00 - 19:00)
  - 04 / 7 / 2017 (14:00 - 19:00)
  - 05 / 9 / 2017 (14:00 - 19:00)
- - un appello a Gennaio 2018
- - un appello a Febbraio 2018
+ - un appello a Gennaio 2018 (data da definire)
+ - un appello a Febbraio 2018 (data da definire)
  
