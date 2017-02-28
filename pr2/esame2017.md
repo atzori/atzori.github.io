@@ -4,7 +4,7 @@ title: Esame PR2 2017
 ---
 
 Esame PR2 2017
-=================
+==============
 
 _Nota: le modalità di esame e le regole descritte in questa pagina si riferiscono solo all'anno accademico 2016/2017._
 
@@ -17,6 +17,7 @@ Per presentarsi agli appelli è necessario:
  1. registrarsi *almeno 3 giorni prima* all'appello desiderato sul sistema [ESSE3](https://webstudenti.unica.it/)
  2. presentarsi all'appello muniti di _libretto universitario con foto_ o _documento d'identità con foto_
  3. avere un account valido e funzionante su [moodle.unica.it](http://moodle.unica.it)
+ 4. risultare regolare con la frequenza al corso 
 
 Teoria e Pratica
 ----------------
@@ -45,9 +46,10 @@ Chi supererà l'esame entro Giugno, avrà diritto al seguente bonus velocità:
 Durante il corso vengono svolte esercitazioni bonus, valutate, che in base al voto danno diritto fino ad un massimo di 2 punti bonus da sommarsi al voto ottenuto alle prove.
 
 Appelli AA 2016/2017
-------------
-Gli appelli si svolgeranno nelle seguenti date (orari indicativi): <!--sono presenti su [ESSE3](https://webstudenti.unica.it/).-->
- 
+--------------------
+Gli appelli sono ufficialmente elencati su [ESSE3](https://webstudenti.unica.it/), che farà fede per date e orari, e a cui sarà necessario registrarsi entro 3 giorni prima, pena non possibilità di sostenere l'esame.
+Per comodità si riportano di seguito le date (orari indicativi):
+
  - 06 / 6 / 2017 (14:00 - 19:00)
  - 20 / 6 / 2017 (14:00 - 19:00)
  - 04 / 7 / 2017 (14:00 - 19:00)
