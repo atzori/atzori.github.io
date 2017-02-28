@@ -47,7 +47,7 @@ Durante il corso vengono svolte esercitazioni bonus, valutate, che in base al vo
 
 Appelli AA 2016/2017
 --------------------
-Gli appelli sono ufficialmente elencati su [ESSE3](https://webstudenti.unica.it/), che farà fede per date e orari.
+Gli appelli sono ufficialmente elencati su [ESSE3](https://webstudenti.unica.it/), che farà fede per date, orari e iscrizioni all'appello.
 
 **Iscrizione Appello**: l'iscrizione è possibile da 10 a 3 giorni prima dell'appello; è quindi necessario registrarsi entro 3 giorni prima, pena la non possibilità di sostenere l'esame.
 Per comodità si riportano di seguito le date (orari indicativi):
