@@ -56,10 +56,10 @@ Teaching
 --------
 [Computer Science @ Unica](http://informatica.unica.it/)
 
-Students can join the PR2 course at the [course page in Moodle](http://moodle2.unica.it/course/view.php?id=103)
-<!-- (http://moodle.unica.it/course/view.php?id=51) -->
+<!--Students can join the PR2 course at the [course page in Moodle](http://moodle2.unica.it/course/view.php?id=103)
+ (http://moodle.unica.it/course/view.php?id=51) -->
 
-- [Programmazione II - Object-Oriented Programming](http://informatica.unica.it/index.php?section=course&id=79) (since A.A. 2010/11)
+- [Programmazione 2 - Object-Oriented Programming](http://moodle.unica.it/course/view.php?id=103) (through Moodle e-learing platform, since A.A. 2010/11)
 
 
 I previously tought as Aggregate Professor at the [University of Sassari](http://www.uniss.it) and as Teaching assistant at the [University of Pisa](http://www.di.unipi.it/).
