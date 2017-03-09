@@ -241,7 +241,7 @@ I am also developing a number of other applications in the fields of abduction, 
 Scientific Activities
 ---------------------
 
-Serving as Reviewer for the following major database and data mining international journals:
+ - Serving as Reviewer for the following major database and data mining international journals:
 ACM Transactions on Database Systems (<a>TODS</a>), 
 IEEE Transactions on Knowledge and Data Engineering (<a>TKDE</a>), 
 The International Journal on Very Large Data Bases (<a>VLDB Journal</a>),
@@ -255,17 +255,17 @@ Journal of Computer Science and Technology (<a>JCST</a>),
 Information Sciences (<a href="http://www.journals.elsevier.com/information-sciences/">INS</a>),
 Information Processing &amp; Management (<a>IPM</a>).
 
-Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics.
+ - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics.
 
-Organizing Committee Member and Publicity co-Chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2017)](http://icsc.eecs.uci.edu/2018/)
+ - Organizing Committee Member and Publicity co-Chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2017)](http://icsc.eecs.uci.edu/2018/)
 
-Session Chair of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf),at the [10th IEEE International Conference on Semantic Computing (ICSC 2016)](http://www.ieee-icsc.com/), Laguna Hill, California. 
+ - Session Chair of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf),at the [10th IEEE International Conference on Semantic Computing (ICSC 2016)](http://www.ieee-icsc.com/), Laguna Hill, California. 
 
-PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/), in Poland! Accepted papers will be published on IEEE Proceedings. Submission deadline: February 26, 2017
+ - PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/), in Poland! Accepted papers will be published on IEEE Proceedings. Submission deadline: February 26, 2017
  
-Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
+ - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
  
-Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
+ - Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
 
 
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
