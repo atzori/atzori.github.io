@@ -318,7 +318,8 @@ Served as Reviewer for a number of international conferences and workshops, incl
 <a href="http://www.ecmlpkdd2007.org/">ECML-PKDD07</a>, 
 <a href="http://www.acm.org/conferences/sac/sac2008/">ACM SAC08-DM</a>, 
 <a href="http://www.siam.org/meetings/sdm08/">SIAM SDM08</a>, 
-[ACM PODS08](http://www.sigmod08.org/program_glance.shtml#pods_program).
+[ACM PODS08](http://www.sigmod08.org/program_glance.shtml#pods_program),
+[ACM SIGMOD17](http://sigmod2017.org/).
 <!-- (list not updated). -->
 
 Links
