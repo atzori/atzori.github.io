@@ -244,18 +244,19 @@ Scientific Activities
 ---------------------
 
  - Serving as Reviewer for the following major database and data mining international journals:
-ACM Transactions on Database Systems (<a>TODS</a>), 
-IEEE Transactions on Knowledge and Data Engineering (<a>TKDE</a>), 
-The International Journal on Very Large Data Bases (<a>VLDB Journal</a>),
-ACM Transactions on the Web (<a>TWEB</a>),
-International Journal on Data and Knowledge Engineering (<a>DKE</a>),
-International Journal on Knowledge and Information Systems (<a>KAIS</a>), 
-Data Mining and Knowledge Discovery Journal (<a>DAMI</a>), 
-International Journal of Geographical Information Science (<a>IJGIS</a>),
-Transactions on Data Privacy (<a>TDP</a>),
-Journal of Computer Science and Technology (<a>JCST</a>),
-Information Sciences (<a href="http://www.journals.elsevier.com/information-sciences/">INS</a>),
-Information Processing &amp; Management (<a>IPM</a>).
+ACM Transactions on Database Systems ([TODS]()), 
+IEEE Transactions on Knowledge and Data Engineering ([TKDE]()), 
+The International Journal on Very Large Data Bases ([VLDB Journal]()),
+ACM Transactions on the Web ([TWEB</a>),
+International Journal on Data and Knowledge Engineering ([DKE]()),
+International Journal on Knowledge and Information Systems ([KAIS]()), 
+Data Mining and Knowledge Discovery Journal ([DAMI]()), 
+International Journal of Geographical Information Science ([IJGIS]()),
+Transactions on Data Privacy ([TDP]()),
+Journal of Computer Science and Technology ([JCST]()),
+Information Sciences ([INS](http://www.journals.elsevier.com/information-sciences/)),
+Journal of Parallel and Distributed Computing ([JPDC]()),
+Information Processing &amp; Management ([IPM]()).
 
  - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics.
 
