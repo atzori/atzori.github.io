@@ -258,10 +258,14 @@ Information Sciences ([INS](http://www.journals.elsevier.com/information-science
 Journal of Parallel and Distributed Computing ([JPDC]()),
 Information Processing &amp; Management ([IPM]()).
 
- - Serving for the <a href="http://www.zentralblatt-math.org/zmath/en/">Zentralblatt-Math</a> review database of mathematics.
+ - Serving for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
 
- - Organizing Committee Member and Publicity co-Chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2017)](http://icsc.eecs.uci.edu/2018/)
-
+ - Organizing Committee Member and Publicity co-Chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2018)](http://icsc.eecs.uci.edu/2018/)
+ 
+ - Workshop and Special Session Committee Co-Chair of the 11th [IEEE International Conference on Semantic Computing (ICSC 2017)](http://icsc.eecs.uci.edu/2017/)
+ 
+ - Workshop Committee Co-Chair of the The First [IEEE International Conference on Robotic Computing  (IRC 2017)](http://irc.asia.edu.tw/2017/)
+ 
  - Session Chair of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf),at the [10th IEEE International Conference on Semantic Computing (ICSC 2016)](http://www.ieee-icsc.com/), Laguna Hill, California. 
 
  - PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/), in Poland! Accepted papers will be published on IEEE Proceedings. Submission deadline: February 26, 2017
@@ -275,7 +279,9 @@ Information Processing &amp; Management ([IPM]()).
 
 PC Member for a number of International Conferences and Workshops, including:
 
-- 12th IEEE International Conference on Semantic Computing ([ICSC 2017](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
+- 8th Italian Information Retrieval Workshop ([IIR 2018](http://iir2017.usi.ch/))
+- 12th IEEE International Conference on Semantic Computing ([ICSC 2018](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
+- 10th International Workshop on Privacy and Anonymity in Information Society ([PAIS 2017](http://cscdb.nku.edu/pais17/))
 - 1st International Workshop on Application of Semantic Web technologies in Robotics - [AnSWeR 2017](http://answer.kmi.open.ac.uk/), co-located with the 14th Extended Semantic Web Conference ([ESWC 2017](http://2017.eswc-conferences.org/)) - Portoroz, Slovenia, 28 May - 1st June 2017
 - First International Workshop on Semantic Multimedia Computing ([SMC 2017](http://www.inf.unibz.it/~fpersia/smc17/), in conjunction with [IEEE ICSC 2017](http://icsc.eecs.uci.edu/2017/))
 - First IEEE International Workshop on Semantic Robots ([WSR 2017](http://icrc.asia.edu.tw/workshop-wsr2017/), in conjunction with [IEEE IRS 2017](http://icrc.asia.edu.tw/))
