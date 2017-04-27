@@ -90,6 +90,7 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
+ 1. [User-Friendly Temporal Queries on Historical Knowledge Bases](https://www.journals.elsevier.com/information-and-computation/). Carlo Zaniolo, Shi Gao, Maurizio Atzori, Muhao Chen, Jiaqi Gu. _Information and Computation_, Time 2015 special issue, Elsevier (accepted for publication)
  1. [Answering End-User Questions, Queries and Searches on Wikipedia and its History](http://sites.computer.org/debull/A16sept/p85.pdf). Atzori M., Gao S., Mazzeo G. M., Zaniolo C. _IEEE Data Engineering Bulletin_, Volume 39 (2016)
  1. [A Machine-Learning Approach to Ranking RDF Properties](http://dx.doi.org/10.1016/j.future.2015.04.018). Dessi A., Atzori M. _Future Generation Computer Systems Journal_, Special Issue on [Semantic Technologies for Collaborative Web](http://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-semantic-technologies-for-collaborative-web/) (2016; appeared online on May 2015).
  1. [SPARQL Queries over Source Code](). Setzu M., Atzori M. _ICSC 2016 - 10th IEEE International Conference on Semantic Computing_ (2016)
