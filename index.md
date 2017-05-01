@@ -248,7 +248,7 @@ Scientific Activities
 ACM Transactions on Database Systems ([TODS]()), 
 IEEE Transactions on Knowledge and Data Engineering ([TKDE]()), 
 The International Journal on Very Large Data Bases ([VLDB Journal]()),
-ACM Transactions on the Web ([TWEB</a>),
+ACM Transactions on the Web ([TWEB]()),
 International Journal on Data and Knowledge Engineering ([DKE]()),
 International Journal on Knowledge and Information Systems ([KAIS]()), 
 Data Mining and Knowledge Discovery Journal ([DAMI]()), 
@@ -256,7 +256,7 @@ International Journal of Geographical Information Science ([IJGIS]()),
 Transactions on Data Privacy ([TDP]()),
 Journal of Computer Science and Technology ([JCST]()),
 Information Sciences ([INS](http://www.journals.elsevier.com/information-sciences/)),
-Journal of Parallel and Distributed Computing ([JPDC]()),
+Journal of Parallel and Distributed Computing ([JPDC](https://ees.elsevier.com/jpdc)),
 Information Processing &amp; Management ([IPM]()).
 
  - Serving for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
@@ -330,7 +330,6 @@ Served as Reviewer for a number of international conferences and workshops, incl
 <a href="http://www.siam.org/meetings/sdm08/">SIAM SDM08</a>, 
 [ACM PODS08](http://www.sigmod08.org/program_glance.shtml#pods_program),
 [ACM SIGMOD17](http://sigmod2017.org/).
-<!-- (list not updated). -->
 
 Links
 -----
@@ -340,11 +339,6 @@ Links
 - [PhD Comics](http://www.phdcomics.com/comics/comics.php)
 - [Compute Collaboration Distance](http://www.ams.org/mathscinet/collaborationDistance.html) - My Erd&ouml;s Number (collaboration distance with Paul Erd&ouml;s) is 4 (via Prof. C. Zaniolo)
 - [Internet Laws](http://www.iusmentis.com/) - to explain the law to techies, and tech to laywers
-<!---
-- [CS Department of Purdue University](http://maps.google.com/maps?q=west+lafayette,+indiana&ll=40.427169,-86.916136&spn=0.003740,0.007522&t=k&hl=en) - Thanks to Google Maps!
-- [PPDM reviews](http://www.cs.umbc.edu/~kunliu1/research/privacy_review.html) - Privacy Preserving Data Mining Bibliography (also [wiki](http://www.umbc.edu/ddm/wiki/index.php/Privacy_Preserving_Data_Mining_Bibliography))
-- [Il colloquio di lavoro](http://www.valigiablu.it/doc/760/non-sono-coraggiosa-sono-sarda-e-dico-no-a-questi-signori-tristi.htm) - by Valeria Gentile
--->
 
 Resources
 ---------
