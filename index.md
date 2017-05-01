@@ -262,7 +262,9 @@ Information Processing &amp; Management ([IPM]()).
  - Serving for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
 
  - Organizing Committee Member and Publicity co-Chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2018)](http://icsc.eecs.uci.edu/2018/)
- 
+
+ - Panel Chair and moderator at IEEE WETICE 2017 Panel on *[Data centricity of digital world: opportunities and challenges](http://wetice.ue.poznan.pl/panel/)*
+
  - Workshop and Special Session Committee Co-Chair of the 11th [IEEE International Conference on Semantic Computing (ICSC 2017)](http://icsc.eecs.uci.edu/2017/)
  
  - Workshop Committee Co-Chair of the The First [IEEE International Conference on Robotic Computing  (IRC 2017)](http://irc.asia.edu.tw/2017/)
