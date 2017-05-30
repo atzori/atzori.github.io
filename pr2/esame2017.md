@@ -50,9 +50,9 @@ Appelli AA 2016/2017
 Gli appelli sono ufficialmente elencati su [ESSE3](https://webstudenti.unica.it/), che farà fede per date, orari e iscrizioni all'appello.
 
 **Iscrizione Appello**: l'iscrizione è possibile da 10 a 3 giorni prima dell'appello; è quindi necessario registrarsi entro 3 giorni prima, pena la non possibilità di sostenere l'esame.
-Per comodità si riportano di seguito le date (orari indicativi):
+Fanno fede date e orari su ESSE3. Per comodità si riportano di seguito le date (verificare su ESSE3, orari indicativi):
 
- - 06 / 6 / 2017 (14:00 - 19:00)
+ - 08 / 6 / 2017 (14:00 - 19:00)
  - 20 / 6 / 2017 (14:00 - 19:00)
  - 04 / 7 / 2017 (14:00 - 19:00)
  - 05 / 9 / 2017 (14:00 - 19:00)
