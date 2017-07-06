@@ -284,8 +284,8 @@ Information Processing &amp; Management ([IPM]()).
 PC Member for a number of International Conferences and Workshops, including:
 
 - The Fourth International Conference on Big Data, Small Data, Linked Data and Open Data ([ALLDATA 2018](http://www.iaria.org/conferences2018/ALLDATA18.html)), April 22, 2018 to April 26, 2018 - Athens, Greece
-- 8th Italian Information Retrieval Workshop ([IIR 2018](http://iir2017.usi.ch/))
 - 12th IEEE International Conference on Semantic Computing ([ICSC 2018](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
+- 8th Italian Information Retrieval Workshop ([IIR 2017](http://iir2017.usi.ch/))
 - 10th International Workshop on Privacy and Anonymity in Information Society ([PAIS 2017](http://cscdb.nku.edu/pais17/))
 - 1st International Workshop on Application of Semantic Web technologies in Robotics - [AnSWeR 2017](http://answer.kmi.open.ac.uk/), co-located with the 14th Extended Semantic Web Conference ([ESWC 2017](http://2017.eswc-conferences.org/)) - Portoroz, Slovenia, 28 May - 1st June 2017
 - First International Workshop on Semantic Multimedia Computing ([SMC 2017](http://www.inf.unibz.it/~fpersia/smc17/), in conjunction with [IEEE ICSC 2017](http://icsc.eecs.uci.edu/2017/))
