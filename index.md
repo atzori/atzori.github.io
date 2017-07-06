@@ -90,13 +90,14 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
+ 1. [Expressivity and Accuracy of By-Example Structured Queries on Wikipedia](http://www.cyprusconferences.org/wetice2015/). Atzori M., Zaniolo C. _26th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises ([WETICE](http://wetice.ue.poznan.pl/)), DEW Track_ ([DEW 2017](http://swlab.unica.it/dew2017/)) (2017)
+1. [The Need of Structured Data: Introducing the OKgraph Project](http://iir2017.usi.ch/wp-content/uploads/2017/05/program_IIR-2017.pdf). Maurizio Atzori. Proceedings of the _8th Italian Information Retrieval Workshop_ ([IIR 2017](http://iir2017.usi.ch/)) (2017)
  1. [User-Friendly Temporal Queries on Historical Knowledge Bases](https://www.journals.elsevier.com/information-and-computation/). Carlo Zaniolo, Shi Gao, Maurizio Atzori, Muhao Chen, Jiaqi Gu. _Information and Computation_, Time 2015 special issue, Elsevier (accepted for publication, 2017)
  1. [Answering End-User Questions, Queries and Searches on Wikipedia and its History](http://sites.computer.org/debull/A16sept/p85.pdf). Atzori M., Gao S., Mazzeo G. M., Zaniolo C. _IEEE Data Engineering Bulletin_, Volume 39 (2016)
  1. [A Machine-Learning Approach to Ranking RDF Properties](http://dx.doi.org/10.1016/j.future.2015.04.018). Dessi A., Atzori M. _Future Generation Computer Systems Journal_, Special Issue on [Semantic Technologies for Collaborative Web](http://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-semantic-technologies-for-collaborative-web/) (2016; appeared online on May 2015).
  1. [SPARQL Queries over Source Code](). Setzu M., Atzori M. _ICSC 2016 - 10th IEEE International Conference on Semantic Computing_ (2016)
  1. [Write-Once Run-Anywhere Custom SPARQL Functions](). D. S. Ferru, Atzori M. _ICSC 2016 - 10th IEEE International Conference on Semantic Computing_ (2016)
  1. [SPARQLT and its User-Friendly Interface for Managing and Querying the History of RDF Knowledge Bases](). Gao S., Chen M., Atzori M., Gu J. and Zaniolo C. _ISWC 2015 - Proceedings of the 14th International Semantic Web Conference_, Demo Track (2015)
-
  1. [Expressivity and Accuracy of By-Example Structured Queries on Wikipedia](http://www.cyprusconferences.org/wetice2015/). Atzori M., Zaniolo C. _24th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE), Web2Touch Track_ (2015)
  1. [Schema-Agnostic Ranking of RDF Properties](http://sebd2015.dia.uniroma3.it/Home.html). Dessi A., Atzori M. _SEBD 2015 - Proceedings of the 23rd Italian Symposium on Advanced Database Systems_ (2015)
  1. [Introducing the Web of Functions: Interoperable Higher-Order Functions in Pure SPARQL](http://sebd2015.dia.uniroma3.it/Home.html). Atzori M. _SEBD 2015 - Proceedings of the 23rd Italian Symposium on Advanced Database Systems_ (2015)
@@ -282,6 +283,7 @@ Information Processing &amp; Management ([IPM]()).
 
 PC Member for a number of International Conferences and Workshops, including:
 
+- The Fourth International Conference on Big Data, Small Data, Linked Data and Open Data ([ALLDATA 2018](http://www.iaria.org/conferences2018/ALLDATA18.html)), April 22, 2018 to April 26, 2018 - Athens, Greece
 - 8th Italian Information Retrieval Workshop ([IIR 2018](http://iir2017.usi.ch/))
 - 12th IEEE International Conference on Semantic Computing ([ICSC 2018](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
 - 10th International Workshop on Privacy and Anonymity in Information Society ([PAIS 2017](http://cscdb.nku.edu/pais17/))
