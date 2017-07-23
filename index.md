@@ -25,7 +25,8 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 Highlights
 ----------
 
-- PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/), in Poland! Accepted papers will be published on IEEE Proceedings
+<!-- - PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/), in Poland! Accepted papers will be published on IEEE Proceedings
+-->
 
 - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
@@ -283,6 +284,7 @@ Information Processing &amp; Management ([IPM]()).
 
 PC Member for a number of International Conferences and Workshops, including:
 
+- 6th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2017](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2017/)),  held in conjunction with the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2017)
 - The Fourth International Conference on Big Data, Small Data, Linked Data and Open Data ([ALLDATA 2018](http://www.iaria.org/conferences2018/ALLDATA18.html)), April 22, 2018 to April 26, 2018 - Athens, Greece
 - 12th IEEE International Conference on Semantic Computing ([ICSC 2018](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
 - 8th Italian Information Retrieval Workshop ([IIR 2017](http://iir2017.usi.ch/))
