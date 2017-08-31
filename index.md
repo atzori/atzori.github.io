@@ -17,17 +17,17 @@ His major research interests regard databases, data mining, knowledge graphs and
 
 <!-- He discussed a thesis on Decision Trees and Abduction,
 about the use of abductive inference with decision trees in the
-context of classification.--> <!-- Since 2003 he is a <a href=
+context of classification.--> 
+<!-- Since 2003 he is a <a href=
 "http://www.di.unipi.it/phd/">PhD student in Computer Science</a>
 at the <a href="http://www.di.unipi.it/galilei/">School for
 Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
-
-Highlights
-----------
-
 <!-- - PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/), in Poland! Accepted papers will be published on IEEE Proceedings
 -->
 
+
+Highlights
+----------
 - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
 - Co-PI with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/) (UCLA) of a [**Google Research Award**](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html). Our project _Exploiting Structured Queries in Question Answering and Search_ got extended coverage on local press such as [Wired.it](http://www.wired.it/economia/business/2015/03/11/google-award-rivoluzione-dei-motori-ricerca-passa-dalla-sardegna/) (Italian). Previous related work described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in [several languages](http://atzori.webofcode.org/projects/swipe/press).
@@ -289,7 +289,6 @@ PC Member for a number of International Conferences and Workshops, including:
 - The Fourth International Conference on Big Data, Small Data, Linked Data and Open Data ([ALLDATA 2018](http://www.iaria.org/conferences2018/ALLDATA18.html)), April 22, 2018 to April 26, 2018 - Athens, Greece
 - 12th IEEE International Conference on Semantic Computing ([ICSC 2018](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
 - 8th Italian Information Retrieval Workshop ([IIR 2017](http://iir2017.usi.ch/))
-- 10th International Workshop on Privacy and Anonymity in Information Society ([PAIS 2017](http://cscdb.nku.edu/pais17/))
 - 1st International Workshop on Application of Semantic Web technologies in Robotics - [AnSWeR 2017](http://answer.kmi.open.ac.uk/), co-located with the 14th Extended Semantic Web Conference ([ESWC 2017](http://2017.eswc-conferences.org/)) - Portoroz, Slovenia, 28 May - 1st June 2017
 - First International Workshop on Semantic Multimedia Computing ([SMC 2017](http://www.inf.unibz.it/~fpersia/smc17/), in conjunction with [IEEE ICSC 2017](http://icsc.eecs.uci.edu/2017/))
 - First IEEE International Workshop on Semantic Robots ([WSR 2017](http://icrc.asia.edu.tw/workshop-wsr2017/), in conjunction with [IEEE IRS 2017](http://icrc.asia.edu.tw/))
@@ -302,8 +301,8 @@ PC Member for a number of International Conferences and Workshops, including:
 - International Workshop on Privacy and Security of Big Data ([PSBD 2015](http://si.deis.unical.it/cuzzocrea/PSBD2015/) co-located with [IEEE BigData 2015](http://cci.drexel.edu/bigdata/bigdata2015/)).
 - International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2015](http://trust.csu.edu.cn/conference/TrustData2015/))
 - IFIP Conference on Computer Science and its Applications ([CIIA-2015](http://ciia2015.ensma.fr/articles.php?lng=en&pg=69&mnuid=32&tconfig=0) Security and Network Technologies Track)
-- International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM-14](http://web.ornl.gov/sci/knowledgediscovery/sstdm-14/) co-located with IEEE ICDM, PC Member since SSTDM-08)
-- International Workshop on Privacy and Anonymity in the Information Society (PAIS 2016, in conjunction with EDBT/ICDT, in the PC since its first edition in 2008)
+- International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM](http://web.ornl.gov/sci/knowledgediscovery/sstdm-14/) co-located with IEEE ICDM, PC Member since SSTDM-08)
+- International Workshop on Privacy and Anonymity in the Information Society (PAIS 2017, in conjunction with EDBT/ICDT, in the PC since its first edition in 2008)
 - International Workshop on Privacy and Security of Big Data ([PSBD 2014](http://si.deis.unical.it/~cuzzocrea/PSBD2014/) co-located with [CIKM 2014](http://cikm2014.fudan.edu.cn/)).
 - Italian Symposium on Advanced Database Systems ([SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
 - IEEE International Workshop on Trust, Security and Privacy for Big Data ([IEEE TrustData 2014](http://trust.csu.edu.cn/conference/TrustData2014/), [TrustData 2013](http://trust.csu.edu.cn/conference/TrustData2013/))
