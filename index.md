@@ -91,10 +91,11 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
+ 1. [User-Friendly Temporal Queries on Historical Knowledge Bases](http://authors.elsevier.com/sd/article/S0890540117301554). Carlo Zaniolo, Shi Gao, Maurizio Atzori, Muhao Chen, Jiaqi Gu. _Information and Computation_, Time 2015 special issue, Elsevier (2017)
  1. [CodeOntology: RDF-ization of Source Code](https://iswc2017.semanticweb.org/program/accepted-papers/). Atzeni M., Atzori M. _ISWC 2017 - Proceedings of the 16th International Semantic Web Conference_, Resource Track (2017)
+ 1. [CodeOntology: Querying Source Code in a Semantic Framework](https://iswc2017.semanticweb.org/program/accepted-papers/). Atzeni M., Atzori M. _ISWC 2017 - Proceedings of the 16th International Semantic Web Conference_, Demo Paper (2017)
  1. [Is Wikipedia a Latent Gene Ontology?](http://wetice.ue.poznan.pl/program/). Dessi N., Atzori M. _26th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises ([WETICE](http://wetice.ue.poznan.pl/)), DEW Track_ ([DEW 2017](http://swlab.unica.it/dew2017/)) (2017)
  1. [The Need of Structured Data: Introducing the OKgraph Project](http://ceur-ws.org/Vol-1911/22.pdf). Maurizio Atzori. Proceedings of the _8th Italian Information Retrieval Workshop_ ([IIR 2017](http://iir2017.usi.ch/)) (2017)
- 1. [User-Friendly Temporal Queries on Historical Knowledge Bases](https://www.journals.elsevier.com/information-and-computation/). Carlo Zaniolo, Shi Gao, Maurizio Atzori, Muhao Chen, Jiaqi Gu. _Information and Computation_, Time 2015 special issue, Elsevier (accepted for publication, 2017)
  1. [Answering End-User Questions, Queries and Searches on Wikipedia and its History](http://sites.computer.org/debull/A16sept/p85.pdf). Atzori M., Gao S., Mazzeo G. M., Zaniolo C. _IEEE Data Engineering Bulletin_, Volume 39 (2016)
  1. [A Machine-Learning Approach to Ranking RDF Properties](http://dx.doi.org/10.1016/j.future.2015.04.018). Dessi A., Atzori M. _Future Generation Computer Systems Journal_, Special Issue on [Semantic Technologies for Collaborative Web](http://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-semantic-technologies-for-collaborative-web/) (2016; appeared online on May 2015).
  1. [SPARQL Queries over Source Code](). Setzu M., Atzori M. _ICSC 2016 - 10th IEEE International Conference on Semantic Computing_ (2016)
