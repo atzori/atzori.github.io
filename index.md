@@ -289,6 +289,7 @@ Information Processing &amp; Management ([IPM]()).
 PC Member for a number of International Conferences and Workshops, including:
 
 - 2018 SIAM International Conference on Data Mining ([SDM 2018](http://www.siam.org/meetings/sdm18/))
+- International Workshop on Privacy and Security of Big Data ([PSBD 2017](http://www2.units.it/cuzzocrea/confs/PSBD2017/) co-located with [IEEE BigData 2017](https://wi-lab.com/cyberchair/2017/bigdata17/index.php)).
 - 6th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2017](http://www.cse.buffalo.edu/~chandola/workshops/bigspatial-2017/)),  held in conjunction with the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2017)
 - The Fourth International Conference on Big Data, Small Data, Linked Data and Open Data ([ALLDATA 2018](http://www.iaria.org/conferences2018/ALLDATA18.html)), April 22, 2018 to April 26, 2018 - Athens, Greece
 - 12th IEEE International Conference on Semantic Computing ([ICSC 2018](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
