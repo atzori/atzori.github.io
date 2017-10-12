@@ -98,7 +98,8 @@ Another source is the [Research Catalog of the University of Cagliari](https://i
  1. [CodeOntology: Querying Source Code in a Semantic Framework](https://iswc2017.semanticweb.org/program/accepted-papers/). Atzeni M., Atzori M. _ISWC 2017 - Proceedings of the 16th International Semantic Web Conference_, Demo Paper (2017)
  1. [Is Wikipedia a Latent Gene Ontology?](http://wetice.ue.poznan.pl/program/). Dessi N., Atzori M. _26th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises ([WETICE](http://wetice.ue.poznan.pl/)), DEW Track_ ([DEW 2017](http://swlab.unica.it/dew2017/)) (2017)
  1. [The Need of Structured Data: Introducing the OKgraph Project](http://ceur-ws.org/Vol-1911/22.pdf). Maurizio Atzori. Proceedings of the _8th Italian Information Retrieval Workshop_ ([IIR 2017](http://iir2017.usi.ch/)) (2017)
- 1. [Answering End-User Questions, Queries and Searches on Wikipedia and its History](http://sites.computer.org/debull/A16sept/p85.pdf). Atzori M., Gao S., Mazzeo G. M., Zaniolo C. _IEEE Data Engineering Bulletin_, Volume 39 (2016)
+ 1. [Towards Chatbots as Recommendation Interfaces](http://ceur-ws.org/Vol-1945/paper_5.pdf). Atzori M., Boratto L., Spano D. _2nd Workshop on Engineering Computer-Human Interaction in Recommender Systems ([EnCHIReS 2017](http://sites.unica.it/enchires/))_ part of [9th ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS 2017)](http://eics.acm.org/2017/), 26-29 June, 2017 Lisbon, Portugal (2017)
+ 1. [Answering End-User Questions, Queries and Searches on Wikipedia and its History(http://sites.unica.it/enchires/)](http://sites.computer.org/debull/A16sept/p85.pdf). Atzori M., Gao S., Mazzeo G. M., Zaniolo C. _IEEE Data Engineering Bulletin_, Volume 39 (2016)
  1. [A Machine-Learning Approach to Ranking RDF Properties](http://dx.doi.org/10.1016/j.future.2015.04.018). Dessi A., Atzori M. _Future Generation Computer Systems Journal_, Special Issue on [Semantic Technologies for Collaborative Web](http://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-semantic-technologies-for-collaborative-web/) (2016; appeared online on May 2015).
  1. [SPARQL Queries over Source Code](). Setzu M., Atzori M. _ICSC 2016 - 10th IEEE International Conference on Semantic Computing_ (2016)
  1. [Write-Once Run-Anywhere Custom SPARQL Functions](). D. S. Ferru, Atzori M. _ICSC 2016 - 10th IEEE International Conference on Semantic Computing_ (2016)
@@ -277,7 +278,9 @@ Information Processing &amp; Management ([IPM]()).
  
  - Session Chair of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf),at the [10th IEEE International Conference on Semantic Computing (ICSC 2016)](http://www.ieee-icsc.com/), Laguna Hill, California. 
 
- - PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/), in Poland! Accepted papers will be published on IEEE Proceedings. Submission deadline: February 26, 2017
+- PC co-Chair of the [27th IEEE WETICE](http://www.olab-dynamics.net/wetice2018/) track on [Data Exploration in the Web 3.0 Age (DEW 2018)](http://swlab.unica.it/dew2018/)
+
+ - PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/)
  
  - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
  
