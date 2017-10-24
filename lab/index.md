@@ -29,15 +29,17 @@ Members
  - [Maurizio Atzori](http://swlab.unica.it/atzori) - co-Director, Lead Researcher for Semantic Web, Lab founder
  - [Barbara Pes](http://people.unica.it/barbarapes/) - Lead Researcher for Data Mining
  - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - co-Director, Lead Researcher for Big Data
- - Mattia Atzeni - Research Assistant, Student (LM)
+ - Mattia Atzeni - Research Assistant, Student (LM) - CodeOntology
  - Andrea Dessi - PhD Student (supervised by Maurizio Atzori)
  - Danilo Dessì - PhD Student (supervised by Diego Reforgiato)
  - Amna Dridi - PhD Student (supervised by Diego Reforgiato)
  - Livio Pompianu - PhD Student (co-supervised by Maurizio Atzori)
- - Federica Muceli - Intern, Student (LM)
- - Simone Balloccu - Intern, Student (LM)
- - Andrea Bellanti - Intern, Student (LM)
- - Roberto Cocco - Intern, Student
+ - Federica Muceli - Intern, Student (LM) - HTMLpedia
+ - Simone Balloccu - Intern, Student (LM) - OKgraph
+ - Andrea Bellanti - Intern, Student (LM) - OKgraph
+ - Roberto Cocco - Intern, Student - QA3ML
+ - Marco Taccori - Student
+ - Stefano Raimondo Usai - Student
  - Sergio Consoli - External Collaborator (Philips Research, Eindhoven)
   
 ### Alumni
