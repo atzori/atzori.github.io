@@ -93,7 +93,7 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
- 1. [QA3: a Natural Language Approach to Question Answering over RDF Data Cubes](http://www.semantic-web-journal.net/content/qa3-natural-language-approach-question-answering-over-rdf-data-cubes). Maurizio Atzori, Giuseppe M. Mazzeo, Carlo Zaniolo. _Semantic Web Journal_ (accepted with minor revisions)
+ 1. [QA<sup>3</sup>: a Natural Language Approach to Question Answering over RDF Data Cubes](http://www.semantic-web-journal.net/content/qa3-natural-language-approach-question-answering-over-rdf-data-cubes). Maurizio Atzori, Giuseppe M. Mazzeo, Carlo Zaniolo. _Semantic Web Journal_ (accepted with minor revisions)
  1. [User-Friendly Temporal Queries on Historical Knowledge Bases](http://authors.elsevier.com/sd/article/S0890540117301554). Carlo Zaniolo, Shi Gao, Maurizio Atzori, Muhao Chen, Jiaqi Gu. _Information and Computation_, Time 2015 special issue, Elsevier (2017 in press)
  1. [CodeOntology: RDF-ization of Source Code](http://www.springer.com/cda/content/document/cda_downloaddocument/9783319682037-c2.pdf?SGWID=0-0-45-1620461-p181153691). Atzeni M., Atzori M. _ISWC 2017 - Proceedings of the 16th International Semantic Web Conference_, Resource Track (2017)
  1. [CodeOntology: Querying Source Code in a Semantic Framework](https://iswc2017.ai.wu.ac.at/wp-content/uploads/papers/PostersDemos/paper543.pdf). Atzeni M., Atzori M. _ISWC 2017 - Proceedings of the 16th International Semantic Web Conference_, Demo Paper (2017)
