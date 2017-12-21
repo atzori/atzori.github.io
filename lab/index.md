@@ -40,6 +40,7 @@ Members
  - Roberto Cocco - Intern, Student - QA3ML
  - Marco Taccori - Student
  - Stefano Raimondo Usai - Student
+ - Enrico Medda - Student
  - Sergio Consoli - External Collaborator (Philips Research, Eindhoven)
   
 ### Alumni
