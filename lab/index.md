@@ -34,10 +34,10 @@ Members
  - Danilo Dessì - PhD Student (supervised by Diego Reforgiato)
  - Amna Dridi - PhD Student (supervised by Diego Reforgiato)
  - Livio Pompianu - PhD Student (co-supervised by Maurizio Atzori)
- - Federica Muceli - Intern, Student (LM) - HTMLpedia
  - Simone Balloccu - Intern, Student (LM) - OKgraph
  - Andrea Bellanti - Intern, Student (LM) - OKgraph
  - Roberto Cocco - Intern, Student - QA3ML
+ - Matteo Porcu - Intern, Student - QA3
  - Marco Taccori - Student
  - Stefano Raimondo Usai - Student
  - Enrico Medda - Student
@@ -45,6 +45,7 @@ Members
   
 ### Alumni
 
+ - Federica Muceli - Intern, Student (LM) - HTMLpedia
  - Emanuele Mameli - Research Assistant
  - Simone Barbieri - Research Assistant
  - Julia Schmidt - Student (LM18)
