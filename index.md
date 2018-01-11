@@ -93,7 +93,7 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
- 1. [Towards Semantic Approaches for General-Purpose End-User Development](). Mattia Atzeni, Maurizio Atzori.   _IEEE IRC 2018 - Second [International Workshop on Semantic Robots (WSR)](http://irc.asia.edu.tw/2018/wsr-2018/) _ (2018)
+ 1. [Towards Semantic Approaches for General-Purpose End-User Development](). Mattia Atzeni, Maurizio Atzori.   _IEEE IRC 2018 - Second [International Workshop on Semantic Robots_ ([WSR](http://irc.asia.edu.tw/2018/wsr-2018/)) (2018)
  1. [Unsupervised Singleton Expansion from Free Text](). Maurizio Atzori, Simone Balloccu and Andrea Bellanti.  _ICSC 2018 - 10th IEEE International Conference on Semantic Computing_ (2018)
   1. [QA<sup>3</sup>: a Natural Language Approach to Question Answering over RDF Data Cubes](http://www.semantic-web-journal.net/content/qa3-natural-language-approach-question-answering-over-rdf-data-cubes). Maurizio Atzori, Giuseppe M. Mazzeo, Carlo Zaniolo. _Semantic Web Journal_ (accepted with minor revisions)
  1. [User-Friendly Temporal Queries on Historical Knowledge Bases](http://authors.elsevier.com/sd/article/S0890540117301554). Carlo Zaniolo, Shi Gao, Maurizio Atzori, Muhao Chen, Jiaqi Gu. _Information and Computation_, Time 2015 special issue, Elsevier (2017 in press)
