@@ -351,6 +351,7 @@ Served as Reviewer for a number of international conferences and workshops, incl
 
 Links
 -----
+- [How to give good presentations](http://acmg.seas.harvard.edu/education/presentations/carlton_presentations.pdf) - nice rules to make slides and talks
 - [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/) - Publisher copyright policies & self-archiving information
 - [CORE Portal](http://core.edu.au/index.php/conference-rankings) - Official Australian   [CS Conference Rankings](http://www.core.edu.au/coreportal); see also the Italian [GII-GRIN Ratings](http://www.consorzio-cini.it:8080/consultazioneclassificazioni/ratingSearch.jsf)
 - [2048 infUnica Edition](http://games.usvsth3m.com/2048/infunica-edition/) - the popular game [2048](gabrielecirulli.github.io/2048/) as seen by CS students at the University of Cagliari. [Tetris also available](http://games.usvsth3m.com/giftris/infunica-edition/).
