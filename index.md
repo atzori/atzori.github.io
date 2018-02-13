@@ -201,7 +201,8 @@ Prof. P. Ferragina, University of Pisa, Italy.
 
 Advisor
 -------
-This list is not complete nor frequently updated. A more updated list of current students and interns are available recent list
+The following list is not complete nor frequently updated. 
+A recent list of current students and interns is available at the [Semantic Web Lab page](http://swlab.unica.it/).
 
 - [Flore Massimo]() _[Realizzazione di una applicazione Android per la gestione dei contatti e personalizzazione delle chiamate]()_ (UniCA 2012)
 - [Rota Gabriele]() _[Motore di ricerca veloce per il supporto del query by example in Wikipedia]()_ (UniCA 2012)
@@ -270,9 +271,11 @@ Information Sciences ([INS](http://www.journals.elsevier.com/information-science
 Journal of Parallel and Distributed Computing ([JPDC](https://ees.elsevier.com/jpdc)),
 Information Processing &amp; Management ([IPM]()).
 
- - Serving for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
+ - Served for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
 
- - Organizing Committee Member and Publicity co-Chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2018)](http://icsc.eecs.uci.edu/2018/)
+ - PC member of the [International Semantic Web Conference (ISWC 2018)](http://iswc2018.semanticweb.org/), Resource Track committee.
+ 
+ - PC member, Organizing Committee Member and Publicity co-Chair, Best paper award committee chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2018)](http://icsc.eecs.uci.edu/2018/)
 
  - Panel Chair and moderator at IEEE WETICE 2017 Panel on *[Data centricity of digital world: opportunities and challenges](http://wetice.ue.poznan.pl/panel/)*
 
