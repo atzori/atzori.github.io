@@ -28,7 +28,7 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- PC co-Chair of the [27th IEEE WETICE](http://www.olab-dynamics.net/wetice2018/) track on [Data Exploration in the Web 3.0 Age (DEW 2018)](http://swlab.unica.it/dew2018/), in Paris! Accepted papers will be published on IEEE Proceedings
+- Abstract Deadline approaching for the [27th IEEE WETICE](http://www.olab-dynamics.net/wetice2018/) track on [Data Exploration in the Web 3.0 Age (DEW 2018)](http://swlab.unica.it/dew2018/), in Paris! Accepted papers will be published on IEEE Proceedings
 
 - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
@@ -201,7 +201,7 @@ Prof. P. Ferragina, University of Pisa, Italy.
 
 Advisor
 -------
-This list is not complete nor frequently updated.
+This list is not complete nor frequently updated. A more updated list of current students and interns are available recent list
 
 - [Flore Massimo]() _[Realizzazione di una applicazione Android per la gestione dei contatti e personalizzazione delle chiamate]()_ (UniCA 2012)
 - [Rota Gabriele]() _[Motore di ricerca veloce per il supporto del query by example in Wikipedia]()_ (UniCA 2012)
