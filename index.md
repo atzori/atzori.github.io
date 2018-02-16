@@ -273,6 +273,7 @@ Information Processing &amp; Management ([IPM]()).
 
  - Served for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
 
+ - PC co-Chair of the 2018 [IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2018)](http://www.ieee-aike.org/)
  
  - Organizing Committee Member and Publicity co-Chair, Best paper award committee chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2018)](http://icsc.eecs.uci.edu/2018/)
 
