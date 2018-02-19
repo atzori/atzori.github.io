@@ -275,7 +275,7 @@ Information Processing &amp; Management ([IPM]()).
 
  - PC co-Chair of the 2018 [IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2018)](http://www.ieee-aike.org/)
  
- - Organizing Committee Member and Publicity co-Chair, Best paper award committee chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2018)](http://icsc.eecs.uci.edu/2018/)
+ - Organizing Committee Member and Publicity co-Chair, Best paper award committee Chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2018)](http://icsc.eecs.uci.edu/2018/)
 
  - Panel Chair and moderator at IEEE WETICE 2017 Panel on *[Data centricity of digital world: opportunities and challenges](http://wetice.ue.poznan.pl/panel/)*
 
