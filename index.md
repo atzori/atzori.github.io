@@ -271,7 +271,10 @@ Information Sciences ([INS](http://www.journals.elsevier.com/information-science
 Journal of Parallel and Distributed Computing ([JPDC](https://ees.elsevier.com/jpdc)),
 Information Processing &amp; Management ([IPM]()).
 
+ - Served as Reviewer for the [Journal of AI and Data Mining (JAIDM)](http://jad.shahroodut.ac.ir/)
+ - Serving as Editor of the [Open Journal of Internet of Things (OJIOT)](https://www.ronpub.com/index.php/journals/ojiot)
  - Served for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
+ - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
  - PC co-Chair of the 2018 [IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2018)](http://www.ieee-aike.org/)
 
@@ -291,7 +294,6 @@ Information Processing &amp; Management ([IPM]()).
 
  - PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/)
  
- - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
  
  - Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
 
