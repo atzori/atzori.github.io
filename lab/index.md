@@ -41,6 +41,7 @@ Members
  - Marco Taccori - Student
  - Stefano Raimondo Usai - Student
  - Enrico Medda - Student
+ - Francesco Littarru - Student - NLP in collaboration with [Eventa](https://www.eventa.it/)
  - Sergio Consoli - External Collaborator (Philips Research, Eindhoven)
   
 ### Alumni
