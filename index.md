@@ -28,7 +28,9 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- Abstract Deadline approaching for the [27th IEEE WETICE](http://www.olab-dynamics.net/wetice2018/) track on [Data Exploration in the Web 3.0 Age (DEW 2018)](http://swlab.unica.it/dew2018/), in Paris! Accepted papers will be published on IEEE Proceedings
+- As a PC co-Chair of the first IEEE International Conference on [Artificial Intelligence and Knowledge Engineering](www.ieee-aike.org/2018/), I invite to submit a paper and attend it in October 2018 in Laguna Hills, California 
+
+- Deadline approaching for the [27th IEEE WETICE](http://www.olab-dynamics.net/wetice2018/) track on [Data Exploration in the Web 3.0 Age (DEW 2018)](http://swlab.unica.it/dew2018/), in Paris! Accepted papers will be published on IEEE Proceedings
 
 - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
