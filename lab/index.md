@@ -30,10 +30,16 @@ Members
  - [Barbara Pes](http://people.unica.it/barbarapes/) - Lead Researcher for Data Mining
  - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - co-Director, Lead Researcher for Big Data
  - Mattia Atzeni - Research Assistant, Student (LM) - CodeOntology
+ - Livio Pompianu - Postdoc, teaching tutor
  - Andrea Dessi - PhD Student (supervised by Maurizio Atzori)
  - Danilo Dessì - PhD Student (supervised by Diego Reforgiato)
  - Amna Dridi - PhD Student (supervised by Diego Reforgiato)
- - Livio Pompianu - PhD Student (co-supervised by Maurizio Atzori)
+ - Fabio Lilliu - PhD Student (supervised by Diego Reforgiato)
+ - Saeed Raza - PhD Student (supervised by Diego Reforgiato)
+ - Fabio Carta - Intern, Student (LM) - NeuralTalk
+ - Samuele Virdis - Intern, Student (LM) - Emotion Detection leveraging Semantic Web
+ - Federico Spiga - Intern, Student (LM) - Development of robot ontology for Zorabot movements and actions
+ - Edoardo Cittadini - Intern, Student - Drone and object recognition
  - Simone Balloccu - Intern, Student (LM) - OKgraph
  - Andrea Bellanti - Intern, Student (LM) - OKgraph
  - Roberto Cocco - Intern, Student - QA3ML
@@ -46,6 +52,9 @@ Members
   
 ### Alumni
 
+ - Ilyas Chaoua - Student (LM) - Detecting and tracking ongoing topics in psychotherapeutic conversations
+ - Andrea Medda - Student (LM) - Price Probe, Leveraging Google Trends for Price Forecasting using ARIMA on Amazon Products
+ - Alessio Pili - Student (LM) - Price Probe, Leveraging Google Trends for Price Forecasting using ARIMA on Amazon Products
  - Federica Muceli - Intern, Student (LM) - HTMLpedia
  - Emanuele Mameli - Research Assistant
  - Simone Barbieri - Research Assistant
@@ -68,6 +77,7 @@ Projects
 --------
 In the following the list of some projects currently undertaken by our lab.
 
+ - [DoUtDes]() trasferimento di tecnologie e competenze di Business Intelligence alle aziende dei settori innovativi e tradizionali. Founded by Regione Sardegna through Sardegna Ricerche POR-FESR
  - [OKgraph]() OKgraph: automatic learning and querying the Sardinian Open Knowledge Graph. Creating Knowledge Graphs from scratch, without human intervention. Founded by Regione Sardegna through Sardegna Ricerche.  
  - [swipeQA]() Exploiting Structured Queries in Question Answering and Search. In collaboration with Prof. Carlo Zaniolo (UCLA), awarded by a [Google Faculty Research Award](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html).
  - [SWiPE](http://atzori.webofcode.org/projects/swipe) Searching Wikipedia by Example, a user-friendly interface for structured queries
@@ -81,6 +91,8 @@ In the following the list of some projects currently undertaken by our lab.
  
 Previous projects:
 
+ - [MARIO](http://mario-project.eu) Managing Active and healthy aging with use of caRing servIce robots. Founded by EU
+ - [Waternomics](http://waternomics.eu) - ICT for Water Management. Founded by EU
  - [DENIS]() 
 DENIS: Dataspaces Enhancing the Next Internet in Sardinia (RAS)
  - [U-DID]()
