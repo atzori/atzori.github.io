@@ -257,8 +257,10 @@ I am also developing a number of other applications in the fields of abduction, 
 
 Scientific Activities
 ---------------------
-
- - Serving as Reviewer for the following major database and data mining international journals:
+- Member of the following Scientific Societies and Groups: 
+  SIAM Activity Group on Data Mining, IEEE Computer Society Technical Committee on Semantic Computing (TCSEM)
+ 
+- Serving as Reviewer for the following major database and data mining international journals:
 ACM Transactions on Database Systems ([TODS]()), 
 IEEE Transactions on Knowledge and Data Engineering ([TKDE]()), 
 The International Journal on Very Large Data Bases ([VLDB Journal]()),
