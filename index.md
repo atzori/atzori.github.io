@@ -331,7 +331,7 @@ PC Member for a number of International Conferences and Workshops, including:
 - International Workshop on Privacy and Security of Big Data ([PSBD 2015](http://si.deis.unical.it/cuzzocrea/PSBD2015/) co-located with [IEEE BigData 2015](http://cci.drexel.edu/bigdata/bigdata2015/)).
 - International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2015](http://trust.csu.edu.cn/conference/TrustData2015/))
 - IFIP Conference on Computer Science and its Applications ([CIIA-2015](http://ciia2015.ensma.fr/articles.php?lng=en&pg=69&mnuid=32&tconfig=0) Security and Network Technologies Track)
-- International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM](http://web.ornl.gov/sci/knowledgediscovery/sstdm-14/) co-located with IEEE ICDM, PC Member since SSTDM-08)
+- International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM18/) co-located with IEEE ICDM, PC Member since SSTDM-08)
 - International Workshop on Privacy and Anonymity in the Information Society (PAIS 2017, in conjunction with EDBT/ICDT, in the PC since its first edition in 2008)
 - International Workshop on Privacy and Security of Big Data ([PSBD 2014](http://si.deis.unical.it/~cuzzocrea/PSBD2014/) co-located with [CIKM 2014](http://cikm2014.fudan.edu.cn/)).
 - IEEE International Workshop on Trust, Security and Privacy for Big Data ([IEEE TrustData 2014](http://trust.csu.edu.cn/conference/TrustData2014/), [TrustData 2013](http://trust.csu.edu.cn/conference/TrustData2013/))
