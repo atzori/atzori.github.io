@@ -307,6 +307,7 @@ Information Processing &amp; Management ([IPM]()).
 
 PC Member for a number of International Conferences and Workshops, including:
 
+- 7th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2018](https://bigspatial-2018.github.io/)),  held in conjunction with the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2018)
 - [International Semantic Web Conference (ISWC 2018)](http://iswc2018.semanticweb.org/), Resource Track program committee.
 - 2018 SIAM International Conference on Data Mining ([SDM 2018](http://www.siam.org/meetings/sdm18/))
 - 12th IEEE International Conference on Semantic Computing ([ICSC 2018](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
