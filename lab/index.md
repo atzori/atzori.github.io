@@ -29,13 +29,13 @@ Members
  - [Maurizio Atzori](http://swlab.unica.it/atzori) - co-Director, Lead Researcher for Semantic Web, Lab founder
  - [Barbara Pes](http://people.unica.it/barbarapes/) - Lead Researcher for Data Mining
  - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - co-Director, Lead Researcher for Big Data
- - Mattia Atzeni - Research Assistant, Student (LM) - CodeOntology
  - Livio Pompianu - Postdoc, teaching tutor
- - Andrea Dessi - PhD Student (supervised by Maurizio Atzori)
+ - Mattia Atzeni - PhD Student (supervised by Maurizio Atzori), formerly Research Assistant, Student (LM) - CodeOntology
  - Danilo Dessì - PhD Student (supervised by Diego Reforgiato)
  - Amna Dridi - PhD Student (supervised by Diego Reforgiato)
  - Fabio Lilliu - PhD Student (supervised by Diego Reforgiato)
  - Saeed Raza - PhD Student (supervised by Diego Reforgiato)
+ - Emanuele Mameli - Student (LM), formerly Research Assistant
  - Fabio Carta - Intern, Student (LM) - NeuralTalk
  - Samuele Virdis - Intern, Student (LM) - Emotion Detection leveraging Semantic Web
  - Federico Spiga - Intern, Student (LM) - Development of robot ontology for Zorabot movements and actions
@@ -52,11 +52,11 @@ Members
   
 ### Alumni
 
+ - Andrea Dessi - PhD Student (supervised by Maurizio Atzori)
  - Ilyas Chaoua - Student (LM) - Detecting and tracking ongoing topics in psychotherapeutic conversations
  - Andrea Medda - Student (LM) - Price Probe, Leveraging Google Trends for Price Forecasting using ARIMA on Amazon Products
  - Alessio Pili - Student (LM) - Price Probe, Leveraging Google Trends for Price Forecasting using ARIMA on Amazon Products
  - Federica Muceli - Intern, Student (LM) - HTMLpedia
- - Emanuele Mameli - Research Assistant
  - Simone Barbieri - Research Assistant
  - Julia Schmidt - Student (LM18)
  - Riccardo Angius - Student
