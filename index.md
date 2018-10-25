@@ -286,7 +286,9 @@ Information Processing &amp; Management ([IPM]()).
  - Served for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
  - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
- - PC co-Chair of the 2018 [IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2018)](http://www.ieee-aike.org/)
+ - General Chair and Organizer of the [2019 IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2019)](http://www.ieee-aike.org/2019/)
+ 
+ - PC co-Chair of the 2018 [IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2018)](http://www.ieee-aike.org/2018/)
 
  - Organizing Committee Member, PC member and Publicity co-Chair of the 13th [IEEE International Conference on Semantic Computing (ICSC 2019)](https://semanticcomputing.wixsite.com/icsc2019)
 
@@ -312,6 +314,7 @@ Information Processing &amp; Management ([IPM]()).
 
 PC Member for a number of International Conferences and Workshops, including:
 
+ - PC Member of [16th Extended Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org/), Natural Language Processing and Information Retrieval Track
 - 7th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2018](https://bigspatial-2018.github.io/)),  held in conjunction with the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2018)
 - [International Semantic Web Conference (ISWC 2018)](http://iswc2018.semanticweb.org/), Resource Track program committee.
 - 2018 SIAM International Conference on Data Mining ([SDM 2018](http://www.siam.org/meetings/sdm18/))
