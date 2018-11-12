@@ -386,6 +386,7 @@ Links
 
 Resources
 ---------
+- [Calendario Accademico 2018/19](https://www.unica.it/unica/protected/110729/0/def/ref/DOC110728/)
 - [Uptime Monitor](https://stats.uptimerobot.com/lOpDnczG3) This page contains monitors of online services related to my work
 - [Calendario Accademico UniCA](http://www.unica.it/UserFiles/File/Utenti/csaba/Calendario%2016_17.pdf) Calendario Accademico 2016/2017
 - [Google Web Toolkit (GWT)](http://code.google.com/webtoolkit/) - Framework to develop AJAX application with Java
