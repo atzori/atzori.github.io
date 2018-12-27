@@ -109,6 +109,7 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
 
+ 1. [Special Issue on Advanced Learning Methods for Complex Data](http://www.mdpi.com/2078-2489/10/1/8/pdf). Maurizio Atzori, Barbara Pes. Editorial, _Information J. 2019_, 10(1), 8; Artificial Intelligence section, doi: [10.3390/info10010008](https://doi.org/10.3390/info10010008)
  1. [R-LDA: Profiling RDF datasets using Knowledge-based Topic Modeling](). Seyedamin Pouriyeh, Mehdi Allahyari, Gong Cheng, Hamid Reza Arabnia, Maurizio Atzori and Krys Kochut.  _ICSC 2019 - 11th IEEE International Conference on Semantic Computing_ (2019)
  1. [What is the cube root of 27? Question Answering over CodeOntology](http://iswc2018.semanticweb.org/sessions/what-is-the-cube-root-of-27-question-answering-over-codeontology/). Atzeni M., Atzori M. _ISWC 2018 - Proceedings of the 17th International Semantic Web Conference_, Research Track (2018)
  1. [QA<sup>3</sup>: a Natural Language Approach to Question Answering over RDF Data Cubes](http://www.semantic-web-journal.net/content/qa3-natural-language-approach-question-answering-over-rdf-data-cubes-1). Maurizio Atzori, Giuseppe M. Mazzeo, Carlo Zaniolo. _Semantic Web Journal_ (accepted, 2018)
