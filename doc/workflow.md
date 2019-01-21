@@ -3,14 +3,16 @@ layout: bootstrap
 title: Documentation
 ---
 
-Informazioni per Tirocinanti, Tesisti, Dottorandi, Contrattisti
-===============================================================
+SWlab workflow
+==============
+Informazioni e regole su come collaborare all'interno del team SWlab (Tirocinanti, Tesisti, Dottorandi, Contrattisti, ...)
 
-Indice argomenti
+
+Incontri e richiesta
 ----------------
-  - Software e Documentazione
-  - Timetable (tirocinanti)
-
+  - gruppo Telegram _SWlab_ 
+  - meeting di gruppo settimanale
+  - via email
 
 Software e Documentazione
 -------------------------
@@ -18,15 +20,16 @@ Artefatti software possibili:
 
   1. REST API (servizi che rimangono attivi ed in ascolto su una porta)
   2. [CLI](https://en.wikipedia.org/wiki/Command-line_interface), ovvero software utilizzabili da riga di comando, inclusi software per generare *Dataset* (quest'ultimo non va inserito nel repository)
+  3. Dataset (si utilizza [Zenodo](https://zenodo.org/))
 
 Tool da utilizzare:
 
   - Linux Ubuntu
   - Bitbucket and Git
-  - [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow/) (see also [this](https://gist.github.com/blackfalcon/8428401))
+  - [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow/) (vedi anche [questo articolo](https://gist.github.com/blackfalcon/8428401)) e _Pull request_ su Bitbucket
   - Docker
   
-Il software andrà elaborato utilizzando un repository [Bitbucket](https://bitbucket.org/) creato dal docente.
+Il software andrà elaborato utilizzando un repository [Bitbucket](https://bitbucket.org/) creato dal maintainer (tipicamente il docente).
 Di seguito una Checklist sintetica del contenuto del repository:
 
   - *README.md* ([sintassi markdown](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)) chiaro e completo in inglese con:
@@ -39,7 +42,7 @@ Di seguito una Checklist sintetica del contenuto del repository:
   - i file sorgente (i compilati e tutto cio' ottenibile dalla procedura di installazione descritta nel README non fanno inseriti nel repository)
   - nella cartella */test*, i file di test per la verifica del funzionamento del servizio
   
-La versione finale dei file README ed il Dockerfile andranno ri-committati sul repository tramite [pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request/), ed il docente effettuerà una code review.
+La versione finale dei file README ed il Dockerfile e delle varie features andranno committati sul repository tramite [pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request/), ed il maintainer effettuerà una code review (eventualmente insieme ad altri reviewer del team).
 
 
 Timetable (tirocinanti)
