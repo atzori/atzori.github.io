@@ -37,7 +37,7 @@ Di seguito una Checklist sintetica del contenuto del repository:
      - *Install* con istruzioni su come installare ed eventualmente fare il build (compilazione, etc.) del software
      - *Getting Started* con istruzioni su come avviarlo dopo aver eseguito la procedura di Install
      - Eventuali altre sezioni necessarie
-  - *[Dockerfile](https://docs.docker.com/engine/reference/builder/)* semplice con EXPOSE opportunamente settato su 8080 se necessita di una porta aperta. Il progetto dovrà funzionare con i comandi `docker build -t img/PROGETTO https://bitbucket.org/semanticweb/PROGETTO.git` (creazione immagine/installazione), seguito da `docker run --name PROGETTO --rm -p 127.0.0.1:8080:8080 img/PROGETTO` (avvio software)
+  - *[Dockerfile](https://docs.docker.com/engine/reference/builder/)* (o [docker-compose.yaml](https://docs.docker.com/compose/compose-file/) se necessario) semplice con EXPOSE opportunamente settato su 8080 se necessita di una porta aperta. Il progetto dovrà funzionare con i comandi `docker build -t img/PROGETTO https://bitbucket.org/semanticweb/PROGETTO.git` (creazione immagine/installazione), seguito da `docker run --name PROGETTO --rm -p 127.0.0.1:8080:8080 img/PROGETTO` (avvio software)
   - *.gitignore* e *.dockerignore* se opportuni
   - i file sorgente (i compilati e tutto cio' ottenibile dalla procedura di installazione descritta nel README non fanno inseriti nel repository)
   - nella cartella */test*, i file di test per la verifica del funzionamento del servizio
