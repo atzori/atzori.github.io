@@ -45,14 +45,15 @@ Papers up to six (6) double-column pages (including figures, tables and referenc
 Accepted papers will be included in the proceedings published by the IEEE Computer Society Press in a volume available under IEEE Digital Library. The proceedings will be submitted for indexing through INSPEC, Compendex, Thomson Reuters, DBLP, Google Scholar and EI Index, and available in both Elsevier Scopus and ISI Web of Science databases.
 Distinguished quality papers presented at the DEW 2019 will be also selected for publication in internationally renowned journals.
 
-http://home.ing.unisannio.it/wetice2019/?page_id=575
-  
+https://easychair.org/conferences/?conf=wetice2019
+
+
 IMPORTANT DATES
 ===============
 
  * Paper submission: February 20th, 2019
  * Notification to authors: March 15th, 2019
- * Camera-ready papers to IEEE: April 5th, 2019
+ * Camera-ready papers to IEEE: April 5th, 2019 (strict)
   
 
 COMMITTEES
@@ -63,7 +64,15 @@ Program Chairs
   Barbara Pes, University of Cagliari
 
 Technical Program Committee
-  TBA
+(The following is the current list of confirmed PC members)
+  Amparo	Alonso-Betanzos,	University of A Coruña
+  Muhao	Chen,	University of California, Los Angeles
+  Nicoletta	Dessì,	Università degli Studi di Cagliari, Dipartimento di Matematica e Informatica
+  Matteo	Interlandi,	Microsoft
+  Giuseppe M.	Mazzeo,	Facebook
+  Stefano	Montanelli,	University of Milan
+  Daniele	Riboni,	University of Cagliari
+  Danuta	Zakrzewska,	Institute of Information Technology Technical University of Lodz
 
 
 CONTACT: For any question regarding DEW 2019 please contact the organizers: Maurizio Atzori <atzori@unica.it> and Barbara Pes <pes@unica.it>
