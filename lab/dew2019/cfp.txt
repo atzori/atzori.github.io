@@ -1,4 +1,3 @@
-
 ==========================================================
  DEW 2019: Data Exploration in the Web 3.0 Age (DEW 2019)
  http://swlab.unica.it/dew2019/
@@ -11,8 +10,9 @@
 CALL FOR PAPERS
 ===============
 
-Over the course of the last years, currently emerging Web 3.0 environments have provided a strong potential for the integration of data sources, applications and tools. In such a pervasive and highly dynamic scenario, existing techniques for accessing and managing web content seem to be actually inadequate to satisfy the user needs. More implicit and automatic ways of exploring data information are needed to improve the usability of web resources. 
-These challenges are not limited to enhance information retrieval, but aim to raise awareness of how such information can be put to use in order to transform a specific dataset into a particularly significant resource when used in conjunction with other sources of information, also raising several important challenges for future data and web mining methods.
+Currently emerging Web 3.0 environments have provided a strong potential for the integration of data sources, applications and tools. In such a pervasive and highly dynamic scenario, existing techniques for accessing and managing web content seem to be actually inadequate to satisfy the user needs and more automatic ways of exploring, joining and sharing information are needed to improve the usability of web resources.
+
+This raises several important challenges for future data and web mining methods. Such challenges range from the analysis of poorly structured information, such as annotations and tags, to the provision of intelligent methods that support users in searching and integrating information offered by web resources. The overall goal of these challenges is not limited to enhance information retrieval but also includes exploiting the enriched semantics a dataset acquires when used in conjunction with other sources of information. The synergy of different technologies, including semantic web, natural language search, machine learning, recommendation agents and artificial intelligence, can be especially fruitful in this perspective.
 
 The goal of the Data Exploration in the Web 3.0 Age (DEW 2019) IEEE track is to bring together researchers and practitioners working in the areas related to data exploration, in a very broad sense. The track welcomes contributions from data mining, query languages, data visualization, graph databases and other fields related to the analysis and exploitation of data. Papers focusing on Semantic technologies and Graph databases are particularly welcome.
 
@@ -76,5 +76,3 @@ Technical Program Committee
 
 
 CONTACT: For any question regarding DEW 2019 please contact the organizers: Maurizio Atzori <atzori@unica.it> and Barbara Pes <pes@unica.it>
-
-  
