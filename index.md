@@ -285,7 +285,7 @@ Journal Editor:
  - Guest Editor of the [Special Issue on Artificial Intelligence and Knowledge Engineering](https://www.worldscientific.com/worldscinet/ijsc), _International Journal of Semantic Computing_ (IJSC), World Scientific (2019). 
  - Guest Editor of the [Special Issue on Advanced Learning Methods for Complex Data](https://www.mdpi.com/journal/information/special_issues/DEW_2018). _Information J. 2019_, 10(1), 8; Artificial Intelligence section (2019)
  
-Other journal-related editorial activities
+Other journal-related editorial activities:
  - Serving as Reviewer for the following major database and data mining international journals:
 ACM Transactions on Database Systems ([TODS]()), 
 IEEE Transactions on Knowledge and Data Engineering ([TKDE]()), 
@@ -306,8 +306,9 @@ Information Processing &amp; Management ([IPM]()).
 
 
 Scientific Conference Organization:
+ - Publicity Chair of the [2020 IEEE International Conference on Semantic Computing (ICSC2020)](http://www.ieee-icsc.org)
  - **General Chair** and Local Organizer of the [2019 IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2019)](http://www.ieee-aike.org/2019/)
- - PC co-Chair of the 2018 [IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2018)](http://www.ieee-aike.org/2018/)
+ - **PC Chair** of the 2018 [IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2018)](http://www.ieee-aike.org/2018/)
  - Organizing Committee Member, PC member and Publicity co-Chair of the 13th [IEEE International Conference on Semantic Computing (ICSC 2019)](https://semanticcomputing.wixsite.com/icsc2019)
  - Organizing Committee Member and Publicity co-Chair, Best paper award committee Chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2018)](https://semanticcomputing.wixsite.com/icsc2018)
  - Panel Chair and moderator at IEEE WETICE 2017 Panel on *[Data centricity of digital world: opportunities and challenges](http://wetice.ue.poznan.pl/panel/)*
