@@ -31,7 +31,9 @@ Highlights
 
 - General Chair and organizer of the 2019 IEEE International Conference on [Artificial Intelligence and Knowledge Engineering](http://www.ieee-aike.org/2019/), in [Cagliari, Italy](https://goo.gl/maps/o6nNup5uCjC2)! AI meets the heart of the *Mediterranean Sea*!
 
-- Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). Deadline Jan 20, 2019. Looking forward to receive your best research papers!
+- PC member of top semantic web conferences: [ISWC 2019](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) (resoruce track) and [ESWC 2019](https://2019.eswc-conferences.org/call-for-research-tracks/) (research track on *Natural Language Processing, Machine Learning, and  Information Retrieval*)!
+
+- Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 papers!
 
 - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
@@ -173,32 +175,28 @@ Another source is the [Research Catalog of the University of Cagliari](https://i
 
 Projects
 --------
+Member of the following projects and research groups:
 
-- [Security Horizons](http://tcs.unica.it/projects/security-horizons)
-A consortium of universities working on security and privacy issues (PRIN 2010-11 project)
-- [DENIS]() 
-DENIS: Dataspaces Enhancing the Next Internet in Sardinia (RAS)
-- [U-DID]()
-PI of project Unstructured Data Integration for Dataspaces (RAS)
-- [DIVA](http://kdd.isti.cnr.it/project/diva)
-A predictive system aimed at fighting against tax evasion in VAT domain
-- [KDubiq](http://www.kdubiq.org/kdubiq/control/research_areas#wg5)
-Ubiquitous Knowledge Discovery (WG5: Privacy and Security)
-- [GeoPKDD](http://www.geopkdd.eu/)
-Geographic Privacy-aware Knowledge Discovery and Delivery
-- [GeoPKDD.it](http://geopkdd.di.unipi.it/)
-Italian Project on Geographic Privacy-aware Knowledge Discovery and Delivery (MIUR COFIN2004)
-- [P3D - Privacy Preserving Pattern Discovery](http://www-kdd.isti.cnr.it/p3d/)
-A "Curiosity Driven and Independent Research" ISTI Internal Project
-- [KDDML-MQL](http://kdd.di.unipi.it/kddml/)
-Knowledge Discovery in Databases Markup Language
-- [ClickWorld]()
-Data analysis of Click Streams
+- [TypicalBI]() Typical Business Intelligence platform, PI (privately-funded by Typical S.r.l., 2018-2019)
+- [OKgraph]() Open Knowledge Graphs, **PI** (RAS, Capitale Umano Alta Qualificazione, 2017-2019)
+- [EmILIE]() sEnsing ImpLicit Input and Emotions (Fondazione di Sardegna, 2017-2019)
+- [Google Faculty Award](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html) Exploiting Structured Queries in Question Answering and Search - **co-PI** with Prof. Carlo Zaniolo (Google Faculty Research Award Winter 2015)
+- [Security Horizons](http://tcs.unica.it/projects/security-horizons) A consortium of universities working on security and privacy issues (PRIN 2010-11 project)
+- [DENIS]() Dataspaces Enhancing the Next Internet in Sardinia, **PI** (RAS)
+- [U-DID]() Unstructured Data Integration for Dataspaces, **PI** (RAS)
+- [DIVA](http://kdd.isti.cnr.it/project/diva) A predictive system aimed at fighting against tax evasion in VAT domain
+- [KDubiq](http://www.kdubiq.org/kdubiq/control/research_areas#wg5) Ubiquitous Knowledge Discovery (WG5: Privacy and Security)
+- [GeoPKDD](https://cordis.europa.eu/project/rcn/86393/en) Geographic Privacy-aware Knowledge Discovery and Delivery, [site](http://www.geopkdd.eu/) 
+- [GeoPKDD.it](http://geopkdd.di.unipi.it/) Italian Project on Geographic Privacy-aware Knowledge Discovery and Delivery (MIUR COFIN2004)
+- [P3D - Privacy Preserving Pattern Discovery](http://www-kdd.isti.cnr.it/p3d/) A "Curiosity Driven and Independent Research" ISTI Internal Project
+- [KDDML-MQL](http://kdd.di.unipi.it/kddml/) Knowledge Discovery in Databases Markup Language (KDDLab, UniPI)
+- [ClickWorld]() Data analysis of Click Streams (Kataweb, UniPI)
 
 
 Attended PhD Courses
 --------------------
 
+- [Advanced Course on Data Science &amp; Machine Learning](https://acdl2018.icas.xyz/) ACDL 2018 summer school, dedicated to both young scholars and seasoned investigators
 - [Security and Cooperation in Wireless Networks][bertinoro06]
 Prof. J.P. Hubaux, EPFL, Switzerland.
 - [Privacy in Wireless Networks][bertinoro06]
@@ -249,15 +247,14 @@ Software and Tools
 
 > &quot;By making Wikipedia search simple, though, SWiPE has the potential to bring this benefit to a far greater audience. I, for one, can't wait to try it out myself.&quot; ([Lee Feigenbaum](http://supportcenter.cambridgesemantics.com/blog/-/blogs/swipe-an-example-of-easier-semantic-web-software), W3C SPARQL WG co-Chair)
 
-
 - [CodeOntology](http://codeontology.org/)
-RFD-ization of source code and use of SPARQL for finding design patterns over code
+RFD-ization of source code and use of SPARQL for finding design patterns over code. Also a [Computational Question Answering tool](https://github.com/codeontology/question-answering)
 
 - [Web of Functions](http://webofcode.org/wfn/)
 Higher-order interoperable functions within any SPARQL endpoint
 
-- [runSPARQL](http://atzori.webofcode.org/projects/runSPARQL/) 
-A tool to compute Recursive SPARQL Queries.
+- [runSPARQL](https://github.com/atzori/runSPARQL)  
+A tool to compute Recursive SPARQL Queries ([see also this](http://atzori.webofcode.org/projects/runSPARQL/))
 
 - [rankProp](http://atzori.webofcode.org/projects/rankProperties/)
 A tool to rank RDF properties of DBpedia entities, based on MLR algorithms.
@@ -329,7 +326,8 @@ Information Processing &amp; Management ([IPM]()).
 
 PC Member for a number of International Conferences and Workshops, including:
 
- - PC Member of [16th Extended Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org/), Natural Language Processing and Information Retrieval Track
+ - [18th International Semantic Web Conference (ISWC 2019)](https://iswc2019.semanticweb.org/), Resource Track
+ - [16th Extended Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org/), Natural Language Processing and Information Retrieval Track
 - 7th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2018](https://bigspatial-2018.github.io/)),  held in conjunction with the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2018)
 - [International Semantic Web Conference (ISWC 2018)](http://iswc2018.semanticweb.org/), Resource Track program committee.
 - 2018 SIAM International Conference on Data Mining ([SDM 2018](http://www.siam.org/meetings/sdm18/))
