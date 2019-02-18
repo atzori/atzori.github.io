@@ -12,7 +12,7 @@ He holds a PhD in Computer Science from the [School for Graduate Studies "Galile
 He has been member of the [ISTI-CNR](http://www.isti.cnr.it/), holding a research fellowship from [CNR](http://www.cnr.it/sitocnr/Englishversion/Englishversion.html) of Pisa, and a member of [Knowledge Discovery and Delivery Laboratory](http://www-kdd.isti.cnr.it/). 
 He has been visiting scholar at [Purdue University](http://www.cs.purdue.edu/) (Indiana, USA), working with Prof. [Christopher W. Clifton](http://www.cs.purdue.edu/people/clifton) and his research team.
 He has been visiting resercher working with Prof. [Yucel Saygin](http://people.sabanciuniv.edu/ysaygin/) at [Sabanci University](http://www.sabanciuniv.edu/mdbf/eng/) (Istanbul, Turkey) and at [UCLA](http://www.cs.ucla.edu/), collaborating with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/).
-Since December 2010 he is faculty at the [Department of Mathematics and Computer Science](http://dipartimenti.unica.it/matematicaeinformatica/) of the [University of Cagliari](http://www.unica.it) (Italy), **Associate Professor** since November 2018.
+Since December 2010 he is permanent faculty at the [Department of Mathematics and Computer Science](http://dipartimenti.unica.it/matematicaeinformatica/) of the [University of Cagliari](http://www.unica.it) (Italy), **Associate Professor** since November 2018.
 His major research interests regard databases, data mining, knowledge graphs and privacy-preserving algorithms for data management.
 
 <!-- He discussed a thesis on Decision Trees and Abduction,
@@ -31,9 +31,9 @@ Highlights
 
 - General Chair and organizer of the 2019 IEEE International Conference on [Artificial Intelligence and Knowledge Engineering](http://www.ieee-aike.org/2019/), in [Cagliari, Italy](https://goo.gl/maps/o6nNup5uCjC2)! AI meets the heart of the *Mediterranean Sea*!
 
-- PC member of top semantic web conferences: [ISWC 2019](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) (resoruce track) and [ESWC 2019](https://2019.eswc-conferences.org/call-for-research-tracks/) (research track on *Natural Language Processing, Machine Learning, and  Information Retrieval*)!
+- PC member of top Semantic Web conferences: [ISWC 2019](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) (*Resource* track) and [ESWC 2019](https://2019.eswc-conferences.org/call-for-research-tracks/) (Research track on *Natural Language Processing, Machine Learning, and  Information Retrieval*)!
 
-- Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 papers!
+- Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 submissions!
 
 - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
@@ -110,7 +110,7 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
-
+ 1. [Special Issue on Artificial Intelligence and Knowledge Engineering](https://www.worldscientific.com/worldscinet/ijsc). Maurizio Atzori, Adina M. Panchea, Lubomir Stanchev. _International Journal of Semantic Computing_ (IJSC), World Scientific (2019). 
  1. [Special Issue on Advanced Learning Methods for Complex Data](http://www.mdpi.com/2078-2489/10/1/8/pdf). Maurizio Atzori, Barbara Pes. Editorial, _Information J. 2019_, 10(1), 8; Artificial Intelligence section, doi: [10.3390/info10010008](https://doi.org/10.3390/info10010008)
  1. [R-LDA: Profiling RDF datasets using Knowledge-based Topic Modeling](). Seyedamin Pouriyeh, Mehdi Allahyari, Gong Cheng, Hamid Reza Arabnia, Maurizio Atzori and Krys Kochut.  _ICSC 2019 - 11th IEEE International Conference on Semantic Computing_ (2019)
  1. [What is the cube root of 27? Question Answering over CodeOntology](http://iswc2018.semanticweb.org/sessions/what-is-the-cube-root-of-27-question-answering-over-codeontology/). Atzeni M., Atzori M. _ISWC 2018 - Proceedings of the 17th International Semantic Web Conference_, Research Track (2018)
@@ -275,10 +275,18 @@ I am also developing a number of other applications in the fields of abduction, 
 
 Scientific Activities
 ---------------------
-- Member of the following Scientific Societies and Groups: 
-  SIAM Activity Group on Data Mining, IEEE Computer Society Technical Committee on Semantic Computing (TCSEM)
+Member of the following Scientific Societies and Groups: 
+ -  SIAM Activity Group on Data Mining, IEEE Computer Society Technical Committee on Semantic Computing (TCSEM)
+
+Journal Editor: 
+ - Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 submissions!
+ - Area Editor of the [Encyclopedia with Semantic Computing and Robotic Intelligence](https://www.worldscientific.com/worldscinet/escri). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
+ - Editor of the [Open Journal of Internet of Things (OJIOT)](https://www.ronpub.com/index.php/journals/ojiot)
+ - Guest Editor of the [Special Issue on Artificial Intelligence and Knowledge Engineering](https://www.worldscientific.com/worldscinet/ijsc), _International Journal of Semantic Computing_ (IJSC), World Scientific (2019). 
+ - Guest Editor of the [Special Issue on Advanced Learning Methods for Complex Data](https://www.mdpi.com/journal/information/special_issues/DEW_2018). _Information J. 2019_, 10(1), 8; Artificial Intelligence section (2019)
  
-- Serving as Reviewer for the following major database and data mining international journals:
+Other journal-related editorial activities
+ - Serving as Reviewer for the following major database and data mining international journals:
 ACM Transactions on Database Systems ([TODS]()), 
 IEEE Transactions on Knowledge and Data Engineering ([TKDE]()), 
 The International Journal on Very Large Data Bases ([VLDB Journal]()),
@@ -294,31 +302,20 @@ Journal of Parallel and Distributed Computing ([JPDC](https://ees.elsevier.com/j
 Information Processing &amp; Management ([IPM]()).
 
  - Served as Reviewer for the [Journal of AI and Data Mining (JAIDM)](http://jad.shahroodut.ac.ir/)
- - Serving as Editor of the [Open Journal of Internet of Things (OJIOT)](https://www.ronpub.com/index.php/journals/ojiot)
  - Served for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
- - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
- - General Chair and Organizer of the [2019 IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2019)](http://www.ieee-aike.org/2019/)
- 
+
+Scientific Conference Organization:
+ - **General Chair** and Local Organizer of the [2019 IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2019)](http://www.ieee-aike.org/2019/)
  - PC co-Chair of the 2018 [IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2018)](http://www.ieee-aike.org/2018/)
-
  - Organizing Committee Member, PC member and Publicity co-Chair of the 13th [IEEE International Conference on Semantic Computing (ICSC 2019)](https://semanticcomputing.wixsite.com/icsc2019)
-
  - Organizing Committee Member and Publicity co-Chair, Best paper award committee Chair of the 12th [IEEE International Conference on Semantic Computing (ICSC 2018)](https://semanticcomputing.wixsite.com/icsc2018)
-
  - Panel Chair and moderator at IEEE WETICE 2017 Panel on *[Data centricity of digital world: opportunities and challenges](http://wetice.ue.poznan.pl/panel/)*
-
  - Workshop and Special Session Committee Co-Chair of the 11th [IEEE International Conference on Semantic Computing (ICSC 2017)](http://icsc.eecs.uci.edu/2017/)
- 
  - Workshop Committee Co-Chair of the The First [IEEE International Conference on Robotic Computing  (IRC 2017)](http://irc.asia.edu.tw/2017/)
- 
  - Session Chair of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf),at the [10th IEEE International Conference on Semantic Computing (ICSC 2016)](http://www.ieee-icsc.com/), Laguna Hill, California. 
-
 - PC co-Chair of the [27th IEEE WETICE](http://www.olab-dynamics.net/wetice2018/) track on [Data Exploration in the Web 3.0 Age (DEW 2018)](http://swlab.unica.it/dew2018/)
-
  - PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/)
- 
- 
  - Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
 
 
