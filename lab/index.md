@@ -43,7 +43,6 @@ Members
  - Simone Balloccu - Intern, Student (LM) - OKgraph
  - Andrea Bellanti - Intern, Student (LM) - OKgraph
  - Roberto Cocco - Intern, Student - QA3ML
- - Matteo Porcu - Intern, Student - QA3
  - Marco Taccori - Student
  - Stefano Raimondo Usai - Student
  - Enrico Medda - Student
@@ -53,6 +52,7 @@ Members
 ### Alumni
 
  - Andrea Dessi - PhD Student (supervised by Maurizio Atzori)
+ - Matteo Porcu - Intern, Student - QA3
  - Ilyas Chaoua - Student (LM) - Detecting and tracking ongoing topics in psychotherapeutic conversations
  - Andrea Medda - Student (LM) - Price Probe, Leveraging Google Trends for Price Forecasting using ARIMA on Amazon Products
  - Alessio Pili - Student (LM) - Price Probe, Leveraging Google Trends for Price Forecasting using ARIMA on Amazon Products
