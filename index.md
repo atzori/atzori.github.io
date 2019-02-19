@@ -315,6 +315,7 @@ Scientific Conference Organization:
  - Workshop and Special Session Committee Co-Chair of the 11th [IEEE International Conference on Semantic Computing (ICSC 2017)](http://icsc.eecs.uci.edu/2017/)
  - Workshop Committee Co-Chair of the The First [IEEE International Conference on Robotic Computing  (IRC 2017)](http://irc.asia.edu.tw/2017/)
  - Session Chair of the [Semantics Integration and Analysis Session](http://media.wix.com/ugd/346a54_17e3c654843f42dcacd155397eabcb0f.pdf),at the [10th IEEE International Conference on Semantic Computing (ICSC 2016)](http://www.ieee-icsc.com/), Laguna Hill, California. 
+- PC co-Chair of the [28th IEEE WETICE](http://home.ing.unisannio.it/wetice2019/) track on [Data Exploration in the Web 3.0 Age (DEW 2018)](http://swlab.unica.it/dew2019/)
 - PC co-Chair of the [27th IEEE WETICE](http://www.olab-dynamics.net/wetice2018/) track on [Data Exploration in the Web 3.0 Age (DEW 2018)](http://swlab.unica.it/dew2018/)
  - PC co-Chair of the [26th IEEE WETICE](http://wetice.ue.poznan.pl/) track on [Data Exploration in the Web 3.0 Age (DEW 2017)](http://swlab.unica.it/dew2017/)
  - Organizing Committee Member of The 15th European Conference on Machine Learning (ECML) 2004 and the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD) 2004, Pisa, Italy
