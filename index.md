@@ -182,7 +182,7 @@ Member of the following projects and research groups:
 - [EmILIE]() sEnsing ImpLicit Input and Emotions (Fondazione di Sardegna, 2017-2019)
 - [Google Faculty Award](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html) Exploiting Structured Queries in Question Answering and Search - **co-PI** with Prof. Carlo Zaniolo (Google Faculty Research Award Winter 2015)
 - [Security Horizons](http://tcs.unica.it/projects/security-horizons) A consortium of universities working on security and privacy issues (PRIN 2010-11 project)
-- [DENIS]() Dataspaces Enhancing the Next Internet in Sardinia, **PI** (RAS)
+- [DENIS]() Dataspaces Enhancing the Next Internet in Sardinia, **co-PI** (RAS)
 - [U-DID]() Unstructured Data Integration for Dataspaces, **PI** (RAS)
 - [DIVA](http://kdd.isti.cnr.it/project/diva) A predictive system aimed at fighting against tax evasion in VAT domain
 - [KDubiq](http://www.kdubiq.org/kdubiq/control/research_areas#wg5) Ubiquitous Knowledge Discovery (WG5: Privacy and Security)
