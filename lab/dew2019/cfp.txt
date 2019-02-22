@@ -6,7 +6,7 @@
  Capri Island (Naples), Italy, June 12-14, 2019
 ==========================================================
 
-Paper submission deadline (extended): March 3rd, 2019 
+Paper submission deadline (extended): March 5th, 2019 
 
 CALL FOR PAPERS
 ===============
@@ -52,7 +52,7 @@ https://easychair.org/conferences/?conf=wetice2019
 IMPORTANT DATES
 ===============
 
- * Paper submission (extended): March 3rd, 2019
+ * Paper submission (extended): March 5th, 2019
  * Notification to authors: March 20th, 2019
  * Camera-ready papers to IEEE: April 5th, 2019 (strict)
   
@@ -67,11 +67,14 @@ Program Chairs
 Technical Program Committee
 (The following is the current list of confirmed PC members)
   Amparo	Alonso-Betanzos,	University of A Coruña
+  Devis	Bianchini, University of Brescia
   Muhao	Chen,	University of California, Los Angeles
-  Nicoletta	Dessì,	Università degli Studi di Cagliari, Dipartimento di Matematica e Informatica
+  Nicoletta	Dessì,	University of Cagliari
+  Shi	Gao, Google
   Matteo	Interlandi,	Microsoft
   Giuseppe M.	Mazzeo,	Facebook
   Stefano	Montanelli,	University of Milan
+  Fabio	Persia, Free University of Bozen-Bolzano
   Daniele	Riboni,	University of Cagliari
   Danuta	Zakrzewska,	Institute of Information Technology Technical University of Lodz
 
