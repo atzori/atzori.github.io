@@ -31,7 +31,7 @@ Highlights
 
 - General Chair and organizer of the 2019 IEEE International Conference on [Artificial Intelligence and Knowledge Engineering](http://www.ieee-aike.org/2019/), in [Cagliari, Italy](https://goo.gl/maps/o6nNup5uCjC2)! AI meets the heart of the *Mediterranean Sea*!
 
-- PC member of top Semantic Web conferences: [ISWC 2019](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) (*Resource* track) and [ESWC 2019](https://2019.eswc-conferences.org/call-for-research-tracks/) (Research track on *Natural Language Processing, Machine Learning, and  Information Retrieval*)!
+- PC member of top Semantic Web conferences: **ISWC 2019** (both [*Research*](https://iswc2019.semanticweb.org/call-for-research-track-papers/) and [*Resource*](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) tracks) and [**ESWC 2019**](https://2019.eswc-conferences.org/call-for-research-tracks/) (Research track on *Natural Language Processing, Machine Learning, and  Information Retrieval*)!
 
 - Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 submissions!
 
@@ -325,7 +325,7 @@ Scientific Conference Organization:
 
 PC Member for a number of International Conferences and Workshops, including:
 
- - [18th International Semantic Web Conference (ISWC 2019)](https://iswc2019.semanticweb.org/), Resource Track
+ - [18th International Semantic Web Conference (ISWC 2019)](https://iswc2019.semanticweb.org/), both main [*Research*](https://iswc2019.semanticweb.org/call-for-research-track-papers/) and [*Resource*](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) tracks
  - [16th Extended Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org/), Natural Language Processing and Information Retrieval Track
 - 7th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2018](https://bigspatial-2018.github.io/)),  held in conjunction with the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2018)
 - [International Semantic Web Conference (ISWC 2018)](http://iswc2018.semanticweb.org/), Resource Track program committee.
