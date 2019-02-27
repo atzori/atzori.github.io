@@ -12,7 +12,7 @@ He holds a PhD in Computer Science from the [School for Graduate Studies "Galile
 He has been member of the [ISTI-CNR](http://www.isti.cnr.it/), holding a research fellowship from [CNR](http://www.cnr.it/sitocnr/Englishversion/Englishversion.html) of Pisa, and a member of [Knowledge Discovery and Delivery Laboratory](http://www-kdd.isti.cnr.it/). 
 He has been visiting scholar at [Purdue University](http://www.cs.purdue.edu/) (Indiana, USA), working with Prof. [Christopher W. Clifton](http://www.cs.purdue.edu/people/clifton) and his research team.
 He has been visiting resercher working with Prof. [Yucel Saygin](http://people.sabanciuniv.edu/ysaygin/) at [Sabanci University](http://www.sabanciuniv.edu/mdbf/eng/) (Istanbul, Turkey) and at [UCLA](http://www.cs.ucla.edu/), collaborating with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/).
-Since December 2010 he is permanent faculty at the [Department of Mathematics and Computer Science](http://dipartimenti.unica.it/matematicaeinformatica/) of the [University of Cagliari](http://www.unica.it) (Italy), **Associate Professor** since November 2018.
+Since December 2010 he is permanent faculty at the [Department of Mathematics and Computer Science](https://dmi.unica.it/) of the [University of Cagliari](http://www.unica.it) (Italy), **Associate Professor** since November 2018.
 His major research interests regard databases, data mining, knowledge graphs and privacy-preserving algorithms for data management.
 
 <!-- He discussed a thesis on Decision Trees and Abduction,
@@ -79,10 +79,19 @@ Teaching
 --------
 [Computer Science @ Unica](http://informatica.unica.it/)
 
+ - [Programmazione 2 - Object-Oriented Programming](https://elearning.unica.it/course/view.php?id=121) for undergrad students (through Moodle e-learning platform, since A.A. 2010/11)
+ 
+ - [Artificial Intelligence and Natural Language Understanding (Reading course)](http://corsi.unica.it/informatica/presentazione-corsi-di-laurea/laurea-magistrale/reading-courses-aa-2017-2018/artificial-intelligence-and-natural-language-understanding/) for master students (only on A.A. 2018/19)
+
+ - [Artificial Intelligence: Natural Language Processing and Understanding]() for master students (starting from A.A. 2019/20)
+
+ 
+
 <!--Students can join the PR2 course at the [course page in Moodle](http://moodle2.unica.it/course/view.php?id=103)
- (http://moodle.unica.it/course/view.php?id=51) -->
+ (http://moodle.unica.it/course/view.php?id=51) 
 
 - [Programmazione 2 - Object-Oriented Programming](http://moodle.unica.it/course/view.php?id=103) (through Moodle e-learing platform, since A.A. 2010/11)
+-->
 
 
 I previously tought as Aggregate Professor at the [University of Sassari](http://www.uniss.it) and as Teaching assistant at the [University of Pisa](http://www.di.unipi.it/).
