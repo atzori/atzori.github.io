@@ -6,7 +6,7 @@
  Capri Island (Naples), Italy, June 12-14, 2019
 ==========================================================
 
-Paper submission deadline (extended): March 5th, 2019 
+Paper submission deadline (extended): March 12th, 2019 
 
 CALL FOR PAPERS
 ===============
@@ -52,9 +52,9 @@ https://easychair.org/conferences/?conf=wetice2019
 IMPORTANT DATES
 ===============
 
- * Paper submission (extended): March 5th, 2019
- * Notification to authors: March 20th, 2019
- * Camera-ready papers to IEEE: April 5th, 2019 (strict)
+ * Paper submission (extended): March 12th, 2019
+ * Notification to authors: March 22th, 2019
+ * Camera-ready papers to IEEE: April 5th, 2019
   
 
 COMMITTEES
