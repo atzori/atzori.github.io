@@ -186,8 +186,9 @@ Projects
 --------
 Member of the following projects and research groups:
 
+- [HOPE]() High quality Open data Publishing and Enrichment, PI of research unit (PRIN 2017, 2019-2022, €928K)
 - [TypicalBI]() Typical Business Intelligence platform, PI (privately-funded by Typical S.r.l., 2018-2019)
-- [OKgraph]() Open Knowledge Graphs, **PI** (RAS, Capitale Umano Alta Qualificazione, 2017-2019)
+- [OKgraph]() Open Knowledge Graphs, **PI** (RAS, Capitale Umano Alta Qualificazione, 2017-2019, €50K)
 - [EmILIE]() sEnsing ImpLicit Input and Emotions (Fondazione di Sardegna, 2017-2019)
 - [Google Faculty Award](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html) Exploiting Structured Queries in Question Answering and Search - **co-PI** with Prof. Carlo Zaniolo (Google Faculty Research Award Winter 2015)
 - [Security Horizons](http://tcs.unica.it/projects/security-horizons) A consortium of universities working on security and privacy issues (PRIN 2010-11 project)
