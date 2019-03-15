@@ -229,6 +229,7 @@ Prof. P. Ferragina, University of Pisa, Italy.
 [lipari]: http://lipari.cs.unict.it/lipari/previousedition/edition2003.htm
 [bertinoro06]: http://www.dsi.uniroma1.it/~swing06/
 
+<!--
 
 Advisor
 -------
@@ -249,6 +250,8 @@ A recent list of current students and interns is available at the [Semantic Web 
 - [Davide Carfi](http://it.linkedin.com/in/carfi)'s Bachelor Degree _Tools for Privacy Preserving Data Mining_ (CNR, July 2005)
 - [Romeo Zitarosa](http://it.linkedin.com/in/romeozitarosa)'s Bachelor Degree _Development of an Online Data Mining Algorithm for Association Rules Extraction_ (University of Pisa, Feb 2005)
 - [Daniele Sgandurra](http://www.di.unipi.it/~daniele/)'s Bachelor Degree _Development of Tools for Privacy Preserving Distributed Data Mining_ (CNR, July 2004)
+
+-->
 
 Software and Tools
 ------------------
@@ -408,6 +411,7 @@ Links
 
 Resources
 ---------
+- [ACRI awards for AIKE 2019](https://www.unica.it/unica/it/news_notizie_s1.page?contentId=NTZ155618) Got fundings for 15 foreign young visiting researchers (news in italian)
 - [Calendario Accademico 2018/19](https://www.unica.it/unica/protected/110729/0/def/ref/DOC110728/)
 - [Uptime Monitor](https://stats.uptimerobot.com/lOpDnczG3) This page contains monitors of online services related to my work
 - [Calendario Accademico UniCA](http://www.unica.it/UserFiles/File/Utenti/csaba/Calendario%2016_17.pdf) Calendario Accademico 2016/2017
