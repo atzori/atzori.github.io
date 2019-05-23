@@ -97,17 +97,15 @@ Teaching
 I previously tought as Aggregate Professor at the [University of Sassari](http://www.uniss.it) and as Teaching assistant at the [University of Pisa](http://www.di.unipi.it/).
 
 
-<!-- 
 
-Recent Talks
+Other activities
 ------------
-A list of few recent talks:
 
-- [A User-Friendly Interface for Structured and Temporal Queries over Wikipedia](http://www.deib.polimi.it/ita/eventi/dettagli/1166) @PoliMi, 21 October 2016
-- [A User-Friendly Interface for Structured and Temporal Queries over Wikipedia](http://www.unibz.it/en/inf/events/EventsOverview.html?NewsID=120359) @UniBZ, 17 October 2016
-- [Structured Queries over Unstructured Data]() @UCLA, DB-UCLA, 16 February 2016
+- [Intelligenza Artificiale e Comprensione Automatica del Linguaggio Naturale](http://school2019.tdm-project.it/programma/modulo-introduttivo/#tk05) lecture on AI and NLP at [1st spring school of TDM research and training program, Urban Computing 2019](http://school2019.tdm-project.it/), May 17, 2019 CRS4, Cagliari
+- [A User-Friendly Interface for Structured and Temporal Queries over Wikipedia](http://www.deib.polimi.it/ita/eventi/dettagli/1166) talk @PoliMi, 21 October 2016
+- [A User-Friendly Interface for Structured and Temporal Queries over Wikipedia](http://www.unibz.it/en/inf/events/EventsOverview.html?NewsID=120359) talk @UniBZ, 17 October 2016
+- [Structured Queries over Unstructured Data]() talk @UCLA, DB-UCLA, 16 February 2016
 
--->
 
 
 Publications
