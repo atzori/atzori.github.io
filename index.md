@@ -188,6 +188,7 @@ Projects
 Member of the following projects and research groups:
 
 - [HOPE]() High quality Open data Publishing and Enrichment, PI of research unit (PRIN 2017, 2019-2022, €928K)
+- [ADAM]() Activity recognition in Dual Acquisition Mode: analysis, feature extraction and classification of actions and activities (Fondazione di Sardegna-UniCA)
 - [TypicalBI]() Typical Business Intelligence platform, PI (privately-funded by Typical S.r.l., 2018-2019)
 - [OKgraph]() Open Knowledge Graphs, **PI** (RAS, Capitale Umano Alta Qualificazione, 2017-2019, €50K)
 - [EmILIE]() sEnsing ImpLicit Input and Emotions (Fondazione di Sardegna, 2017-2019)
