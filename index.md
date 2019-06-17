@@ -413,6 +413,7 @@ Links
 
 Resources
 ---------
+- [AIKE 2019 on Regional News TV](https://youtu.be/y9xxXaTnJ2E) IEEE AIKE nel TG RAI - UniCa, Servizio di Mauro Scanu nell'edizione delle 14 del 3 giugno 2019 introdotto da Elisabetta Atzeni, con dichiarazioni di Maurizio Atzori
 - [ACRI awards for AIKE 2019](https://www.unica.it/unica/it/news_notizie_s1.page?contentId=NTZ155618) Got fundings for 15 foreign young visiting researchers (news in italian)
 - [Calendario Accademico 2018/19](https://www.unica.it/unica/protected/110729/0/def/ref/DOC110728/)
 - [Uptime Monitor](https://stats.uptimerobot.com/lOpDnczG3) This page contains monitors of online services related to my work
