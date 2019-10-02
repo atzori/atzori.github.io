@@ -192,6 +192,7 @@ Projects
 --------
 Member of the following projects and research groups:
 
+- [WorkingAge](https://www.workingage.eu) Smart Working environments for all Ages. PI of third party unit (Horizon 2020 RIA Call H2020-SC1-DTH-2018-2020 Digital transformation in Health and Care)
 - [HOPE]() High quality Open data Publishing and Enrichment, PI of research unit (PRIN 2017, 2019-2022, €928K)
 - [ADAM]() Activity recognition in Dual Acquisition Mode: analysis, feature extraction and classification of actions and activities (Fondazione di Sardegna-UniCA)
 - [TypicalBI]() Typical Business Intelligence platform, PI (privately-funded by Typical S.r.l., 2018-2019)
