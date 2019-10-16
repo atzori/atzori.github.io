@@ -29,6 +29,8 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 Highlights
 ----------
 
+- PC co-chair of [SEBD 2020]() 28th Italian Symposium on Advanced Database Systems (Sardinia, June 2020)
+
 - General Chair and organizer of [**IEEE AIKE 2019**](http://www.ieee-aike.org/2019/), the 2019 IEEE International Conference on [Artificial Intelligence and Knowledge Engineering](http://www.ieee-aike.org/2019/), in [Cagliari, Italy](https://goo.gl/maps/o6nNup5uCjC2)! AI meets the heart of the *Mediterranean Sea*!
 
 - PC member of top Semantic Web conferences: [**ISWC 2019**](https://iswc2019.semanticweb.org) (both [*Research*](https://iswc2019.semanticweb.org/research-track-pc/) and [*Resource*](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) tracks) and [**ESWC 2019**](https://2019.eswc-conferences.org/call-for-research-tracks/) (Research track on *Natural Language Processing, Machine Learning, and  Information Retrieval*)!
@@ -100,7 +102,7 @@ I previously tought as Aggregate Professor at the [University of Sassari](http:/
 
 Other activities
 ------------
-
+- [Machine Learning Meetup Cagliari](https://www.meetup.com/it-IT/Cagliari-Machine-Learning-Meetup/) Founder and organizer of the ML Meetup in Cagliari counting &plus;160 members.
 - [Intelligenza Artificiale e Comprensione Automatica del Linguaggio Naturale](http://school2019.tdm-project.it/programma/modulo-introduttivo/#tk05) lecture on AI and NLP at [1st spring school of TDM research and training program, Urban Computing 2019](http://school2019.tdm-project.it/), May 17, 2019 CRS4, Cagliari
 - [A User-Friendly Interface for Structured and Temporal Queries over Wikipedia](http://www.deib.polimi.it/ita/eventi/dettagli/1166) talk @PoliMi, 21 October 2016
 - [A User-Friendly Interface for Structured and Temporal Queries over Wikipedia](http://www.unibz.it/en/inf/events/EventsOverview.html?NewsID=120359) talk @UniBZ, 17 October 2016
@@ -320,7 +322,8 @@ Transactions on Data Privacy ([TDP]()),
 Journal of Computer Science and Technology ([JCST]()),
 Information Sciences ([INS](http://www.journals.elsevier.com/information-sciences/)),
 Journal of Parallel and Distributed Computing ([JPDC](https://ees.elsevier.com/jpdc)),
-Information Processing &amp; Management ([IPM]()).
+Information Processing &amp; Management ([IPM]()),
+IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)).
 
  - Served as Reviewer for the [Journal of AI and Data Mining (JAIDM)](http://jad.shahroodut.ac.ir/)
  - Served for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
