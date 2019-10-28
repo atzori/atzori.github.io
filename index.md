@@ -31,6 +31,8 @@ Highlights
 
 - PC co-chair of [SEBD 2020]() 28th Italian Symposium on Advanced Database Systems (Sardinia, June 2020)
 
+- PC member of [**ESWC 2020**](https://2020.eswc-conferences.org/call-for-papers-research-track/) (Research track on *Natural Language Processing and  Information Retrieval*)
+
 - General Chair and organizer of [**IEEE AIKE 2019**](http://www.ieee-aike.org/2019/), the 2019 IEEE International Conference on [Artificial Intelligence and Knowledge Engineering](http://www.ieee-aike.org/2019/), in [Cagliari, Italy](https://goo.gl/maps/o6nNup5uCjC2)! AI meets the heart of the *Mediterranean Sea*!
 
 - PC member of top Semantic Web conferences: [**ISWC 2019**](https://iswc2019.semanticweb.org) (both [*Research*](https://iswc2019.semanticweb.org/research-track-pc/) and [*Resource*](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) tracks) and [**ESWC 2019**](https://2019.eswc-conferences.org/call-for-research-tracks/) (Research track on *Natural Language Processing, Machine Learning, and  Information Retrieval*)!
