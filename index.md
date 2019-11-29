@@ -330,8 +330,9 @@ IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)).
 
 
 Scientific Conference Organization:
- - PC co-chair of [SEBD 2020]() 28th Italian Symposium on Advanced Database Systems (Sardinia, June 2020)
+ - PC Chair of [SEBD 2020]() 28th Italian Symposium on Advanced Database Systems (Sardinia, June 2020)
  - Publicity Chair of the [2020 IEEE International Conference on Semantic Computing (ICSC2020)](http://www.ieee-icsc.org)
+ - Workshop Chair of the [2020 IEEE Artificial Intelligence nd Knowledge Engineering (AIKE 2020)](https://www.ieee-aike.org/copy-of-committees)
  - **General Chair** and Local Organizer of the [2019 IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2019)](http://www.ieee-aike.org/2019/)
  - **PC Chair** of the 2018 [IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2018)](http://www.ieee-aike.org/2018/)
  - Organizing Committee Member, PC member and Publicity co-Chair of the 13th [IEEE International Conference on Semantic Computing (ICSC 2019)](https://semanticcomputing.wixsite.com/icsc2019)
@@ -350,7 +351,7 @@ Scientific Conference Organization:
 
 PC Member for a number of International Conferences and Workshops, including:
 
-- [17th Extended Semantic Web Conference (ESWC 2020)](https://2020.eswc-conferences.org/call-for-papers-research-track/), Research track on *Natural Language Processing and Information Retrieval*
+ - [17th Extended Semantic Web Conference (ESWC 2020)](https://2020.eswc-conferences.org/call-for-papers-research-track/), Research track on *Natural Language Processing and Information Retrieval*
  - [42nd European Conference on Information Retrieval (ECIR 2020)](https://ecir2020.org/) _short paper track_
  - [18th International Semantic Web Conference (ISWC 2019)](https://iswc2019.semanticweb.org/), both main [*Research*](https://iswc2019.semanticweb.org/research-track-pc/) and [*Resource*](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) tracks
  - [16th Extended Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org/), Natural Language Processing and Information Retrieval Track
