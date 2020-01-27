@@ -6,8 +6,7 @@ keywords: Semantic Web, Big Data, Database, SPARQL, Web of Functions, projects, 
 
 <div class="row">
 			<div class="col-sm-2">
-				<a href="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg"><img src="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg" class="img-responsive img-rounded center-block" alt="Responsive image"></a>
-			
+				<a href="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg"><img src="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg" class="img-responsive img-rounded center-block" alt="Responsive image"></a>	
 			</div>
  			<div class="col-sm-10">
 				<h1 class="text-center"> <b>Semantic Web Lab</b></h1>
@@ -30,7 +29,10 @@ Members
  - [Barbara Pes](http://people.unica.it/barbarapes/) - Lead Researcher for Data Mining
  - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - co-Director, Lead Researcher for Big Data
  - Livio Pompianu - Postdoc, teaching tutor
+ - Sara Regali - Intern Student (working on NLP systems/Disambiguation)
  - Gabriele Obinu - Intern Student (working on ProbLog)
+ - Sandro Gabriele Tiddia - Intern Student (working on Okgraph)
+ - Simone Seu - Intern Student (working on BestQ)
  - Danilo Dessì - PhD Student (supervised by Diego Reforgiato)
  - Amna Dridi - PhD Student (supervised by Diego Reforgiato)
  - Fabio Lilliu - PhD Student (supervised by Diego Reforgiato)
