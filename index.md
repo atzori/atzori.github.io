@@ -304,6 +304,7 @@ Member of the following Scientific Societies and Groups:
 
 Journal Editor: 
  - Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 submissions!
+ - Topic Editor for *Semantic Web and NLP* of the [Electronics Journal](https://www.mdpi.com/journal/electronics)
  - Area Editor of the [Encyclopedia with Semantic Computing and Robotic Intelligence](https://www.worldscientific.com/worldscinet/escri). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
  - Editor of the [Open Journal of Internet of Things (OJIOT)](https://www.ronpub.com/index.php/journals/ojiot)
  - Guest Editor of the [Special Issue on Artificial Intelligence and Knowledge Engineering](https://www.worldscientific.com/worldscinet/ijsc), _International Journal of Semantic Computing_ (IJSC), World Scientific (2019). 
