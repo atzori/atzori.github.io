@@ -86,7 +86,7 @@ Teaching
  
  - [Artificial Intelligence and Natural Language Understanding (Reading course)](http://corsi.unica.it/informatica/presentazione-corsi-di-laurea/laurea-magistrale/reading-courses-aa-2017-2018/artificial-intelligence-and-natural-language-understanding/) for master students (only on A.A. 2018/19)
 
- - [Artificial Intelligence: Natural Language Processing and Understanding]() for master students (starting from A.A. 2019/20)
+ - [Artificial Intelligence: Natural Language Processing and Understanding](https://elearning.unica.it/course/view.php?id=284) for master students (through Moodle e-learning platform, since A.A. 2019/20)
 
  
 
