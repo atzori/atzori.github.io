@@ -332,7 +332,9 @@ IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)).
 
 
 Scientific Conference Organization:
- - PC Chair of [SEBD 2020]() 28th Italian Symposium on Advanced Database Systems (Sardinia, June 2020)
+ - PC member of [ODBASE 2020](http://www.otmconferences.org/index.php/conferences/odbase-2020), The 19th International Conference on
+Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes, Greece)
+ - PC Chair of [SEBD 2020](https://sebd2020.unica.it/) 28th Italian Symposium on Advanced Database Systems (Sardinia, June 2020)
  - Publicity Chair of the [2020 IEEE International Conference on Semantic Computing (ICSC2020)](http://www.ieee-icsc.org)
  - Workshop Chair of the [2020 IEEE Artificial Intelligence nd Knowledge Engineering (AIKE 2020)](https://www.ieee-aike.org/copy-of-committees)
  - **General Chair** and Local Organizer of the [2019 IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2019)](http://www.ieee-aike.org/2019/)
