@@ -6,7 +6,7 @@ keywords: Semantic Web, Big Data, Database, SPARQL, Web of Functions, projects, 
 
 <div class="row">
 			<div class="col-sm-2">
-				<a href="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg"><img src="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg" class="img-responsive img-rounded center-block" alt="Responsive image"></a>	
+				<a href="http://lod-cloud.net/versions/2014-08-30/lod-cloud.svg"><img src="https://lod-cloud.net/versions/2014-08-30/lod-cloud.svg" class="img-responsive img-rounded center-block" alt="Responsive image"></a>	
 			</div>
  			<div class="col-sm-10">
 				<h1 class="text-center"> <b>Semantic Web Lab</b></h1>
@@ -15,7 +15,7 @@ keywords: Semantic Web, Big Data, Database, SPARQL, Web of Functions, projects, 
 			</div>
 </div>
 
-The [Semantic Web Lab](http://webofcode.org/lab/) is mainly devoted to the design, analysis and experimentation of algorithms and systems involving Big structured and unstructured Data for the Web, such as knowledge graphs, massive textual data, web and source code repositories.
+The [Semantic Web Lab](https://swlab.unica.it/) is mainly devoted to the design, analysis and experimentation of algorithms and systems involving Big structured and unstructured Data for the Web, such as knowledge graphs, massive textual data, web and source code repositories.
 Our effort is particularly focused on automating or simplifying access to these resources with innovative query systems, such as Question Answering over Linked Data, Machine Reading, SPARQL extensions and our By-Example Structured Query approach.
 
 
@@ -25,8 +25,7 @@ Members
 
 ### Current
 
- - [Maurizio Atzori](http://swlab.unica.it/atzori) - co-Director, Lead Researcher for Semantic Web, Lab founder
- - [Barbara Pes](http://people.unica.it/barbarapes/) - Lead Researcher for Data Mining
+ - [Maurizio Atzori](https://swlab.unica.it/atzori) - co-Director, Lead Researcher for Semantic Web, Lab founder
  - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - co-Director, Lead Researcher for Big Data
  - Livio Pompianu - Postdoc, teaching tutor
  - Sara Regali - Intern Student (working on NLP systems/Disambiguation)
