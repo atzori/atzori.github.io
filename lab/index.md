@@ -26,6 +26,7 @@ Members
 ### Current
 
  - [Maurizio Atzori](https://swlab.unica.it/atzori) - co-Director, Lead Researcher for Semantic Web, Lab founder
+ - [Barbara Pes](http://people.unica.it/barbarapes/) - co-Director, Lead Researcher for Data Mining
  - [Diego Reforgiato](http://swlab.unica.it/reforgiato) - co-Director, Lead Researcher for Big Data
  - Livio Pompianu - Postdoc, teaching tutor
  - Sara Regali - Intern Student (working on NLP systems/Disambiguation)
