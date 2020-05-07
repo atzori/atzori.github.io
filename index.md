@@ -103,7 +103,8 @@ I previously tought as Aggregate Professor at the [University of Sassari](http:/
 
 Other activities
 ------------
-- [Machine Learning Meetup Cagliari](https://www.meetup.com/it-IT/Cagliari-Machine-Learning-Meetup/) Founder and organizer of the ML Meetup in Cagliari counting &plus;160 members.
+- [CINI Lab Big Data](https://www.consorzio-cini.it/index.php/it/lab-big-data) Reference member for the University of Cagliari and Member of the Comitato di Gestione (Management Committee) of CINI Lab on Big Data. The CINI Big Data Laboratory is an Italian expertise center for the development of knowledge and technologies in the fields of Big Data and Data Science, which are of strategic importance in decisional processes within companies and government agencies, as well as for the analysis of large-scale social behaviors and for the solution of complex scientific problems.
+- [Machine Learning Meetup Cagliari](https://www.meetup.com/it-IT/Cagliari-Machine-Learning-Meetup/) co-founder and co-organizer of the ML Meetup in Cagliari counting &plus;160 members.
 - [Intelligenza Artificiale e Comprensione Automatica del Linguaggio Naturale](http://school2019.tdm-project.it/programma/modulo-introduttivo/#tk05) lecture on AI and NLP at [1st spring school of TDM research and training program, Urban Computing 2019](http://school2019.tdm-project.it/), May 17, 2019 CRS4, Cagliari
 - [A User-Friendly Interface for Structured and Temporal Queries over Wikipedia](http://www.deib.polimi.it/ita/eventi/dettagli/1166) talk @PoliMi, 21 October 2016
 - [A User-Friendly Interface for Structured and Temporal Queries over Wikipedia](http://www.unibz.it/en/inf/events/EventsOverview.html?NewsID=120359) talk @UniBZ, 17 October 2016
