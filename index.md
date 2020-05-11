@@ -122,6 +122,7 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
 
+ 1. [Fully-Unsupervised Embeddings-based Hypernym Discovery](https://www.mdpi.com/journal/information/special_issues/Computational_Linguistics). Maurizio Atzori, Simone Balloccu. Information Journal, Special Issue *Advances in Computational Linguistics* (accepted for publication, 2020)
  1. [AskCO: A Multi-language and Extensible Smart Virtual Assistant](https://ieeexplore.ieee.org/document/8791728). Mattia Atzeni, Maurizio Atzori. IEEE AIKE 2019 - Proceedings of the _2019 IEEE Int. Conference on Artificial Intelligence and Knowledge Engineering_ (2018)
  1. [Ontology Summarization: Graph-Based Methods and Beyond](https://www.worldscientific.com/worldscinet/ijsc). Seyedamin Pouriyeh, Mehdi Allahyari, Qingxia Liu, Gong Cheng, Hamid Reza Arabnia, Maurizio Atzori, Farid Ghareh Mohammadi, Krys Kochut. _International Journal of Semantic Computing (IJSC)_ 13(2): 259-283 (2019)
  1. [OKgraph: Unsupervised Structured Data Extraction from Plain Text](http://ceur-ws.org/Vol-2441/paper19.pdf). Maurizio Atzori, Simone Balloccu, Andrea Bellanti, Emanuele Mameli and Stefano Raimondo Usai. Proceedings of the _10th Italian Information Retrieval Workshop_ ([IIR 2019](https://iir2019.dei.unipd.it/)) (2019)
