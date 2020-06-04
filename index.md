@@ -31,6 +31,8 @@ Highlights
 
 - PC co-Chair and Organizer of [**SEBD 2020**](https://sebd2020.unica.it/), the 28th Italian Symposium on Advanced Database Systems in Villasimius (Sardinia) June 2020
 
+- our [SIGMOD 2007 work on delta-presence](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) (data anonymization) became part of an official Google product! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
+
 - General Chair and organizer of [IEEE AIKE 2019](https://aike2019.unica.it/), the 2019 IEEE International Conference on [Artificial Intelligence and Knowledge Engineering](http://www.ieee-aike.org/2019/), in [Cagliari, Italy](https://goo.gl/maps/o6nNup5uCjC2)! AI meets the heart of the *Mediterranean Sea*!
 
 - Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 submissions!
