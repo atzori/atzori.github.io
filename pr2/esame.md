@@ -6,8 +6,8 @@ title: Esame PR2
 Esame PR2
 =========
 
-_Nota: le modalità di esame e le regole descritte in questa pagina si riferiscono solo all'anno accademico in corso.
-Chi non dovesse superare nell'anno accademico, è tenuto a riseguire e sostenere l'esame con le nuove regole che verranno specificate. _
+*Nota: le modalità di esame e le regole descritte in questa pagina si riferiscono solo all'anno accademico in corso.
+Chi non dovesse superare nell'anno accademico, è tenuto a riseguire e sostenere l'esame con le nuove regole che verranno specificate. *
 
 L'esame di PR2 è suddiviso in 2 prove (tra parentesi il peso di ciascuna prova nel voto finale):
 
@@ -15,9 +15,9 @@ L'esame di PR2 è suddiviso in 2 prove (tra parentesi il peso di ciascuna prova 
  - pratica (65%)
 
 Per presentarsi agli appelli è necessario:
- 1. registrarsi *almeno 3 giorni prima* all'appello desiderato sul sistema [ESSE3](https://webstudenti.unica.it/)
+ 1. registrarsi *almeno 3 giorni prima* all'appello desiderato sul sistema [ESSE3](https://unica.esse3.cineca.it/)
  2. presentarsi all'appello muniti di _libretto universitario con foto_ o _documento d'identità con foto_
- 3. avere un account valido e funzionante su [moodle.unica.it](http://moodle.unica.it)
+ 3. avere un account valido e funzionante registrato alla [pagina del corso di elearning.unica.it](https://elearning.unica.it/course/view.php?id=121)
  4. risultare regolare con la frequenza al corso 
 
 Teoria e Pratica
@@ -48,7 +48,7 @@ Durante il corso vengono svolte esercitazioni bonus, valutate, che in base al vo
 
 Appelli 
 -------
-Gli appelli sono ufficialmente elencati su [ESSE3](https://webstudenti.unica.it/), che farà fede per date, orari e iscrizioni all'appello.
+Gli appelli sono ufficialmente elencati su ESSE3, che farà fede per date, orari e iscrizioni all'appello.
 
 **Iscrizione Appello**: l'iscrizione è possibile da 10 a 3 giorni prima dell'appello; è quindi necessario registrarsi entro 3 giorni prima, pena la non possibilità di sostenere l'esame.
 Fanno fede date e orari su ESSE3. 
