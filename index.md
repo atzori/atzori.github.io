@@ -193,7 +193,7 @@ Another source is the [Research Catalog of the University of Cagliari](https://i
  1. [Abduction in classification tasks](http://dx.doi.org/doi:0). Atzori M., Mancarella P., Turini F. _Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)_ (2003)
 
 - PhD Thesis
-[Abduction and Anonymity in Data Mining](http://phd.di.unipi.it/Theses/PhDthesis_Atzori.pdf). Atzori M. _Ph.D. Thesis: TD-01/06. University of Pisa, Italy_ (2006)
+[Abduction and Anonymity in Data Mining](https://etd.adm.unipi.it/theses/available/etd-05262006-112952/unrestricted/phd_thesis_atzori.pdf). Atzori M. _Ph.D. Thesis: TD-01/06. University of Pisa, Italy_ (2006)
 
 Projects
 --------
