@@ -337,9 +337,11 @@ IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)).
 
 
 Scientific Conference Organization:
+ - PC member of [ECIR 2021](https://www.ecir2021.eu/call-for-reproducibility-track/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
  - PC member of [ODBASE 2020](http://www.otmconferences.org/index.php/conferences/odbase-2020), The 19th International Conference on
 Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes, Greece)
- - PC Chair of [SEBD 2020](https://sebd2020.unica.it/) 28th Italian Symposium on Advanced Database Systems (Sardinia, June 2020)
+ - co-Chair and Local Organizer of the [Post-SEBD2020](https://sebd2020.unica.it/workshop-post-sebd), Workshop Post-SEBD in memory of *Prof. Antonio Picariello* (Villasimius, September 3-7, 2020)
+ - PC Chair of [SEBD 2020](https://sebd2020.unica.it/) 28th Italian Symposium on Advanced Database Systems (online due to covid-19 emergency, June 21-24 2020)
  - Publicity Chair of the [2020 IEEE International Conference on Semantic Computing (ICSC2020)](http://www.ieee-icsc.org)
  - Workshop Chair of the [2020 IEEE Artificial Intelligence nd Knowledge Engineering (AIKE 2020)](https://www.ieee-aike.org/copy-of-committees)
  - **General Chair** and Local Organizer of the [2019 IEEE Artificial Intelligence and Knowledge Engineering (AIKE 2019)](http://www.ieee-aike.org/2019/)
