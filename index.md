@@ -330,16 +330,14 @@ Journal of Computer Science and Technology ([JCST]()),
 Information Sciences ([INS](http://www.journals.elsevier.com/information-sciences/)),
 Journal of Parallel and Distributed Computing ([JPDC](https://ees.elsevier.com/jpdc)),
 Information Processing &amp; Management ([IPM]()),
-IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)).
+IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)),
+[Informatics in Medicine Unlocked](https://www.journals.elsevier.com/informatics-in-medicine-unlocked).
 
  - Served as Reviewer for the [Journal of AI and Data Mining (JAIDM)](http://jad.shahroodut.ac.ir/)
  - Served for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
 
 
 Scientific Conference Organization:
- - PC member of [ECIR 2021](https://www.ecir2021.eu/call-for-reproducibility-track/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
- - PC member of [ODBASE 2020](http://www.otmconferences.org/index.php/conferences/odbase-2020), The 19th International Conference on
-Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes, Greece)
  - co-Chair and Local Organizer of the [Post-SEBD2020](https://sebd2020.unica.it/workshop-post-sebd), Workshop Post-SEBD in memory of *Prof. Antonio Picariello* (Villasimius, September 3-7, 2020)
  - PC Chair of [SEBD 2020](https://sebd2020.unica.it/) 28th Italian Symposium on Advanced Database Systems (online due to covid-19 emergency, June 21-24 2020)
  - Publicity Chair of the [2020 IEEE International Conference on Semantic Computing (ICSC2020)](http://www.ieee-icsc.org)
@@ -362,7 +360,10 @@ Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes
 
 PC Member for a number of International Conferences and Workshops, including:
 
- - [18th Extended Semantic Web Conference (ESWC 2021)](https://2021.eswc-conferences.org/)
+ - PC Member of [18th Extended Semantic Web Conference (ESWC 2021)](https://2021.eswc-conferences.org/)
+ - PC Member of [ECIR 2021](https://www.ecir2021.eu/call-for-reproducibility-track/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
+ - PC member of [ODBASE 2020](http://www.otmconferences.org/index.php/conferences/odbase-2020), The 19th International Conference on
+Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes, Greece)
  - [17th Extended Semantic Web Conference (ESWC 2020)](https://2020.eswc-conferences.org/call-for-papers-research-track/), Research track on *Natural Language Processing and Information Retrieval*
  - [42nd European Conference on Information Retrieval (ECIR 2020)](https://ecir2020.org/) _short paper track_
  - [18th International Semantic Web Conference (ISWC 2019)](https://iswc2019.semanticweb.org/), both main [*Research*](https://iswc2019.semanticweb.org/research-track-pc/) and [*Resource*](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) tracks
@@ -426,6 +427,7 @@ Served as Reviewer for a number of international conferences and workshops, incl
 <a href="http://www.siam.org/meetings/sdm08/">SIAM SDM08</a>, 
 [ACM PODS08](http://www.sigmod08.org/program_glance.shtml#pods_program),
 [ACM SigMOD17](http://sigmod2017.org/),
+[CIKM 2020](),
 [ACM SigCHI 2021](https://chi2021.acm.org/).
 
 Links
