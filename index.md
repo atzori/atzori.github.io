@@ -362,6 +362,7 @@ Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes
 
 PC Member for a number of International Conferences and Workshops, including:
 
+ - [18th Extended Semantic Web Conference (ESWC 2021)](https://2021.eswc-conferences.org/)
  - [17th Extended Semantic Web Conference (ESWC 2020)](https://2020.eswc-conferences.org/call-for-papers-research-track/), Research track on *Natural Language Processing and Information Retrieval*
  - [42nd European Conference on Information Retrieval (ECIR 2020)](https://ecir2020.org/) _short paper track_
  - [18th International Semantic Web Conference (ISWC 2019)](https://iswc2019.semanticweb.org/), both main [*Research*](https://iswc2019.semanticweb.org/research-track-pc/) and [*Resource*](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) tracks
@@ -424,7 +425,8 @@ Served as Reviewer for a number of international conferences and workshops, incl
 <a href="http://www.acm.org/conferences/sac/sac2008/">ACM SAC08-DM</a>, 
 <a href="http://www.siam.org/meetings/sdm08/">SIAM SDM08</a>, 
 [ACM PODS08](http://www.sigmod08.org/program_glance.shtml#pods_program),
-[ACM SIGMOD17](http://sigmod2017.org/).
+[ACM SigMOD17](http://sigmod2017.org/),
+[ACM SigCHI 2021](https://chi2021.acm.org/).
 
 Links
 -----
