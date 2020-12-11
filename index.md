@@ -331,7 +331,8 @@ Information Sciences ([INS](http://www.journals.elsevier.com/information-science
 Journal of Parallel and Distributed Computing ([JPDC](https://ees.elsevier.com/jpdc)),
 Information Processing &amp; Management ([IPM]()),
 IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)),
-[Informatics in Medicine Unlocked](https://www.journals.elsevier.com/informatics-in-medicine-unlocked).
+[Informatics in Medicine Unlocked](https://www.journals.elsevier.com/informatics-in-medicine-unlocked), 
+[Expert Systems With Applications](https://www.journals.elsevier.com/expert-systems-with-applications).
 
  - Served as Reviewer for the [Journal of AI and Data Mining (JAIDM)](http://jad.shahroodut.ac.ir/)
  - Served for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
