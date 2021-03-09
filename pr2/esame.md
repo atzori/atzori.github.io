@@ -43,9 +43,6 @@ Chi supererà l'esame entro Giugno, avrà diritto al seguente bonus velocità:
  -  +10% agli appelli di giugno (calcolato sul voto esame teoria/pratica)
  -  +5% all'appello di luglio (calcolato sul voto esame teoria/pratica)
  
-### Bonus esercitazioni
-Durante il corso vengono svolte esercitazioni bonus, valutate, che in base al voto danno diritto fino ad un massimo di 2 punti bonus da sommarsi al voto ottenuto alle prove.
-
 Appelli 
 -------
 Gli appelli sono ufficialmente elencati su ESSE3, che farà fede per date, orari e iscrizioni all'appello.
