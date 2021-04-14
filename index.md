@@ -363,6 +363,7 @@ Scientific Conference Organization:
 
 PC Member for a number of International Conferences and Workshops, including:
 
+ - PC Member of [CIKM 2021](http://www.cikm2021.org/), 30th ACM International Conference on Information and Knowledge Management, 1-5 November 2021, Online. Hosted in Gold Coast, Queensland, Australia
  - PC Member of [18th Extended Semantic Web Conference (ESWC 2021)](https://2021.eswc-conferences.org/)
  - PC Member of [ECIR 2021](https://www.ecir2021.eu/call-for-reproducibility-track/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
  - PC member of [ODBASE 2020](http://www.otmconferences.org/index.php/conferences/odbase-2020), The 19th International Conference on
@@ -377,7 +378,7 @@ Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes
 - 2018 SIAM International Conference on Data Mining ([SDM 2018](http://www.siam.org/meetings/sdm18/))
 - 12th IEEE International Conference on Semantic Computing ([ICSC 2018](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
 - [27th IEEE WETICE 2018](http://www.olab-dynamics.net/wetice2018/)
-- Italian Symposium on Advanced Database Systems ([SEBD2018](https://sisinflab.poliba.it/sebd/2018/), [SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
+- Italian Symposium on Advanced Database Systems ([SEBD2021](https://events.dimes.unical.it/sebd2021/), [SEBD2020](https://sebd2020.unica.it/), [SEBD2018](https://sisinflab.poliba.it/sebd/2018/), [SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
 - 9th Italian Information Retrieval Workshop ([IIR 2018](http://www.diag.uniroma1.it/~iir2018/))
 - The Fourth International Conference on Big Data, Small Data, Linked Data and Open Data ([ALLDATA 2018](http://www.iaria.org/conferences2018/ALLDATA18.html)), April 22, 2018 to April 26, 2018 - Athens, Greece
 - International Workshop on Privacy and Security of Big Data ([PSBD 2017](http://www2.units.it/cuzzocrea/confs/PSBD2017/) co-located with [IEEE BigData 2017](https://wi-lab.com/cyberchair/2017/bigdata17/index.php)).
