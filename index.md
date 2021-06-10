@@ -334,7 +334,8 @@ Journal of Parallel and Distributed Computing ([JPDC](https://ees.elsevier.com/j
 Information Processing &amp; Management ([IPM]()),
 IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)),
 [Informatics in Medicine Unlocked](https://www.journals.elsevier.com/informatics-in-medicine-unlocked), 
-[Expert Systems With Applications](https://www.journals.elsevier.com/expert-systems-with-applications).
+[Expert Systems With Applications](https://www.journals.elsevier.com/expert-systems-with-applications),
+[Information and Software Technology](https://www.journals.elsevier.com/information-and-software-technology).
 
  - Served as Reviewer for the [Journal of AI and Data Mining (JAIDM)](http://jad.shahroodut.ac.ir/)
  - Served for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
@@ -362,7 +363,7 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
-
+ - PC Member of the IEEE ICDM International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM 2021](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM21/))
  - PC Member of [CIKM 2021](http://www.cikm2021.org/), 30th ACM International Conference on Information and Knowledge Management, 1-5 November 2021, Online. Hosted in Gold Coast, Queensland, Australia
  - PC Member of [18th Extended Semantic Web Conference (ESWC 2021)](https://2021.eswc-conferences.org/)
  - PC Member of [ECIR 2021](https://www.ecir2021.eu/call-for-reproducibility-track/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
