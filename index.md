@@ -205,7 +205,7 @@ Member of the following projects and research groups:
 - [ASTRID]() Advanced learning STRategies for high-dimensional and Imbalanced Data (Fondazione di Sardegna-UniCA, Annualita 2020)
 - [WorkingAge](https://www.workingage.eu) Smart Working environments for all Ages. PI of third party unit (Horizon 2020 RIA Call H2020-SC1-DTH-2018-2020 Digital transformation in Health and Care)
 - [HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) High quality Open data Publishing and Enrichment, PI of research unit (PRIN 2017, 2019-2022, €928K)
-- [ADAM]() Activity recognition in Dual Acquisition Mode: analysis, feature extraction and classification of actions and activities (Fondazione di Sardegna-UniCA)
+- [ADAM]() Activity recognition in Dual Acquisition Mode: analysis, feature extraction and classification of actions and activities (Fondazione di Sardegna-UniCA Annualita 2018 CUP F74I19000900007 – ADAM project)
 - [TypicalBI]() Typical Business Intelligence platform, PI (privately-funded by Typical S.r.l., 2018-2019)
 - [OKgraph]() Open Knowledge Graphs, **PI** (RAS, Capitale Umano Alta Qualificazione, 2017-2019, €50K)
 - [EmILIE]() sEnsing ImpLicit Input and Emotions (Fondazione di Sardegna, 2017-2019)
