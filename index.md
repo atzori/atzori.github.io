@@ -123,6 +123,7 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
+ 1. [User-friendly Query Interfaces for the HOPE Project](http://ceur-ws.org/Vol-2947/paper26.pdf). Diego Marcia, Manuela Sanguinetti, Maurizio Atzori. Proceedings of the 11th Italian Information Retrieval Workshop 2021. Bari, Italy, September 13-15, 2021
  1. [Unaddressed challenges in persuasive dieting chatbots](https://pica.cls.ru.nl/). Simone Balloccu, Ehud Reiter, Matteo Gioele Collu, Federico Sanna, Manuela Sanguinetti and Maurizio Atzori. ACM UMAP 2021 Workshop on [PICA: Towards a new generation of Personalized Intelligent Conversational Agents](https://pica.cls.ru.nl/) (2021).
  3. [Report on SEBD 2020: the 28th Italian Symposium on Advanced Database Systems](http://sigir.org/wp-content/uploads/2020/12/p09.pdf). Maristella Agosti, Maurizio Atzori, Paolo Ciaccia, Letizia Tanca. ACM SIGIR Forum, Vol. 54 No. 2 December (2020).
  4. [Special issue on "Data Exploration in the Web 3.0 Age](https://doi.org/10.1016/j.future.2020.07.059). Maurizio Atzori, Georgia Koutrika, Barbara Pes, Letizia Tanca. _Future Generation Computer System_ 112: 1177-1179 (2020)
