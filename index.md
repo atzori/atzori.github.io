@@ -369,6 +369,7 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
+ - PC Member of [ECIR 2022](https://ecir2022.org/calls/reproducibility/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
  - PC Member of the IEEE ICDM International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM 2021](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM21/))
  - PC Member of [CIKM 2021](http://www.cikm2021.org/), 30th ACM International Conference on Information and Knowledge Management, 1-5 November 2021, Online. Hosted in Gold Coast, Queensland, Australia
  - PC Member of [18th Extended Semantic Web Conference (ESWC 2021)](https://2021.eswc-conferences.org/)
