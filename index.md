@@ -125,7 +125,7 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
-
+ 1. [δ-Presence](https://doi.org/10.1007/978-3-642-27739-9_1570-1). Mehmet Ercan Nergiz, Maurizio Atzori, Chris Clifton. In: Jajodia S., Samarati P., Yung M. (eds) *Encyclopedia of Cryptography, Security and Privacy*. Springer, Berlin, Heidelberg. (2021)
  1. [Improving Work Life Conditions via Portable Knowledge-Driven Recommender System](). Maurizio Atzori, Alessandro Barenghi, Sara Comai, Mariagrazia Fugini, Diego Marcia, Gerardo Pelosi, Manuela Sanguinetti, Vincenzo Scotti. _[SEBD 2021](https://events.dimes.unical.it/sebd2021/) - Proceedings of the 29th Italian Symposium on Advanced Database Systems_, Pizzo Calabro (2021)
  1. [User-friendly Query Interfaces for the HOPE Project](http://ceur-ws.org/Vol-2947/paper26.pdf). Diego Marcia, Manuela Sanguinetti, Maurizio Atzori. Proceedings of the 11th Italian Information Retrieval Workshop 2021. Bari, Italy, September 13-15, 2021
  1. [Unaddressed challenges in persuasive dieting chatbots](https://pica.cls.ru.nl/). Simone Balloccu, Ehud Reiter, Matteo Gioele Collu, Federico Sanna, Manuela Sanguinetti and Maurizio Atzori. ACM UMAP 2021 Workshop on [PICA: Towards a new generation of Personalized Intelligent Conversational Agents](https://pica.cls.ru.nl/) (2021).
