@@ -29,7 +29,7 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 Highlights
 ----------
 
-- our [SIGMOD 2007 work on delta-presence](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) (data anonymization) became part of an official Google product! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
+- our [delta-presence work](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) (data anonymization) recently [featured on Springer's Encyclopedia of Cryptography, Security and Privacy](https://doi.org/10.1007/978-3-642-27739-9_1570-1) and **became part of an official Google product**! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
 
 - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
