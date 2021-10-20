@@ -28,6 +28,9 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
+- Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics and Human Neuroscience*. Looking forward for your submission!
+
+- PC Member of the [ESWC 2022](https://2022.eswc-conferences.org/) conference, Research Track. If you have a great contribution regarding the Semantic Web, submit to this top notch research forum in the field.
 
 - our [delta-presence work](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) (data anonymization) recently [featured on Springer's Encyclopedia of Cryptography, Security and Privacy](https://doi.org/10.1007/978-3-642-27739-9_1570-1) and **became part of an official Google product**! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
 
@@ -316,6 +319,7 @@ Member of the following Scientific Societies and Groups:
  -  SIAM Activity Group on Data Mining, IEEE Computer Society Technical Committee on Semantic Computing (TCSEM)
 
 Journal Editor: 
+ - - Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics and Human Neuroscience*. 
  - Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 submissions!
  - Topic Editor for *Semantic Web and NLP* of the [Electronics Journal](https://www.mdpi.com/journal/electronics)
  - Area Editor of the [Encyclopedia with Semantic Computing and Robotic Intelligence](https://www.worldscientific.com/worldscinet/escri). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
@@ -369,6 +373,7 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
+ - [ESWC 2022](https://2022.eswc-conferences.org/), Extended Semantic Web Conference, May 29 - June 2, 2022, Hersonissos, Greece
  - PC Member of [ECIR 2022](https://ecir2022.org/calls/reproducibility/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
  - PC Member of the IEEE ICDM International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM 2021](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM21/))
  - PC Member of [CIKM 2021](http://www.cikm2021.org/), 30th ACM International Conference on Information and Knowledge Management, 1-5 November 2021, Online. Hosted in Gold Coast, Queensland, Australia
