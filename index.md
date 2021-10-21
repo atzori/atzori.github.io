@@ -28,7 +28,7 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics and Human Neuroscience*. Looking forward for your submission!
+- Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics*. Looking forward for your submission!
 
 - PC Member of the [ESWC 2022](https://2022.eswc-conferences.org/) conference, Research Track. If you have a great contribution regarding the Semantic Web, submit to this top notch research forum in the field.
 
@@ -321,7 +321,7 @@ Member of the following Scientific Societies and Groups:
  -  SIAM Activity Group on Data Mining, IEEE Computer Society Technical Committee on Semantic Computing (TCSEM)
 
 Journal Editor: 
- - - Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics and Human Neuroscience*. 
+ - - Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics*. 
  - Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 submissions!
  - Topic Editor for *Semantic Web and NLP* of the [Electronics Journal](https://www.mdpi.com/journal/electronics)
  - Area Editor of the [Encyclopedia with Semantic Computing and Robotic Intelligence](https://www.worldscientific.com/worldscinet/escri). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
