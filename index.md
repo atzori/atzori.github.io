@@ -210,12 +210,10 @@ Projects
 --------
 Member of the following projects and research groups:
 
-ASTRID – Advanced learning STRategies for high-dimensional and Imbalanced Data
-CUP: F75F21001220007
 - [ASTRID]() Advanced learning STRategies for high-dimensional and Imbalanced Data (Fondazione di Sardegna-UniCA, Annualita 2020, CUP F75F21001220007, 19.10.2021-19.10.2023)
 - [WorkingAge](https://www.workingage.eu) Smart Working environments for all Ages. PI of third party unit (Horizon 2020 RIA Call H2020-SC1-DTH-2018-2020 Digital transformation in Health and Care)
 - [HOPE](http://hope-prin.org/) High quality Open data Publishing and Enrichment, PI of research unit (PRIN 2017, 2019-2022, €928K) <!-- https://sites.google.com/diag.uniroma1.it/prin-hope2017 -->
-- [ADAM]() Activity recognition in Dual Acquisition Mode: analysis, feature extraction and classification of actions and activities (Fondazione di Sardegna-UniCA Annualita 2018 CUP F74I19000900007 – ADAM project)
+- [ADAM]() Activity recognition in Dual Acquisition Mode: analysis, feature extraction and classification of actions and activities (Fondazione di Sardegna-UniCA Annualita 2018 CUP F74I19000900007 – ADAM project, 06.2019 - 04.2022)
 - [TypicalBI]() Typical Business Intelligence platform, PI (privately-funded by Typical S.r.l., 2018-2019)
 - [OKgraph]() Open Knowledge Graphs, **PI** (RAS, Capitale Umano Alta Qualificazione, 2017-2019, €50K)
 - [EmILIE]() sEnsing ImpLicit Input and Emotions (Fondazione di Sardegna, 2017-2019)
