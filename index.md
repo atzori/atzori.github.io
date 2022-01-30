@@ -374,6 +374,7 @@ Scientific Conference Organization:
 
 PC Member for a number of International Conferences and Workshops, including:
  - [ESWC 2022](https://2022.eswc-conferences.org/), Extended Semantic Web Conference, May 29 - June 2, 2022, Hersonissos, Greece
+ - Italian Symposium on Advanced Database Systems ([SEBD2022](https://sebd2022.isti.cnr.it/), [SEBD2021](https://events.dimes.unical.it/sebd2021/), [SEBD2020](https://sebd2020.unica.it/), [SEBD2018](https://sisinflab.poliba.it/sebd/2018/), [SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
  - PC Member of [ECIR 2022](https://ecir2022.org/calls/reproducibility/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
  - PC Member of the IEEE ICDM International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM 2021](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM21/))
  - PC Member of [CIKM 2021](http://www.cikm2021.org/), 30th ACM International Conference on Information and Knowledge Management, 1-5 November 2021, Online. Hosted in Gold Coast, Queensland, Australia
@@ -391,7 +392,6 @@ Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes
 - 2018 SIAM International Conference on Data Mining ([SDM 2018](http://www.siam.org/meetings/sdm18/))
 - 12th IEEE International Conference on Semantic Computing ([ICSC 2018](http://icsc.eecs.uci.edu/2018/)) - Newport Beach, California, USA
 - [27th IEEE WETICE 2018](http://www.olab-dynamics.net/wetice2018/)
-- Italian Symposium on Advanced Database Systems ([SEBD2021](https://events.dimes.unical.it/sebd2021/), [SEBD2020](https://sebd2020.unica.it/), [SEBD2018](https://sisinflab.poliba.it/sebd/2018/), [SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
 - The Fourth International Conference on Big Data, Small Data, Linked Data and Open Data ([ALLDATA 2018](http://www.iaria.org/conferences2018/ALLDATA18.html)), April 22, 2018 to April 26, 2018 - Athens, Greece
 - International Workshop on Privacy and Security of Big Data ([PSBD 2017](http://www2.units.it/cuzzocrea/confs/PSBD2017/) co-located with [IEEE BigData 2017](https://wi-lab.com/cyberchair/2017/bigdata17/index.php)).
 - [26th IEEE WETICE 2017](http://wetice.ue.poznan.pl/)
