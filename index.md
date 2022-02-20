@@ -373,6 +373,7 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
+ - PC Member of [CIKM 2022](http://www.cikm2022.org/), 31st ACM International Conference on Information and Knowledge Management, October 17-22, 2022, Hybrid Conference, Hosted in Atlanta, Georgia, USA
  - [ESWC 2022](https://2022.eswc-conferences.org/), Extended Semantic Web Conference, May 29 - June 2, 2022, Hersonissos, Greece
  - Italian Symposium on Advanced Database Systems ([SEBD2022](https://sebd2022.isti.cnr.it/), [SEBD2021](https://events.dimes.unical.it/sebd2021/), [SEBD2020](https://sebd2020.unica.it/), [SEBD2018](https://sisinflab.poliba.it/sebd/2018/), [SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
  - PC Member of [ECIR 2022](https://ecir2022.org/calls/reproducibility/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
