@@ -388,7 +388,7 @@ Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes
  - [42nd European Conference on Information Retrieval (ECIR 2020)](https://ecir2020.org/) _short paper track_
  - [18th International Semantic Web Conference (ISWC 2019)](https://iswc2019.semanticweb.org/), both main [*Research*](https://iswc2019.semanticweb.org/research-track-pc/) and [*Resource*](https://iswc2019.semanticweb.org/call-for-resources-track-papers/) tracks
  - [16th Extended Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org/), Natural Language Processing and Information Retrieval Track
- - Italian Information Retrieval Workshop ([11th, IIR 2021](https://sisinflab.github.io/iir2021/), [10th, IIR 2019](https://iir2019.dei.unipd.it/), [9th, IIR 2018](http://www.diag.uniroma1.it/~iir2018/), [IIR 2017](http://iir2017.usi.ch/))
+ - Italian Information Retrieval Workshop ([12th, IIR 2022](https://recsyspolimi.github.io/iir2022/), [11th, IIR 2021](https://sisinflab.github.io/iir2021/), [10th, IIR 2019](https://iir2019.dei.unipd.it/), [9th, IIR 2018](http://www.diag.uniroma1.it/~iir2018/), [IIR 2017](http://iir2017.usi.ch/))
 - 7th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data ([BigSpatial-2018](https://bigspatial-2018.github.io/)),  held in conjunction with the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2018)
 - [International Semantic Web Conference (ISWC 2018)](http://iswc2018.semanticweb.org/), Resource Track program committee.
 - 2018 SIAM International Conference on Data Mining ([SDM 2018](http://www.siam.org/meetings/sdm18/))
