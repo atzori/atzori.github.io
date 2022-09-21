@@ -128,6 +128,8 @@ An updated list of my publications can be found at [DBLP](http://www.informatik.
 
 Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
 
+ 1. [From Text to Data: Extracting Structured Information and Querying it via KGQA and BESt Queries](https://www.itadata.it/program). Maurizio Atzori. _The 1st Italian Conference on Big Data and Data Science_ ([ITADATA 2022](https://www.itadata.it/))  (2022)
+ 1. [rewordQALD9: A Bilingual Benchmark with Alternative Rewordings of QALD Questions](https://drive.google.com/file/d/1ezD8YwkaKhcbDS9cghfT0TQfF78XpB6B/view?usp=sharing). Manuela Sanguinetti, Maurizio Atzori and Nicoletta Puddu. _ Proceedings of the [SEMANTiCS Conference 2022](https://2022-eu.semantics.cc/programme), poster session. (2022) 
  1. [δ-Presence](https://doi.org/10.1007/978-3-642-27739-9_1570-1). Mehmet Ercan Nergiz, Maurizio Atzori, Chris Clifton. In: Jajodia S., Samarati P., Yung M. (eds) *Encyclopedia of Cryptography, Security and Privacy*. Springer, Berlin, Heidelberg. (2021)
  1. [Improving Work Life Conditions via Portable Knowledge-Driven Recommender System](http://ceur-ws.org/Vol-2994/paper57.pdf). Maurizio Atzori, Alessandro Barenghi, Sara Comai, Mariagrazia Fugini, Diego Marcia, Gerardo Pelosi, Manuela Sanguinetti, Vincenzo Scotti. _[SEBD 2021](https://events.dimes.unical.it/sebd2021/) - Proceedings of the 29th Italian Symposium on Advanced Database Systems_, Pizzo Calabro (2021)
  1. [User-friendly Query Interfaces for the HOPE Project](http://ceur-ws.org/Vol-2947/paper26.pdf). Diego Marcia, Manuela Sanguinetti, Maurizio Atzori. Proceedings of the 11th Italian Information Retrieval Workshop 2021. Bari, Italy, September 13-15, 2021
@@ -378,7 +380,7 @@ PC Member for a number of International Conferences and Workshops, including:
  - [ITADATA2022](https://www.itadata.it/) First Italian Conference on Big Data and Data Science - Milan, Italy September 20-21 2022
  - Italian Symposium on Advanced Database Systems ([SEBD2022](https://sebd2022.isti.cnr.it/), [SEBD2021](https://events.dimes.unical.it/sebd2021/), [SEBD2020](https://sebd2020.unica.it/), [SEBD2018](https://sisinflab.poliba.it/sebd/2018/), [SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
  - PC Member of [ECIR 2022](https://ecir2022.org/calls/reproducibility/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
- - PC Member of the IEEE ICDM International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM 2021](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM21/))
+ - PC Member of the IEEE ICDM International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM 2022]([https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM21/](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM22/))), co-located with IEEE ICDM, PC Member since SSTDM-08
  - PC Member of [CIKM 2021](http://www.cikm2021.org/), 30th ACM International Conference on Information and Knowledge Management, 1-5 November 2021, Online. Hosted in Gold Coast, Queensland, Australia
  - PC Member of [18th Extended Semantic Web Conference (ESWC 2021)](https://2021.eswc-conferences.org/)
  - PC Member of [ECIR 2021](https://www.ecir2021.eu/call-for-reproducibility-track/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
@@ -410,7 +412,6 @@ Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes
 - International Workshop on Privacy and Security of Big Data ([PSBD 2015](http://si.deis.unical.it/cuzzocrea/PSBD2015/) co-located with [IEEE BigData 2015](http://cci.drexel.edu/bigdata/bigdata2015/)).
 - International Workshop on Trust, Security and Privacy for Big Data ([TrustData 2015](http://trust.csu.edu.cn/conference/TrustData2015/))
 - IFIP Conference on Computer Science and its Applications ([CIIA-2015](http://ciia2015.ensma.fr/articles.php?lng=en&pg=69&mnuid=32&tconfig=0) Security and Network Technologies Track)
-- International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM18/) co-located with IEEE ICDM, PC Member since SSTDM-08)
 - International Workshop on Privacy and Anonymity in the Information Society (PAIS 2017, in conjunction with EDBT/ICDT, in the PC since its first edition in 2008)
 - International Workshop on Privacy and Security of Big Data ([PSBD 2014](http://si.deis.unical.it/~cuzzocrea/PSBD2014/) co-located with [CIKM 2014](http://cikm2014.fudan.edu.cn/)).
 - IEEE International Workshop on Trust, Security and Privacy for Big Data ([IEEE TrustData 2014](http://trust.csu.edu.cn/conference/TrustData2014/), [TrustData 2013](http://trust.csu.edu.cn/conference/TrustData2013/))
