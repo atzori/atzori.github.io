@@ -321,7 +321,7 @@ Member of the following Scientific Societies and Groups:
  -  SIAM Activity Group on Data Mining, IEEE Computer Society Technical Committee on Semantic Computing (TCSEM)
 
 Journal Editor: 
- - - Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics*. 
+ - Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics*. 
  - Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 submissions!
  - Topic Editor for *Semantic Web and NLP* of the [Electronics Journal](https://www.mdpi.com/journal/electronics)
  - Area Editor of the [Encyclopedia with Semantic Computing and Robotic Intelligence](https://www.worldscientific.com/worldscinet/escri). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
@@ -375,11 +375,12 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
+ - PC Member of [ECIR 2023](https://ecir2023.org/), 45th European Conference on Information Retrieval, full research paper track, 2023
  - PC Member of [CIKM 2022](http://www.cikm2022.org/), 31st ACM International Conference on Information and Knowledge Management, October 17-22, 2022, Hybrid Conference, Hosted in Atlanta, Georgia, USA
  - [ESWC 2022](https://2022.eswc-conferences.org/), Extended Semantic Web Conference, May 29 - June 2, 2022, Hersonissos, Greece
  - [ITADATA2022](https://www.itadata.it/) First Italian Conference on Big Data and Data Science - Milan, Italy September 20-21 2022
  - Italian Symposium on Advanced Database Systems ([SEBD2022](https://sebd2022.isti.cnr.it/), [SEBD2021](https://events.dimes.unical.it/sebd2021/), [SEBD2020](https://sebd2020.unica.it/), [SEBD2018](https://sisinflab.poliba.it/sebd/2018/), [SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
- - PC Member of [ECIR 2022](https://ecir2022.org/calls/reproducibility/), 43rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
+ - PC Member of [ECIR 2022](https://ecir2022.org/calls/reproducibility/), 44rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
  - PC Member of the IEEE ICDM International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM 2022]([https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM21/](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM22/))), co-located with IEEE ICDM, PC Member since SSTDM-08
  - PC Member of [CIKM 2021](http://www.cikm2021.org/), 30th ACM International Conference on Information and Knowledge Management, 1-5 November 2021, Online. Hosted in Gold Coast, Queensland, Australia
  - PC Member of [18th Extended Semantic Web Conference (ESWC 2021)](https://2021.eswc-conferences.org/)
