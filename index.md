@@ -355,6 +355,7 @@ IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)),
 
 
 Scientific Conference Organization:
+ - Tutorial/Demo Chair of [ITADATA 2023](https://www.itadata.it/2023/committees), the 2nd Italian Conference on Big Data and Data Science, Naples, Italy (Sept 11-13, 2023)
  - co-Chair and Local Organizer of the [Post-SEBD2020](https://sebd2020.unica.it/workshop-post-sebd), Workshop Post-SEBD in memory of *Prof. Antonio Picariello* (Villasimius, September 3-7, 2020)
  - PC Chair of [SEBD 2020](https://sebd2020.unica.it/) 28th Italian Symposium on Advanced Database Systems (online due to covid-19 emergency, June 21-24 2020)
  - Publicity Chair of the [2020 IEEE International Conference on Semantic Computing (ICSC2020)](http://www.ieee-icsc.org)
@@ -379,9 +380,9 @@ PC Member for a number of International Conferences and Workshops, including:
  - PC Member of [ESWC 2023](https://2023.eswc-conferences.org/), Extended Semantic Web Conference, May 28 - June 1 in Hersonissos, Greece, 2023
  - PC Member of [ECIR 2023](https://ecir2023.org/), 45th European Conference on Information Retrieval, full research paper track, 2023
  - PC Member of [CIKM 2022](http://www.cikm2022.org/), 31st ACM International Conference on Information and Knowledge Management, October 17-22, 2022, Hybrid Conference, Hosted in Atlanta, Georgia, USA
+ - Italian Symposium on Advanced Database Systems ([SEBD2023](http://sebd2023.dei.unipd.it/), [SEBD2022](https://sebd2022.isti.cnr.it/), [SEBD2021](https://events.dimes.unical.it/sebd2021/), [SEBD2020](https://sebd2020.unica.it/), [SEBD2018](https://sisinflab.poliba.it/sebd/2018/), [SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
  - [ESWC 2022](https://2022.eswc-conferences.org/), Extended Semantic Web Conference, May 29 - June 2, 2022, Hersonissos, Greece
  - [ITADATA2022](https://www.itadata.it/) First Italian Conference on Big Data and Data Science - Milan, Italy September 20-21 2022
- - Italian Symposium on Advanced Database Systems ([SEBD2023](http://sebd2023.dei.unipd.it/), [SEBD2022](https://sebd2022.isti.cnr.it/), [SEBD2021](https://events.dimes.unical.it/sebd2021/), [SEBD2020](https://sebd2020.unica.it/), [SEBD2018](https://sisinflab.poliba.it/sebd/2018/), [SEBD2016](http://sebd2016.unisalento.it/), [SEBD2014](http://www.sebd2014.unina.it/), [SEBD2013](http://www.sebd2013.unirc.it/), [SEBD11](http://db.unibas.it/SEBD2011/))
  - PC Member of [ECIR 2022](https://ecir2022.org/calls/reproducibility/), 44rd European Conference on Information Retrieval, Reproducibility track (Lucca, March 28-April 1, 2021)
  - PC Member of the IEEE ICDM International Workshop on Spatial and Spatiotemporal Data Mining ([SSTDM 2022]([https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM21/](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM22/))), co-located with IEEE ICDM, PC Member since SSTDM-08
  - PC Member of [CIKM 2021](http://www.cikm2021.org/), 30th ACM International Conference on Information and Knowledge Management, 1-5 November 2021, Online. Hosted in Gold Coast, Queensland, Australia
