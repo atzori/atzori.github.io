@@ -377,7 +377,8 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
- - PC Member of [CIKM 2023]([http://www.cikm2022.org/](https://uobevents.eventsair.com/cikm2023/)), 32nd ACM International Conference on Information and Knowledge Management, University of Birmingham and Eastside Rooms, UK Oct 21-25, 2023
+ - PC Member of [ECIR 2024](https://www.ecir2024.org/), 46th European Conference on Information Retrieval, Glasgow, Scotland: 24th-28th March, 2024
+ - PC Member of [CIKM 2023](https://uobevents.eventsair.com/cikm2023/), 32nd ACM International Conference on Information and Knowledge Management, University of Birmingham and Eastside Rooms, UK Oct 21-25, 2023
  - PC Member of [ESWC 2023](https://2023.eswc-conferences.org/), Extended Semantic Web Conference, May 28 - June 1 in Hersonissos, Greece, 2023
  - PC Member of [ECIR 2023](https://ecir2023.org/), 45th European Conference on Information Retrieval, full research paper track, 2023
  - PC Member of [CIKM 2022](http://www.cikm2022.org/), 31st ACM International Conference on Information and Knowledge Management, October 17-22, 2022, Hybrid Conference, Hosted in Atlanta, Georgia, USA
