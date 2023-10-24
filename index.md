@@ -28,17 +28,22 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics*. Looking forward for your submission!
 
-- PC Member of the [ESWC 2022](https://2022.eswc-conferences.org/) conference, Research Track. If you have a great contribution regarding the Semantic Web, submit to this top notch research forum in the field.
+- PI of PRIN22 Project **DEMON: Detect and Evaluate Manipulation of ONline information** (2023-2025)
+
+- PC Member of the [ESWC 2024](https://2024.eswc-conferences.org/) conference, Research Track. If you have a great contribution regarding the Semantic Web, submit to this top notch research forum in the field.
 
 - our [delta-presence work](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) (data anonymization) recently [featured on Springer's Encyclopedia of Cryptography, Security and Privacy](https://doi.org/10.1007/978-3-642-27739-9_1570-1) and **became part of an official Google product**! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
 
 - Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
+<!--
+
 - Co-PI with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/) (UCLA) of a [**Google Research Award**](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html). Our project _Exploiting Structured Queries in Question Answering and Search_ got extended coverage on local press such as [Wired.it](http://www.wired.it/economia/business/2015/03/11/google-award-rivoluzione-dei-motori-ricerca-passa-dalla-sardegna/) (Italian). Previous related work described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in [several languages](http://atzori.webofcode.org/projects/swipe/press).
 
-<!--
+
+- Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics*. Looking forward for your submission!
+
 
 - General Chair and organizer of [IEEE AIKE 2019](https://aike2019.unica.it/), the 2019 IEEE International Conference on [Artificial Intelligence and Knowledge Engineering](http://www.ieee-aike.org/2019/), in [Cagliari, Italy](https://goo.gl/maps/o6nNup5uCjC2)! AI meets the heart of the *Mediterranean Sea*!
 
@@ -355,6 +360,7 @@ IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)),
 
 
 Scientific Conference Organization:
+ - General co-Chair of [SEBD 2024](), 32nd Italian Symposium on Advanced Database Systems (Sardinia, June 2024)
  - Tutorial/Demo Chair of [ITADATA 2023](https://www.itadata.it/2023/committees), the 2nd Italian Conference on Big Data and Data Science, Naples, Italy (Sept 11-13, 2023)
  - co-Chair and Local Organizer of the [Post-SEBD2020](https://sebd2020.unica.it/workshop-post-sebd), Workshop Post-SEBD in memory of *Prof. Antonio Picariello* (Villasimius, September 3-7, 2020)
  - PC Chair of [SEBD 2020](https://sebd2020.unica.it/) 28th Italian Symposium on Advanced Database Systems (online due to covid-19 emergency, June 21-24 2020)
@@ -377,6 +383,7 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
+ - PC Member of [ESWC 2024](https://2024.eswc-conferences.org/), Research track
  - PC Member of [ECIR 2024](https://www.ecir2024.org/), 46th European Conference on Information Retrieval, Glasgow, Scotland: 24th-28th March, 2024
  - PC Member of [CIKM 2023](https://uobevents.eventsair.com/cikm2023/), 32nd ACM International Conference on Information and Knowledge Management, University of Birmingham and Eastside Rooms, UK Oct 21-25, 2023
  - PC Member of [ESWC 2023](https://2023.eswc-conferences.org/), Extended Semantic Web Conference, May 28 - June 1 in Hersonissos, Greece, 2023
