@@ -362,7 +362,8 @@ IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)),
 
 
 Scientific Conference Organization:
- - General co-Chair of [SEBD 2024](), 32nd Italian Symposium on Advanced Database Systems (Sardinia, June 2024)
+ - General co-Chair of [SEBD 2024](https://sebd2024.unica.it/), 32nd Italian Symposium on Advanced Database Systems (Sardinia, June 2024)
+ - Thesis Award Committee [ITADATA 2024](https://www.itadata.it/), The 3rd Italian Conference on Big Data and Data Science (Pisa, September 2024)
  - Tutorial/Demo Chair of [ITADATA 2023](https://www.itadata.it/2023/committees), the 2nd Italian Conference on Big Data and Data Science, Naples, Italy (Sept 11-13, 2023)
  - co-Chair and Local Organizer of the [Post-SEBD2020](https://sebd2020.unica.it/workshop-post-sebd), Workshop Post-SEBD in memory of *Prof. Antonio Picariello* (Villasimius, September 3-7, 2020)
  - PC Chair of [SEBD 2020](https://sebd2020.unica.it/) 28th Italian Symposium on Advanced Database Systems (online due to covid-19 emergency, June 21-24 2020)
