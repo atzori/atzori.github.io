@@ -29,15 +29,17 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 Highlights
 ----------
 
-- PI of PRIN22 Project **DEMON: Detect and Evaluate Manipulation of ONline information** (2023-2025)
+- General Co-Chair of [**SEBD 2024**](https://sebd2024.unica.it/), the 32nd Symposium on Advanced Database Systems that will take place in Villasimius (Sardinia), June 23-26, 2024. Looking forward to your submission! (deadline March 3, 2024)
+ 
+- PI of PRIN22 Project [**DEMON: Detect and Evaluate Manipulation of ONline information**](https://demon-prin.github.io/) (Oct 2023-Oct 2025)
 
-- PC Member of the [ESWC 2024](https://2024.eswc-conferences.org/) conference, Research Track. If you have a great contribution regarding the Semantic Web, submit to this top notch research forum in the field.
+- our [delta-presence](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) data anonymity attack and sanitization has been [featured on Springer's Encyclopedia of Cryptography, Security and Privacy](https://doi.org/10.1007/978-3-642-27739-9_1570-1) and **became part of an official Google product**! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
 
-- our [delta-presence work](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) (data anonymization) recently [featured on Springer's Encyclopedia of Cryptography, Security and Privacy](https://doi.org/10.1007/978-3-642-27739-9_1570-1) and **became part of an official Google product**! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
-
-- Area Editor of the [Encyclopedia with Semantic Computing](http://www.worldscientific.com/worldscinet/esc). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
+- Area Editor of the [Encyclopedia with Semantic Computing and Robotic Intelligence](http://www.worldscientific.com/worldscinet/escri). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
 <!--
+
+- PC Member of the [ESWC 2024](https://2024.eswc-conferences.org/) conference, Research Track. 
 
 - Co-PI with Prof. [Carlo Zaniolo](http://www.cs.ucla.edu/~zaniolo/) (UCLA) of a [**Google Research Award**](http://googleresearch.blogspot.com/2015/02/google-faculty-research-awards-winter.html). Our project _Exploiting Structured Queries in Question Answering and Search_ got extended coverage on local press such as [Wired.it](http://www.wired.it/economia/business/2015/03/11/google-award-rivoluzione-dei-motori-ricerca-passa-dalla-sardegna/) (Italian). Previous related work described by international magazine [New Scientist](http://www.newscientist.com/article/dn21625-new-search-tool-to-unlock-wikipedia.html), [ZDNet](http://www.zdnet.com/blog/feeds/swipe-allows-deep-search-semantic-queries-using-the-wikipedia-ui/4698), [Communications of the ACM](http://cacm.acm.org/news/147727-new-search-tool-to-unlock-wikipedia/fulltext) and translated in [several languages](http://atzori.webofcode.org/projects/swipe/press).
 
