@@ -131,11 +131,9 @@ Publications
 
 An updated list of my publications can be found at [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/n-tree/a/Atzori:Maurizio.html), as reported in the Computer Science Bibliography maintained by Michael Ley.
 
-<!--Another source is the [Research Catalog of the University of Cagliari](http://anagrafericerca.unica.it/anagrafe/it/risultati_prodotti.wp?tipo=RIC_PROD&id=RIC86316&new=1).-->
-
-Another source is the [Research Catalog of the University of Cagliari](https://iris.unica.it/simple-search?query=rp01978).
-
- 1. [From Text to Data: Extracting Structured Information and Querying it via KGQA and BESt Queries](https://ceur-ws.org/Vol-3340/paper62.pdf). Maurizio Atzori. _The 1st Italian Conference on Big Data and Data Science_ ([ITADATA 2022](https://www.itadata.it/))  (2022)
+ 1. [Conversational Agents for Energy Awareness and Efficiency: A Survey](). Manuela Sanguinetti, Maurizio Atzori. Submitted to journal (2023).
+ 1. [Dataspaces: concepts, architectures and initiatives](https://swlab.unica.it/papers/ITADATA2023_CR-dataspaces.pdf). Maurizio Atzori, Angelo Ciaramella, Claudia Diamantini, Beniamino Di Martino, Salvatore Distefano, Tullio Facchinetti, Fabrizio Montecchiani, Antonino Nocera, Giancarlo Ruffo, Roberto Trasarti. _The 2nd Italian Conference on Big Data and Data Science_ ([ITADATA 2023](https://www.itadata.it/2023))  (2023)
+ 1. [From Text to Data: Extracting Structured Information and Querying it via KGQA and BESt Queries](https://ceur-ws.org/Vol-3340/paper62.pdf). Maurizio Atzori. _The 1st Italian Conference on Big Data and Data Science_ 9rì([ITADATA 2022](https://www.itadata.it/2022))  (2022)
  1. [rewordQALD9: A Bilingual Benchmark with Alternative Rewordings of QALD Questions]([https://drive.google.com/file/d/1ezD8YwkaKhcbDS9cghfT0TQfF78XpB6B/view?usp=sharing](http://ceur-ws.org/Vol-3235/paper7.pdf)). Manuela Sanguinetti, Maurizio Atzori and Nicoletta Puddu. _ Proceedings of the [SEMANTiCS Conference 2022](https://2022-eu.semantics.cc/programme), poster session. (2022) 
  1. [δ-Presence](https://doi.org/10.1007/978-3-642-27739-9_1570-1). Mehmet Ercan Nergiz, Maurizio Atzori, Chris Clifton. In: Jajodia S., Samarati P., Yung M. (eds) *Encyclopedia of Cryptography, Security and Privacy*. Springer, Berlin, Heidelberg. (2021)
  1. [Improving Work Life Conditions via Portable Knowledge-Driven Recommender System](http://ceur-ws.org/Vol-2994/paper57.pdf). Maurizio Atzori, Alessandro Barenghi, Sara Comai, Mariagrazia Fugini, Diego Marcia, Gerardo Pelosi, Manuela Sanguinetti, Vincenzo Scotti. _[SEBD 2021](https://events.dimes.unical.it/sebd2021/) - Proceedings of the 29th Italian Symposium on Advanced Database Systems_, Pizzo Calabro (2021)
