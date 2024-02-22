@@ -31,7 +31,7 @@ Highlights
 
 - General Co-Chair of [**SEBD 2024**](https://sebd2024.unica.it/), the 32nd Symposium on Advanced Database Systems that will take place in Villasimius (Sardinia), June 23-26, 2024. Looking forward to your submission! (deadline March 3, 2024)
  
-- PI of PRIN22 Project [**DEMON: Detect and Evaluate Manipulation of ONline information**](https://demon-prin.github.io/) (Oct 2023-Oct 2025)
+- PI of PRIN22 Project [**DEMON: Detect and Evaluate Manipulation of ONline information**](https://demon.unica.it/), partnering with the internationally distinguished research team of [Prof. Stefano Ceri](https://ceri.faculty.polimi.it/) @ POLIMI (Oct 2023-Oct 2025)
 
 - our [delta-presence](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) data anonymity attack and sanitization has been [featured on Springer's Encyclopedia of Cryptography, Security and Privacy](https://doi.org/10.1007/978-3-642-27739-9_1570-1) and **became part of an official Google product**! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
 
@@ -335,9 +335,10 @@ Journal Editor:
  - Guest Editor of the [Special Issue on Advanced Learning Methods for Complex Data](https://www.mdpi.com/journal/information/special_issues/DEW_2018). _Information J. 2019_, 10(1), 8; Artificial Intelligence section (2019)
  
 Other journal-related editorial activities:
- - Serving as Reviewer for the following major database and data mining international journals:
+ - Served as Reviewer for the following major database and data mining international journals:
 ACM Transactions on Database Systems ([TODS]()), 
-IEEE Transactions on Knowledge and Data Engineering ([TKDE]()), 
+IEEE Transactions on Knowledge and Data Engineering ([TKDE]()),
+The Proceedings of the VLDB (PVLDB, Vol. 18),
 The International Journal on Very Large Data Bases ([VLDB Journal]()),
 ACM Transactions on the Web ([TWEB]()),
 International Journal on Data and Knowledge Engineering ([DKE]()),
@@ -384,6 +385,7 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
+ - Member of the Review Board for PVLDB Volume 18 for the [VLDB 2025](https://www.vldb.org/2025/), 51st International Conference on Very Large Data BasesLondon, United Kingdom - August 28 to September 1, 2025 
  - PC Member of [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/bigdata2024/index.html), Washington DC, USA, December 15-18, 2024
  - PC Member of [SIGIR 2024](https://sigir-2024.github.io/), The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, _Resource and Reproducibility Track_, Washington DC, July 14-18, 2024
  - PC Member of [ESWC 2024](https://2024.eswc-conferences.org/), Research track
