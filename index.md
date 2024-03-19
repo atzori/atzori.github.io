@@ -131,6 +131,7 @@ Publications
 
 An updated list of my publications can be found at [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/n-tree/a/Atzori:Maurizio.html), as reported in the Computer Science Bibliography maintained by Michael Ley.
 
+ 1. [Snarci at SemEval-2024 Task 4: Themis Model for Binary Classification of Memes](). Luca Zedda, Alessandra Perniciano, Andrea Loddo, Cecilia Di Ruberto, Manuela Sanguinetti, Maurizio Atzori. SemEval 2024 (2024)
  1. [Conversational Agents for Energy Awareness and Efficiency: A Survey](https://doi.org/10.3390/electronics13020401). Manuela Sanguinetti, Maurizio Atzori. Special Issue on _[Towards a Sustainable Future: Addressing AI and Big Data, Energy, Climate, and Public Healthcare Challenges](https://www.mdpi.com/journal/electronics/special_issues/XOAO894F31)_, Electronics Journal (2023, published in Jan 2024).
  1. [Dataspaces: concepts, architectures and initiatives](https://swlab.unica.it/papers/ITADATA2023_CR-dataspaces.pdf). Maurizio Atzori, Angelo Ciaramella, Claudia Diamantini, Beniamino Di Martino, Salvatore Distefano, Tullio Facchinetti, Fabrizio Montecchiani, Antonino Nocera, Giancarlo Ruffo, Roberto Trasarti. _The 2nd Italian Conference on Big Data and Data Science_ ([ITADATA 2023](https://www.itadata.it/2023))  (2023)
  1. [From Text to Data: Extracting Structured Information and Querying it via KGQA and BESt Queries](https://ceur-ws.org/Vol-3340/paper62.pdf). Maurizio Atzori. _The 1st Italian Conference on Big Data and Data Science_ 9rì([ITADATA 2022](https://www.itadata.it/2022))  (2022)
