@@ -388,6 +388,7 @@ Scientific Conference Organization:
 PC Member for a number of International Conferences and Workshops, including:
  - Member of the Review Board for PVLDB Volume 18 for the [VLDB 2025](https://www.vldb.org/2025/), 51st International Conference on Very Large Data BasesLondon, United Kingdom - August 28 to September 1, 2025 
  - PC Member of [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/bigdata2024/index.html), Washington DC, USA, December 15-18, 2024
+ - PC Member of [CIKM 2024](https://www.cikm2024.org), 33rd ACM International Conference on Information and Knowledge Management, Short Research Papers Track. Boise, Idaho, USA, October 21–25, 2024
  - PC Member of [SIGIR 2024](https://sigir-2024.github.io/), The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, _Resource and Reproducibility Track_, Washington DC, July 14-18, 2024
  - PC Member of [ESWC 2024](https://2024.eswc-conferences.org/), Research track
  - PC Member of [ECIR 2024](https://www.ecir2024.org/), 46th European Conference on Information Retrieval, Glasgow, Scotland: 24th-28th March, 2024
