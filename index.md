@@ -390,6 +390,7 @@ PC Member for a number of International Conferences and Workshops, including:
  - PC Member of [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/bigdata2024/index.html), Washington DC, USA, December 15-18, 2024
  - PC Member of [CIKM 2024](https://www.cikm2024.org), 33rd ACM International Conference on Information and Knowledge Management, Short Research Papers Track. Boise, Idaho, USA, October 21–25, 2024
  - PC Member of [SIGIR 2024](https://sigir-2024.github.io/), The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, _Resource and Reproducibility Track_, Washington DC, July 14-18, 2024
+ - PC Member of [IIR 2024](https://iir2024.uniud.it/), the 14th Italian Information Retrieval Workshop (IIR 2024), Udine, Italy, on September 5-6, 2024.
  - PC Member of [ESWC 2024](https://2024.eswc-conferences.org/), Research track
  - PC Member of [ECIR 2024](https://www.ecir2024.org/), 46th European Conference on Information Retrieval, Glasgow, Scotland: 24th-28th March, 2024
  - PC Member of [ITADATA2024](https://www.itadata.it/) The 3rd Italian Conference on Big Data and Data Science - Pisa, Italy, September 2024
