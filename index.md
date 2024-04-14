@@ -388,13 +388,13 @@ Scientific Conference Organization:
 PC Member for a number of International Conferences and Workshops, including:
  - Member of the Review Board for PVLDB Volume 18 for the [VLDB 2025](https://www.vldb.org/2025/), 51st International Conference on Very Large Data BasesLondon, United Kingdom - August 28 to September 1, 2025 
  - PC Member of [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/bigdata2024/index.html), Washington DC, USA, December 15-18, 2024
- - PC Member of [CIKM 2024](https://www.cikm2024.org), 33rd ACM International Conference on Information and Knowledge Management, Short Research Papers Track. Boise, Idaho, USA, October 21–25, 2024
+ - PC Member of [CIKM 2024](https://www.cikm2024.org), 33rd ACM International Conference on Information and Knowledge Management, both Full and Short Research Paper Tracks. Boise, Idaho, USA, October 21–25, 2024
  - PC Member of [SIGIR 2024](https://sigir-2024.github.io/), The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, _Resource and Reproducibility Track_, Washington DC, July 14-18, 2024
  - PC Member of [IIR 2024](https://iir2024.uniud.it/), the 14th Italian Information Retrieval Workshop (IIR 2024), Udine, Italy, on September 5-6, 2024.
  - PC Member of [ESWC 2024](https://2024.eswc-conferences.org/), Research track
  - PC Member of [ECIR 2024](https://www.ecir2024.org/), 46th European Conference on Information Retrieval, Glasgow, Scotland: 24th-28th March, 2024
  - PC Member of [ITADATA2024](https://www.itadata.it/) The 3rd Italian Conference on Big Data and Data Science - Pisa, Italy, September 2024
- - PC Member of [CIKM 2023](https://uobevents.eventsair.com/cikm2023/), 32nd ACM International Conference on Information and Knowledge Management, University of Birmingham and Eastside Rooms, UK Oct 21-25, 2023
+ - PC Member of [CIKM 2023](https://uobevents.eventsair.com/cikm2023/), 32nd ACM International Conference on Information and Knowledge Management, University of Birmingham and Eastside Rooms. Both Full and Short Research Paper Tracks. UK Oct 21-25, 2023
  - PC Member of [ESWC 2023](https://2023.eswc-conferences.org/), Extended Semantic Web Conference, May 28 - June 1 in Hersonissos, Greece, 2023
  - PC Member of [ECIR 2023](https://ecir2023.org/), 45th European Conference on Information Retrieval, full research paper track, 2023
  - PC Member of [CIKM 2022](http://www.cikm2022.org/), 31st ACM International Conference on Information and Knowledge Management, October 17-22, 2022, Hybrid Conference, Hosted in Atlanta, Georgia, USA
