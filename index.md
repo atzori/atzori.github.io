@@ -33,7 +33,7 @@ Highlights
  
 - PI of PRIN22 Project [**DEMON: Detect and Evaluate Manipulation of ONline information**](https://demon.unica.it/), partnering with the internationally distinguished research team of [Prof. Stefano Ceri](https://ceri.faculty.polimi.it/) @ POLIMI (Oct 2023-Oct 2025)
 
-- PC Member of [VLDB 2025](https://www.vldb.org/2025/), [IEEE ICDM 2024](https://icdm2024.org/), [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/bigdata2024/index.html), [CIKM 2024](https://www.cikm2024.org), [SIGIR 2024](https://sigir-2024.github.io/), [ESWC 2024](https://2024.eswc-conferences.org/)
+- PC Member of [VLDB 2025](https://www.vldb.org/2025/), [IEEE ICDM 2024](https://icdm2024.org/), [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/bigdata2024/index.html), [ACM CIKM 2024](https://www.cikm2024.org), [ACM SIGIR 2024](https://sigir-2024.github.io/), [ESWC 2024](https://2024.eswc-conferences.org/)
 
 - our [delta-presence](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) data anonymity attack and sanitization has been [featured on Springer's Encyclopedia of Cryptography, Security and Privacy](https://doi.org/10.1007/978-3-642-27739-9_1570-1) and **became part of an official Google product**! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
 
