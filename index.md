@@ -103,7 +103,9 @@ Teaching
  
  - [Artificial Intelligence and Natural Language Understanding (Reading course)](http://corsi.unica.it/informatica/presentazione-corsi-di-laurea/laurea-magistrale/reading-courses-aa-2017-2018/artificial-intelligence-and-natural-language-understanding/) for master students (only on A.A. 2018/19)
 
- - [Artificial Intelligence: Natural Language Processing and Understanding](https://elearning.unica.it/course/view.php?id=284) for master students (through Moodle e-learning platform, since A.A. 2019/20)
+ - [Natural Language Processing and Knowledge Graphs](https://elearning.unica.it/course/view.php?id=284) for master students (through Moodle e-learning platform, since A.A. 2023/24)
+
+ - [Artificial Intelligence: Natural Language Processing and Understanding, (https://elearning.unica.it/course/view.php?id=284) for master students (through Moodle e-learning platform, A.A. 2019/20-2022/23)
 
  
 
@@ -134,6 +136,8 @@ Publications
 
 An updated list of my publications can be found at [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/n-tree/a/Atzori:Maurizio.html), as reported in the Computer Science Bibliography maintained by Michael Ley.
 
+1. [From User Preferences to Optimization Constraints Using Large Language Models](). Manuela Sanguinetti, Alessandra Perniciano, Luca Zedda, Andrea Loddo, Cecilia Di Ruberto, Maurizio Atzori.  _The 3rd Italian Conference on Big Data and Data Science_ ([ITADATA 2024](https://www.itadata.it/)), Pisa, Italy  (2024)
+2. [A Comparative Analysis of Image Descriptors for Histopathological Classification of Gastric Cancer](). Marco Usai, Andrea Loddo, Maurizio Atzori, Cecilia Di Ruberto.  _The 3rd Italian Conference on Big Data and Data Science_ ([ITADATA 2024](https://www.itadata.it/)), Pisa, Italy  (2024)
  1. [Evaluating Password Strength Based on Information Spread on Social Networks: A Combined Approach Relying on Data Reconstruction and Generative Models](https://www.sciencedirect.com/journal/online-social-networks-and-media). Maurizio Atzori, Eleonora Calò, Loredana Caruccio, Stefano Cirillo, Giuseppe Polese, Giandomenico Solimando. Online Social Networks and Media (OSNEM) Journal, Elsevier, 2024.
  1. [Snarci at SemEval-2024 Task 4: Themis Model for Binary Classification of Memes](). Luca Zedda, Alessandra Perniciano, Andrea Loddo, Cecilia Di Ruberto, Manuela Sanguinetti, Maurizio Atzori. SemEval 2024 (2024)
  1. [Conversational Agents for Energy Awareness and Efficiency: A Survey](https://doi.org/10.3390/electronics13020401). Manuela Sanguinetti, Maurizio Atzori. Special Issue on _[Towards a Sustainable Future: Addressing AI and Big Data, Energy, Climate, and Public Healthcare Challenges](https://www.mdpi.com/journal/electronics/special_issues/XOAO894F31)_, Electronics Journal (2023, published in Jan 2024).
