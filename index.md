@@ -405,6 +405,7 @@ PC Member for a number of International Conferences and Workshops, including:
  - PC Member of [ESWC 2024](https://2024.eswc-conferences.org/), Research track
  - PC Member of [ECIR 2024](https://www.ecir2024.org/), 46th European Conference on Information Retrieval, Glasgow, Scotland: 24th-28th March, 2024
  - PC Member of [ITADATA2024](https://www.itadata.it/) The 3rd Italian Conference on Big Data and Data Science - Pisa, Italy, September 2024
+ - PC Member of [SIMBig 2024](https://simbig.org/SIMBig2024/), 11th International Conference on Information Management and Big Data, Unam (Peru), 20-22 November 2024
  - PC Member of [CIKM 2023](https://uobevents.eventsair.com/cikm2023/), 32nd ACM International Conference on Information and Knowledge Management, University of Birmingham and Eastside Rooms. Both Full and Short Research Paper Tracks. UK Oct 21-25, 2023
  - PC Member of [ESWC 2023](https://2023.eswc-conferences.org/), Extended Semantic Web Conference, May 28 - June 1 in Hersonissos, Greece, 2023
  - PC Member of [ECIR 2023](https://ecir2023.org/), 45th European Conference on Information Retrieval, full research paper track, 2023
