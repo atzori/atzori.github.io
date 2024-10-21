@@ -365,7 +365,7 @@ IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)),
 [Expert Systems With Applications](https://www.journals.elsevier.com/expert-systems-with-applications),
 [Information and Software Technology](https://www.journals.elsevier.com/information-and-software-technology),
 [Applied Ontology](http://applied-ontology.org),
-[Nature ScientificReports](https://www.nature.com/srep/).
+[Nature Scientific Reports](https://www.nature.com/srep/).
 
  - Served as Reviewer for the [Journal of AI and Data Mining (JAIDM)](http://jad.shahroodut.ac.ir/)
  - Served for the [Zentralblatt-Math](http://www.zentralblatt-math.org/zmath/en/) review database of mathematics.
