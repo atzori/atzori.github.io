@@ -396,6 +396,7 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
+ - PC Member of [ESWC 2025](https://2025.eswc-conferences.org/), Research track, Slovenia, June 1-5, 2025
  - Member of the Review Board for PVLDB Volume 18 for the [VLDB 2025](https://www.vldb.org/2025/), 51st International Conference on Very Large Data BasesLondon, United Kingdom - August 28 to September 1, 2025
  - PC Member of [IEEE ICDM 2024](https://icdm2024.org/), the  2024 IEEE International Conference on Data Mining, Abu Dhabi, UAE, December 9-12, 2024
  - PC Member of [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/bigdata2024/index.html), Washington DC, USA, December 15-18, 2024
