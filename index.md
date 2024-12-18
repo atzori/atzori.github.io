@@ -460,6 +460,7 @@ Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes
 - PC member of the First ACM SIGKDD Workshop on Privacy, Security, and Trust in KDD (PinKDD'07), joint with ACM SIGKDD 2007
 
 Served as Reviewer for a number of international conferences and workshops, including:
+<a href="https://2025.aclweb.org/">ACL 2025</a>,
 <a href="http://www-aiia2003.di.unipi.it/aiia2003/index-eng.html">AI&#42;IA03</a>,
 <a href="http://www.unica.it/SEBD/index.htm">SEBD04</a>, 
 <a href="http://ecmlpkdd.isti.cnr.it/">ECML04 and PKDD04</a>, 
