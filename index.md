@@ -459,6 +459,7 @@ Ontologies, DataBases, and Applications of Semantics (27-28 October 2020, Rhodes
 - PC Member of the IADIS European Conference on Data Mining 2008 (MCCSIS-DM08)
 - PC member of the First ACM SIGKDD Workshop on Privacy, Security, and Trust in KDD (PinKDD'07), joint with ACM SIGKDD 2007
 
+Served as Session Chair for a number of conferences, recently at [ICDM 2024](https://icdm2024.org/).
 Served as Reviewer for a number of international conferences and workshops, including:
 <a href="https://2025.aclweb.org/">ACL 2025</a>,
 <a href="http://www-aiia2003.di.unipi.it/aiia2003/index-eng.html">AI&#42;IA03</a>,
