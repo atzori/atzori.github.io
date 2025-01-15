@@ -28,16 +28,17 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-
-- General Co-Chair of [**SEBD 2024**](https://sebd2024.unica.it/), the 32nd Symposium on Advanced Database Systems that will take place in Villasimius (Sardinia), June 23-26, 2024. Looking forward to meeting you at Tanka Village Villasimius!
- 
 - PI of PRIN22 Project [**DEMON: Detect and Evaluate Manipulation of ONline information**](https://demon.unica.it/), partnering with the internationally distinguished research team of [Prof. Stefano Ceri](https://ceri.faculty.polimi.it/) @ POLIMI (Oct 2023-Oct 2025)
 
-- PC Member of [VLDB 2025](https://www.vldb.org/2025/), [ESWC 2025](https://2025.eswc-conferences.org/), [IEEE ICDM 2024](https://icdm2024.org/), [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/bigdata2024/index.html), [ACM CIKM 2024](https://www.cikm2024.org), [ACM SIGIR 2024](https://sigir-2024.github.io/)
-
+- PC Member of [VLDB 2025](https://www.vldb.org/2025/), [ACM SIGIR 2025](https://sigir2025.dei.unipd.it/), [ESWC 2025](https://2025.eswc-conferences.org/), [IEEE ICDM 2024](https://icdm2024.org/), [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/bigdata2024/index.html), [ACM CIKM 2024](https://www.cikm2024.org) 
+ 
 - our [delta-presence](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) data anonymity attack and sanitization has been [featured on Springer's Encyclopedia of Cryptography, Security and Privacy](https://doi.org/10.1007/978-3-642-27739-9_1570-1) and **became part of an official Google product**! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
 
+
+- General Co-Chair of [**SEBD 2024**](https://sebd2024.unica.it/), the 32nd Symposium on Advanced Database Systems that will take place in Villasimius (Sardinia), June 23-26, 2024. Looking forward to meeting you at Tanka Village Villasimius!
+
 <!--
+
 - Area Editor of the [Encyclopedia with Semantic Computing and Robotic Intelligence](http://www.worldscientific.com/worldscinet/escri). Interested in publishing an entry in the enciclopedia? [Details are available](http://community.worldfolios.com/public/ESC-Production.pdf), or just drop me an email!
 
 
@@ -396,6 +397,7 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
+ - PC Member of [SIGIR 2025](https://sigir2025.dei.unipd.it/), the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, _Resource and Reproducibility Track_, July 13-18, 2025 | Padua, Italy
  - PC Member of [LLM-SOA at CAiSE 2025](https://dbwis.gitlab.io/llm-soa/), 1st Workshop on Large Language Models for Service-Oriented Architectures and Systems Design to be held in conjunction with CAiSE 2025 - 37th International Conference on Advanced Information Systems Engineering, June 16-20, 2025 - Vienna, Austria)
  - PC Member of [ESWC 2025](https://2025.eswc-conferences.org/), Research track, Slovenia, June 1-5, 2025
  - Member of the Review Board for PVLDB Volume 18 for the [VLDB 2025](https://www.vldb.org/2025/), 51st International Conference on Very Large Data BasesLondon, United Kingdom - August 28 to September 1, 2025
