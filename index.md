@@ -373,6 +373,7 @@ IEEE Access ([IEEEAccess](https://ieeeaccess.ieee.org/)),
 
 
 Scientific Conference Organization:
+ - Local Organizing Committee of [CLiC-it 2025](https://clic2025.unica.it/), the 11th Italian Conference on Computational Linguistics, 24 - 26 September 2025, Cagliari, Italy
  - General co-Chair of [SEBD 2024](https://sebd2024.unica.it/), 32nd Italian Symposium on Advanced Database Systems (Sardinia, June 2024)
  - Best Thesis Award Committee [ITADATA 2024](https://www.itadata.it/), The 3rd Italian Conference on Big Data and Data Science (Pisa, September 2024)
  - Tutorial/Demo Chair of [ITADATA 2023](https://www.itadata.it/2023/committees), the 2nd Italian Conference on Big Data and Data Science, Naples, Italy (Sept 11-13, 2023)
