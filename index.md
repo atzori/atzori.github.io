@@ -137,6 +137,7 @@ Publications
 
 An updated list of my publications can be found at [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/n-tree/a/Atzori:Maurizio.html), as reported in the Computer Science Bibliography maintained by Michael Ley.
 
+1. [Is it fake or not? A comprehensive approach for multimodal fake news detection](https://doi.org/10.1016/j.osnem.2025.100314). Davide Antonio Mura, Marco Usai, Andrea Loddo, Manuela Sanguinetti, Luca Zedda, Cecilia Di Ruberto, Maurizio Atzori. _Online Social Networks and Media Journal_. Volume 47, July 2025
 1. [Assessing Italian Large Language Models on Energy Feedback Generation: A Human Evaluation Study](https://clic2024.ilc.cnr.it/). Manuela Sanguinetti, Alessandro Pani, Alessandra Perniciano, Luca Zedda, Andrea Loddo, Maurizio Atzori. _CLiC-it 2024 – Tenth Italian Conference on Computational Linguistics_, ([CLiC-it 2024](https://clic2024.ilc.cnr.it/)), December 2024, Pisa
 1. [From User Preferences to Optimization Constraints Using Large Language Models](). Manuela Sanguinetti, Alessandra Perniciano, Luca Zedda, Andrea Loddo, Cecilia Di Ruberto, Maurizio Atzori.  _The 3rd Italian Conference on Big Data and Data Science_ ([ITADATA 2024](https://www.itadata.it/)), Pisa, Italy  (2024)
 2. [A Comparative Analysis of Image Descriptors for Histopathological Classification of Gastric Cancer](). Marco Usai, Andrea Loddo, Maurizio Atzori, Cecilia Di Ruberto.  _The 3rd Italian Conference on Big Data and Data Science_ ([ITADATA 2024](https://www.itadata.it/)), Pisa, Italy  (2024)
