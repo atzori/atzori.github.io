@@ -15,7 +15,7 @@ L'esame di PR2 è suddiviso in 2 prove (tra parentesi il peso di ciascuna prova 
  - pratica (65%)
 
 Per presentarsi agli appelli è necessario:
- 1. registrarsi *almeno 3 giorni prima* all'appello desiderato sul sistema [ESSE3](https://unica.esse3.cineca.it/)
+ 1. registrarsi *almeno 7 giorni prima* all'appello desiderato sul sistema [ESSE3](https://unica.esse3.cineca.it/) e comunque entro i termini specificati su esse3
  2. presentarsi all'appello muniti di _libretto universitario con foto_ o _documento d'identità con foto_
  3. avere un account valido e funzionante registrato alla [pagina del corso di elearning.unica.it](https://elearning.unica.it/course/view.php?id=121)
  4. risultare regolare con la frequenza al corso 
