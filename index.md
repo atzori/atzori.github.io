@@ -402,6 +402,7 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
+ - PC Member of [WWW 2026](https://www2026.thewebconf.org/), Research Track (Semantic and Knowledge), The ACM WEB Conference 2026. Dubai, United Arab Emirates, April 13-17, 2026
  - PC Member of [ACM SAC 2025 Special Track on Knowledge and Natural Language Processing](http://knlp-sac.github.io/2026/), The 41st ACM/SIGAPP Symposium On Applied Computing. Thessaloniki, Greece (2026)
  - PC Member of [SIGIR 2025](https://sigir2025.dei.unipd.it/), the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, _Resource and Reproducibility Track_, July 13-18, 2025 | Padua, Italy
  - PC Member of [LLM-SOA at CAiSE 2025](https://dbwis.gitlab.io/llm-soa/), 1st Workshop on Large Language Models for Service-Oriented Architectures and Systems Design to be held in conjunction with CAiSE 2025 - 37th International Conference on Advanced Information Systems Engineering, June 16-20, 2025 - Vienna, Austria)
