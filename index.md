@@ -28,7 +28,7 @@ Graduate Studies "Galileo Galilei"</a>, University of Pisa.-->
 
 Highlights
 ----------
-- PI of PRIN22 Project [**DEMON: Detect and Evaluate Manipulation of ONline information**](https://demon.unica.it/), partnering with the internationally distinguished research team of [Prof. Stefano Ceri](https://ceri.faculty.polimi.it/) @ POLIMI (Oct 2023-Oct 2025)
+- PI of PRIN22 Project [**DEMON: Detect and Evaluate Manipulation of ONline information**](https://demon.unica.it/), partnering with the internationally distinguished research team of [Prof. Stefano Ceri](https://ceri.faculty.polimi.it/) @ POLIMI (Oct 2023-Feb 2026)
 
 - PC Member of [VLDB 2025](https://www.vldb.org/2025/), [ACM SIGIR 2025](https://sigir2025.dei.unipd.it/), [ESWC 2025](https://2025.eswc-conferences.org/), [IEEE ICDM 2024](https://icdm2024.org/), [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/bigdata2024/index.html), [ACM CIKM 2024](https://www.cikm2024.org) 
  
