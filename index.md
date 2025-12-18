@@ -137,6 +137,9 @@ Publications
 
 An updated list of my publications can be found at [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/n-tree/a/Atzori:Maurizio.html), as reported in the Computer Science Bibliography maintained by Michael Ley.
 
+
+
+1. [Phishing Detection in Web Domains: new intelligent tool leveraging the effectiveness of emerging Generative models](), Carmine	Ambrosino, Maurizio	Atzori, Stefano	Cirillo, Domenico	Desiato, Simona	Ettari, Giuseppe	Polese, Giandomenico	Solimando. _The 19th ACM International Conference on Web Search and Data Mining (WSDM 2026)_, Demo Track. Boise, Idaho (USA), February 22-26, 2026.
 1. [Exploring the Dataset Landscape for Automated Propaganda Detection: A Data-Centric Insight](https://www.itadata.it/2025/proceedings/). Marco Usai, Davide Antonio Mura, Andrea Loddo, Manuela Sanguinetti, Luca Zedda, Cecilia Di Ruberto, Maurizio Atzori.  _The 4th Italian Conference on Big Data and Data Science_ ([ITADATA 2025](https://www.itadata.it/)), Turin, Italy  (2025)
 1. [DEMON at SemEval-2025 Task 10: Fine-tuning LLaMA-3 for Multilingual Entity Framing](https://aclanthology.org/2025.semeval-1.192/). Matteo Fenu, Manuela Sanguinetti, and Maurizio Atzori. In Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), pages 1456–1464, Vienna, Austria. ACL, 2025
 1. [iLostTheCode at SemEval-2025 Task 10: Bottom-up Multilevel Classification of Narrative Taxonomies](https://aclanthology.org/2025.semeval-1.85/). Lorenzo Concas, Manuela Sanguinetti, Maurizio Atzori. In Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), pages 607–616, Vienna, Austria. ACL, 2025
@@ -406,6 +409,7 @@ Scientific Conference Organization:
 PC Member for a number of International Conferences and Workshops, including:
  - PC Member of [WWW 2026](https://www2026.thewebconf.org/), Research Track (Semantic and Knowledge), The ACM WEB Conference 2026. Dubai, United Arab Emirates, April 13-17, 2026
  - PC Member of Workshop on [GLOW - Graph-enhanced LLMs for trustwOrthy Web data management](https://glow-workshop.github.io/www2026/), held as part of the The ACM Web Conference (WWW ’26), April 13-17, 2026
+ - PC Member of [LLM-SOA at CAiSE 2026](https://dbwis.gitlab.io/llm-soa/), 2nd Workshop on Large Language Models for Service-Oriented Architectures and Systems Design to be held in conjunction with CAiSE 2026 -  38th International Conference on Advanced Information Systems Engineering, June 8-12, 2026 - Verona, Italy
  - PC Member of [ACM SAC 2025 Special Track on Knowledge and Natural Language Processing](http://knlp-sac.github.io/2026/), The 41st ACM/SIGAPP Symposium On Applied Computing. Thessaloniki, Greece (2026)
  - PC Member of [SIGIR 2025](https://sigir2025.dei.unipd.it/), the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, _Resource and Reproducibility Track_, July 13-18, 2025 | Padua, Italy
  - PC Member of [LLM-SOA at CAiSE 2025](https://dbwis.gitlab.io/llm-soa/), 1st Workshop on Large Language Models for Service-Oriented Architectures and Systems Design to be held in conjunction with CAiSE 2025 - 37th International Conference on Advanced Information Systems Engineering, June 16-20, 2025 - Vienna, Austria)
