@@ -235,6 +235,11 @@ Projects
 --------
 Member of the following projects and research groups:
 
+- [VANTAGE](https://vantageproject.eu/) EU project on Next-Generation Cybersecurity, with focus on AI Automation (€7M). co-PI of the UniCA Unit 
+- [DEMON](https://demon.unica.it/) Detect and Evaluate Manipulation of ONline information. PI of the national project (PRIN 2022, 2023-2026, €200K)
+- [SERICS](https://serics.eu/services/spoke-10-governance-protezione-dati/), SPOKE 10 on Data Governance and Data Protection (DGDP). Leader for the UniCA Unit
+- [e.INS](https://www.einssardinia.it/) *Ecosystem of Innovation for Next Generation Sardinia* - SPOKE 7 on *Tecnologie a basse emissioni di carbonio per sistemi energetici efficienti*. Leader of Work Package 6.
+- [NEST](https://fondazionenest.it/)*Network 4 Energy Sustainable Transition*  - SPOKE 8. UniCA Unit Leader for Task T8.2.2 *Real-time energy markets for flexibility and ancillary services (global and local)*.
 - [ASTRID]() Advanced learning STRategies for high-dimensional and Imbalanced Data (Fondazione di Sardegna-UniCA, Annualita 2020, CUP F75F21001220007, 19.10.2021-19.10.2023)
 - [WorkingAge](https://www.workingage.eu) Smart Working environments for all Ages. PI of third party unit (Horizon 2020 RIA Call H2020-SC1-DTH-2018-2020 Digital transformation in Health and Care)
 - [HOPE](http://hope-prin.org/) High quality Open data Publishing and Enrichment, PI of research unit (PRIN 2017, 2019-2022, €928K) <!-- https://sites.google.com/diag.uniroma1.it/prin-hope2017 -->
