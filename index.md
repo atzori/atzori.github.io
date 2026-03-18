@@ -137,7 +137,7 @@ Publications
 
 An updated list of my publications can be found at [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/n-tree/a/Atzori:Maurizio.html), as reported in the Computer Science Bibliography maintained by Michael Ley.
 
-1. [A Unified Framework for Quantifying and Reducing Persuasion within a Text]. Davide Antonio Mura, Andrea Loddo, Manuela Sanguinetti, Maurizio Atzori, Cecilia Di Ruberto. Submitted to Journal (2026)
+1. [A Unified Framework for Quantifying and Reducing Persuasion within a Text](). Davide Antonio Mura, Andrea Loddo, Manuela Sanguinetti, Maurizio Atzori, Cecilia Di Ruberto. Submitted to Journal (2026)
 1. [Supporting Rollback in Parametric Knowledge Editing](). Emanuele Caddeo, Andrea Loddo, Manuela Sanguinetti, Cecilia Di Ruberto, Maurizio Atzori. Submitted to conference (2026)
 1. [GAIMP: Clinical Text Sanitization via Agent-Based Generative Anonymization](https://glow-workshop.github.io/www2026/). Maurizio Atzori, Stefano Cirillo, Alessandro Pani, Giuseppe Polese, Giandomenico Solimando. 1st WWW Workshop on Graph-enhanced LLMs for trustwOrthy Web data management (GLOW), held as part of The ACM Web Conference. Dubai  (2026)
 1. [Unica at FadeIT: Adapting Large Language Models to Fallacy Identification in Social Networks](https://apa.dipsco.unitn.it/evalita2026/41.pdf). Matteo Fenu and Maurizio Atzori. In Proceedings of the _9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2026)_, Track "Pragmatics" named _FadeIT: Fallacy Detection in Italian Social Media Texts_, Bari, Italy, February 26th-27th (2026) 
