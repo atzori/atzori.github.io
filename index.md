@@ -137,8 +137,10 @@ Publications
 
 An updated list of my publications can be found at [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/n-tree/a/Atzori:Maurizio.html), as reported in the Computer Science Bibliography maintained by Michael Ley.
 
-
-
+1. [A Unified Framework for Quantifying and Reducing Persuasion within a Text]. Davide Antonio Mura, Andrea Loddo, Manuela Sanguinetti, Maurizio Atzori, Cecilia Di Ruberto. Submitted to Journal (2026)
+1. [Supporting Rollback in Parametric Knowledge Editing](). Emanuele Caddeo, Andrea Loddo, Manuela Sanguinetti, Cecilia Di Ruberto, Maurizio Atzori. Submitted to conference (2026)
+1. [GAIMP: Clinical Text Sanitization via Agent-Based Generative Anonymization](https://glow-workshop.github.io/www2026/). Maurizio Atzori, Stefano Cirillo, Alessandro Pani, Giuseppe Polese, Giandomenico Solimando. 1st WWW Workshop on Graph-enhanced LLMs for trustwOrthy Web data management (GLOW), held as part of The ACM Web Conference. Dubai  (2026)
+1. [Unica at FadeIT: Adapting Large Language Models to Fallacy Identification in Social Networks](https://apa.dipsco.unitn.it/evalita2026/41.pdf). Matteo Fenu and Maurizio Atzori. In Proceedings of the _9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2026)_, Track "Pragmatics" named _FadeIT: Fallacy Detection in Italian Social Media Texts_, Bari, Italy, February 26th-27th (2026) 
 1. [Phishing Detection in Web Domains: new intelligent tool leveraging the effectiveness of emerging Generative models](), Carmine	Ambrosino, Maurizio	Atzori, Stefano	Cirillo, Domenico	Desiato, Simona	Ettari, Giuseppe	Polese, Giandomenico	Solimando. _The 19th ACM International Conference on Web Search and Data Mining (WSDM 2026)_, Demo Track. Boise, Idaho (USA), February 22-26, 2026.
 1. [Exploring the Dataset Landscape for Automated Propaganda Detection: A Data-Centric Insight](https://www.itadata.it/2025/proceedings/). Marco Usai, Davide Antonio Mura, Andrea Loddo, Manuela Sanguinetti, Luca Zedda, Cecilia Di Ruberto, Maurizio Atzori.  _The 4th Italian Conference on Big Data and Data Science_ ([ITADATA 2025](https://www.itadata.it/)), Turin, Italy  (2025)
 1. [DEMON at SemEval-2025 Task 10: Fine-tuning LLaMA-3 for Multilingual Entity Framing](https://aclanthology.org/2025.semeval-1.192/). Matteo Fenu, Manuela Sanguinetti, and Maurizio Atzori. In Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), pages 1456–1464, Vienna, Austria. ACL, 2025
