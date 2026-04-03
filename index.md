@@ -414,6 +414,7 @@ Scientific Conference Organization:
 <!-- Co-Chair of the Workshop and Special Session Committee, 2017 IEEE International Conference on Semantic Computing. -->
 
 PC Member for a number of International Conferences and Workshops, including:
+ - [GLOW@ISWC'26](https://glow-workshop.github.io/iswc2026/), held as part of the The ISWC 2026 Conference, April 13-17, 2026.
  - PC Member of [WWW 2026](https://www2026.thewebconf.org/), Research Track (Semantic and Knowledge), The ACM WEB Conference 2026. Dubai, United Arab Emirates, April 13-17, 2026
  - PC Member of Workshop on [GLOW - Graph-enhanced LLMs for trustwOrthy Web data management](https://glow-workshop.github.io/www2026/), held as part of the The ACM Web Conference (WWW ’26), April 13-17, 2026
  - PC Member of [LLM-SOA at CAiSE 2026](https://dbwis.gitlab.io/llm-soa/), 2nd Workshop on Large Language Models for Service-Oriented Architectures and Systems Design to be held in conjunction with CAiSE 2026 -  38th International Conference on Advanced Information Systems Engineering, June 8-12, 2026 - Verona, Italy
