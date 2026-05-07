@@ -351,7 +351,8 @@ Member of the following Scientific Societies and Groups:
  -  Steering Committee member of the [SEBD Symposium (Italian Symposium on Advanced Database Systems)](https://sebd.org/index.html#board)
  -  member of the IEEE Computer Society Technical Committee on Semantic Computing (TCSEM)
  -  member of the SIAM Activity Group on Data Mining
- 
+ -  member of the INdAM - Italian Institute of High Mathematics - National Group on Scientific Calculus, Cagliari Unit
+
 Journal Editor: 
  - Guest Editor of the new Special Issue on [Decision Support System and Explainable AI (XAI) to improve Human – Computer Interaction and Teaming](https://www.frontiersin.org/research-topics/27887/decision-support-system-and-explainable-ai-xai-to-improve-human---computer-interaction-and-teaming) on *J. of Frontiers in Neuroergonomics*. 
  - Guest Editor of the Future Generation Computer Systems (Elsevier) special issue on [Data Exploration in the Web 3.0 Age](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-data-exploration-in-the-web-30-age). It has been a great success, we received almost 30 submissions!
