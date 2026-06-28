@@ -30,7 +30,7 @@ Highlights
 ----------
 - Our work on [Evaluating password strength based on information spread on social networks](https://www.sciencedirect.com/science/article/pii/S246869642400003X) (joint work with University of Salerno) has been recently [featured on **Help Net Security**](https://www.helpnetsecurity.com/2025/11/28/research-social-media-password-risk/) a well-known online publication covering cybersecurity news (Nov 2025).
 
-- our [delta-presence](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) data anonymity attack and sanitization has been [featured on Springer's Encyclopedia of Cryptography, Security and Privacy](https://doi.org/10.1007/978-3-642-27739-9_1570-1) and **became part of an official Google product**! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
+- our [delta-presence](http://groups.di.unipi.it/~atzori/papers/dpresence_sigmod07.pdf) data anonymity attack and sanitization has been [featured on Springer's Encyclopedia of Cryptography, Security and Privacy](https://link.springer.com/rwe/10.1007/978-3-030-71522-9_1570) and **became part of an official Google product**! See [Google Cloud Data Loss Prevention](https://cloud.google.com/dlp/docs/compute-risk-analysis)
   
 - PI of PRIN22 Project [**DEMON: Detect and Evaluate Manipulation of ONline information**](https://demon.unica.it/), partnering with the internationally distinguished research team of [Prof. Stefano Ceri](https://ceri.faculty.polimi.it/) @ POLIMI (Oct 2023-Feb 2026)
 
